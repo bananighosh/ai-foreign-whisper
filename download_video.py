@@ -26,3 +26,22 @@ for video in p.videos:
     else:
         print(f"Successfuly downloaded {video.title}")
         n_downloads += 1
+
+        # download captions
+        try:
+            if "captions" not in video.vid_info:
+                video.bypass_age_gate()
+                # this fixes missing caption bug
+                # https://github.com/pytube/pytube/issues/1674
+            assert "captions" in video.vid_info
+
+            # write english captions
+            captions = video.captions["a.en"]
+            with open(f"{video.title}_captions.txt", "w") as f:
+                f.write(captions.generate_srt_captions())
+                # this part is buggy, see issue here
+                # https://github.com/pytube/pytube/issues/1085
+        except KeyError:
+            print(f"error download captions for {video.title}")
+        else:
+            print(f"successfully download captions for {video.title}")
