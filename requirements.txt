@@ -4,6 +4,6 @@ google-auth-oauthlib
 selenium
 pandas
 
-pytube == 12.1.3
+pytube
 youtube-transcript-api
 

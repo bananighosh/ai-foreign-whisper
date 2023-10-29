@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Sample Python code for youtube.playlistItems.list
+# Python code for youtube.playlistItems.list
 # See instructions for running these code samples locally:
 # https://developers.google.com/explorer-help/code-samples#python
 
@@ -104,66 +104,36 @@ def get_videos_list(youtube, interviews_playlist_id, maxResults=10):
     response = request.execute()
     response_parsed = json_parsed_response(response)
 
-    # print(response_parsed["items"][0]["contentDetails"]["videoId"])
-    # print(response_parsed["items"][0]["snippet"]["title"])
-    # print(response_parsed["items"][0]["snippet"]["resourceId"]["videoId"])
-
     return response_parsed
-    # return json_parsed_response(response)
 
 def get_captions_list(youtube, video_list):
     captions = []
     n_downloads = 0
+    destination_folder = "./captions"
+    pathlib.Path(destination_folder).mkdir(parents=True, exist_ok=True)
     try:
         for video in video_list["items"]:
-
-            # if n_downloads >= 10:
-            #     break
-
             # video_id = video["contentDetails"]["videoId"]
             video_id = video["snippet"]["resourceId"]["videoId"]
             video_title = video['snippet']['title']
             print(f"In captions {video_title}")
             # print(f"In captions {video_id}")
 
-            # if "Private" not in video_title:
-            #     request = youtube.captions().list(
-            #                                     part="id",
-            #                                     videoId=video_id
-            #                                     )
-            #     response = request.execute()
-            #     response_parsed = json_parsed_response(response)
-            #     captions.append(response_parsed)
-            
-            # srt = YouTubeTranscriptApi.get_transcript(video_id)
- 
-            # creating or overwriting a file "subtitles.txt" with 
-            # the info inside the context manager
-            # make a directory to download videos into
-            # destination_folder = "./captions"
-            # pathlib.Path(destination_folder).mkdir(parents=True, exist_ok=True)
-            # d_file = destination_folder +"subtitles_" + video_title + ".txt"
-
-            # with open(d_file, "w") as f:
-            
-            #         # iterating through each element of list srt
-            #     for i in srt:
-            #         # writing each element of srt on a new line
-            #         f.write("{}\n".format(i))
-            # captions.append(d_file)
-
             # Get the captions
             try:
                 captions = YouTubeTranscriptApi.get_transcript(video_id)
+                # print(captions)
                 # Save the captions to a file
-                with open(f"{video_title}.txt", "w", encoding="utf-8") as file:
+                # d_file = destination_folder + "{video_title}"
+                dest_file = os.path.join(destination_folder, video_title +".txt")
+                with open(dest_file, "w", encoding="utf-8") as file:
                     for caption in captions:
-                        file.write(caption["text"] + "\n")
+                        # print(caption)
+                        file.write(json.dumps(caption) + "\n")
                 print(f"Captions saved for {video_title}")
             except Exception as e:
                 print(f"Error fetching captions for {video_title}: {str(e)}")
             
-            # n_downloads =  n_downloads + 1
     except ValueError:
         print(f"error download captions for {video_id}")
                 
@@ -199,7 +169,6 @@ def download_caption_id(youtube, captions_list):
             print(f"successfully download captions for {caption}")
 
 
-
 def main():
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.x
@@ -214,7 +183,10 @@ def main():
     # URL: "https://www.youtube.com/playlist?list=PLI1yx5Z0Lrv77D_g1tvF9u3FVqnrNbCRL"
     # ID: "PLI1yx5Z0Lrv77D_g1tvF9u3FVqnrNbCRL"
     interviews_playlist = "PLI1yx5Z0Lrv77D_g1tvF9u3FVqnrNbCRL"
-    num_videos = 10
+
+    # Refer caption_string_output.log.txt
+    # as 2 videos were reported to not have subtitles Error: "Subtitles are disabled for this video"
+    num_videos = 12
     video_list = get_videos_list(youtube, interviews_playlist, num_videos)
     captions_list = get_captions_list(youtube, video_list)
 
