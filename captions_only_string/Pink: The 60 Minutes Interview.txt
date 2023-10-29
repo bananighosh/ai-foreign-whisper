@@ -1,279 +1,279 @@
-{"text": "2023 has been a year of soldout Stadium", "start": 4.88, "duration": 4.96}
-{"text": "concerts but only one of the women", "start": 7.839, "duration": 3.96}
-{"text": "breaking attendance records has built a", "start": 9.84, "duration": 4.799}
-{"text": "global brand singing upside down", "start": 11.799, "duration": 4.921}
-{"text": "highflying stunts are only part of her", "start": 14.639, "duration": 4.761}
-{"text": "appeal Alicia Moore is known as much for", "start": 16.72, "duration": 5.0}
-{"text": "her party anthems as her Powerhouse", "start": 19.4, "duration": 5.16}
-{"text": "voice and if the name is unfamiliar it's", "start": 21.72, "duration": 5.04}
-{"text": "because she's best known by her one-word", "start": 24.56, "duration": 5.559}
-{"text": "professional identity pink pink famously", "start": 26.76, "duration": 5.799}
-{"text": "has no filter and fans who have followed", "start": 30.119, "duration": 5.081}
-{"text": "her 25y year career have come to expect", "start": 32.559, "duration": 5.121}
-{"text": "her to share every detail of her", "start": 35.2, "duration": 4.72}
-{"text": "sometimes troubled", "start": 37.68, "duration": 7.16}
-{"text": "story the story will continue in a", "start": 39.92, "duration": 4.92}
-{"text": "moment do I have this right you're", "start": 45.199, "duration": 5.2}
-{"text": "willing to talk about anything any", "start": 47.96, "duration": 3.96}
-{"text": "question is fine there's no offense", "start": 50.399, "duration": 4.081}
-{"text": "taken yeah it's all I'm I'm open to all", "start": 51.92, "duration": 5.56}
-{"text": "of it a lot of people in your world", "start": 54.48, "duration": 6.28}
-{"text": "thrive on protecting privacy", "start": 57.48, "duration": 5.96}
-{"text": "you're an open book why I guess I look", "start": 60.76, "duration": 5.16}
-{"text": "at it in a very specific way if I'm a", "start": 63.44, "duration": 4.48}
-{"text": "mystery to you how can I expect you to", "start": 65.92, "duration": 3.36}
-{"text": "connect with me and if I'm a person", "start": 67.92, "duration": 3.68}
-{"text": "that's desperate for connection then why", "start": 69.28, "duration": 4.12}
-{"text": "would mystery be interesting to me I", "start": 71.6, "duration": 4.68}
-{"text": "want to know you I want you to know me", "start": 73.4, "duration": 4.8}
-{"text": "all right you guys want to start with", "start": 76.28, "duration": 4.6}
-{"text": "start by coming to one of her concerts", "start": 78.2, "duration": 4.4}
-{"text": "we were there for her homecoming shows", "start": 80.88, "duration": 4.599}
-{"text": "in Philadelphia last month One Stop on a", "start": 82.6, "duration": 5.8}
-{"text": "year and a half long tour hello", "start": 85.479, "duration": 5.401}
-{"text": "beautiful people", "start": 88.4, "duration": 4.56}
-{"text": "she's already set attendance records in", "start": 90.88, "duration": 5.04}
-{"text": "stadiums around the", "start": 92.96, "duration": 2.96}
-{"text": "world and sold more than $350 million in", "start": 97.159, "duration": 7.55}
-{"text": "[Music]", "start": 101.59, "duration": 3.119}
-{"text": "[Applause]", "start": 105.38, "duration": 6.94}
-{"text": "tickets a pink concert is part Rock", "start": 107.56, "duration": 4.76}
-{"text": "rager Park Broadway spectacle never", "start": 116.119, "duration": 5.441}
-{"text": "going", "start": 119.96, "duration": 5.799}
-{"text": "to again never going", "start": 121.56, "duration": 5.8}
-{"text": "to", "start": 125.759, "duration": 6.151}
-{"text": "again with some Tinker Bells sprinkled", "start": 127.36, "duration": 6.08}
-{"text": "[Applause]", "start": 131.91, "duration": 4.45}
-{"text": "in she belts out her hits while flipping", "start": 133.44, "duration": 5.72}
-{"text": "and flying 100 fet in the air and she", "start": 136.36, "duration": 5.76}
-{"text": "does it without lip", "start": 139.16, "duration": 5.52}
-{"text": "syncing when she says she actually sings", "start": 142.12, "duration": 6.36}
-{"text": "better upside down", "start": 144.68, "duration": 3.8}
-{"text": "believer", "start": 148.76, "duration": 3.0}
-{"text": "Now 44 when she looks out into the crowd", "start": 154.44, "duration": 5.519}
-{"text": "she sees a lot more moms and dads she", "start": 157.239, "duration": 5.28}
-{"text": "calls herself and her fans the uncool", "start": 159.959, "duration": 5.041}
-{"text": "kids and takes great pleasure in taking", "start": 162.519, "duration": 5.121}
-{"text": "on their haters whether in her shows or", "start": 165.0, "duration": 5.4}
-{"text": "on social media her message is don't", "start": 167.64, "duration": 5.84}
-{"text": "mess with them or", "start": 170.4, "duration": 6.6}
-{"text": "me this image that you've created you've", "start": 173.48, "duration": 4.92}
-{"text": "got this famous", "start": 177.0, "duration": 5.12}
-{"text": "snarl yeah right I wonder if when that", "start": 178.4, "duration": 7.32}
-{"text": "started the message was this is a woman", "start": 182.12, "duration": 5.8}
-{"text": "that you don't want to mess with well", "start": 185.72, "duration": 3.519}
-{"text": "this is a woman you don't want to mess", "start": 187.92, "duration": 3.879}
-{"text": "with is a true statement I know what", "start": 189.239, "duration": 4.161}
-{"text": "certain people think of when they look", "start": 191.799, "duration": 5.08}
-{"text": "at me down to the fact that I'm muscular", "start": 193.4, "duration": 6.559}
-{"text": "I'm outspoken and I have short hair I'm", "start": 196.879, "duration": 6.321}
-{"text": "possibly a dude definitely a lesbian", "start": 199.959, "duration": 6.2}
-{"text": "people sort of put you in a box no", "start": 203.2, "duration": 4.92}
-{"text": "matter what you look like and my box", "start": 206.159, "duration": 5.601}
-{"text": "happens to be if if you're outspoken and", "start": 208.12, "duration": 8.08}
-{"text": "you don't sort of Bend to societal Norms", "start": 211.76, "duration": 7.6}
-{"text": "then you're scary and dangerous and the", "start": 216.2, "duration": 6.88}
-{"text": "reality is the reality is I am the", "start": 219.36, "duration": 7.36}
-{"text": "goofiest most fun loving person that", "start": 223.08, "duration": 6.359}
-{"text": "will possibly kick your ass if I have", "start": 226.72, "duration": 5.879}
-{"text": "to come on children these days life is", "start": 229.439, "duration": 5.841}
-{"text": "less get the party started and more get", "start": 232.599, "duration": 6.081}
-{"text": "these kids to bed her six-year-old son", "start": 235.28, "duration": 6.679}
-{"text": "Jameson push and 12-year-old daughter", "start": 238.68, "duration": 6.04}
-{"text": "Willow are often on tour with her riding", "start": 241.959, "duration": 5.28}
-{"text": "their scooters on stage during sound", "start": 244.72, "duration": 5.48}
-{"text": "checks for the hometown show in Philly", "start": 247.239, "duration": 5.161}
-{"text": "Pink's husband Motocross star Carrie", "start": 250.2, "duration": 5.64}
-{"text": "Hart was there and so was her mom Judy", "start": 252.4, "duration": 6.04}
-{"text": "this is our tour Library backstage", "start": 255.84, "duration": 4.72}
-{"text": "there's a library where the team swaps", "start": 258.44, "duration": 4.759}
-{"text": "books pink has a romantic novel she", "start": 260.56, "duration": 5.199}
-{"text": "needs to return we have a", "start": 263.199, "duration": 5.161}
-{"text": "little sheet you actually have a sign", "start": 265.759, "duration": 4.921}
-{"text": "wish I had the thing but we don't have", "start": 268.36, "duration": 4.32}
-{"text": "that so I've been backstage for other", "start": 270.68, "duration": 4.16}
-{"text": "artists and some of the things I've seen", "start": 272.68, "duration": 5.92}
-{"text": "are lot of booze lot of party cool my", "start": 274.84, "duration": 5.079}
-{"text": "dressing room used to be like whiskey", "start": 278.6, "duration": 2.879}
-{"text": "and cigarettes then it was ball pits and", "start": 279.919, "duration": 3.681}
-{"text": "stuffed", "start": 281.479, "duration": 5.321}
-{"text": "animals when she's not on the road she's", "start": 283.6, "duration": 4.68}
-{"text": "home in Southern", "start": 286.8, "duration": 3.839}
-{"text": "California this is where she's Alicia", "start": 288.28, "duration": 4.88}
-{"text": "Moore a mohawk wearing mom who bakes", "start": 290.639, "duration": 5.481}
-{"text": "sourdough and is part of the", "start": 293.16, "duration": 5.8}
-{"text": "PTA she's either driving for school drop", "start": 296.12, "duration": 5.56}
-{"text": "off or or driving a forklift on her 25", "start": 298.96, "duration": 5.239}
-{"text": "acre Vineyard she says she schooled", "start": 301.68, "duration": 4.84}
-{"text": "herself on the science of wine making by", "start": 304.199, "duration": 6.241}
-{"text": "studying lat to the night after her", "start": 306.52, "duration": 3.92}
-{"text": "shows so do I have this correct you", "start": 310.479, "duration": 5.241}
-{"text": "don't make pink Ros\u00e9 I do not make pink", "start": 313.28, "duration": 4.96}
-{"text": "Ros\u00e9 my ganache is it looks like a white", "start": 315.72, "duration": 6.16}
-{"text": "wine occasionally it's a bit Peach but", "start": 318.24, "duration": 7.72}
-{"text": "you drink it I drink a lot well Biggie", "start": 321.88, "duration": 5.8}
-{"text": "Smalls once said never get high on your", "start": 325.96, "duration": 4.959}
-{"text": "own Supply but he sure did I do make a", "start": 327.68, "duration": 6.48}
-{"text": "lot of wine home is also where she makes", "start": 330.919, "duration": 5.601}
-{"text": "music this is my music room it's really", "start": 334.16, "duration": 4.879}
-{"text": "great yeah she's a writer on most of her", "start": 336.52, "duration": 5.56}
-{"text": "songs and says no topic is off limits", "start": 339.039, "duration": 4.641}
-{"text": "not even the ups and downs in her", "start": 342.08, "duration": 4.239}
-{"text": "marriage and you taught yourself to play", "start": 343.68, "duration": 4.88}
-{"text": "on this sort of kind of I mean I can", "start": 346.319, "duration": 4.72}
-{"text": "play halves of songs one of my favorite", "start": 348.56, "duration": 4.6}
-{"text": "songs is Make You Feel My Love and I", "start": 351.039, "duration": 6.561}
-{"text": "played this every day during", "start": 353.16, "duration": 7.759}
-{"text": "Co this is a bob Dylan song made most", "start": 357.6, "duration": 6.08}
-{"text": "recently Famous by Adele it's one of my", "start": 360.919, "duration": 4.201}
-{"text": "favorite", "start": 363.68, "duration": 6.4}
-{"text": "songs when the rain is blowing in your", "start": 365.12, "duration": 9.84}
-{"text": "face and the whole world is on your", "start": 370.08, "duration": 9.28}
-{"text": "c i could offer you a warm", "start": 374.96, "duration": 8.48}
-{"text": "embrace To Make You Feel My", "start": 379.36, "duration": 7.52}
-{"text": "Love so I played that every day wow", "start": 383.44, "duration": 6.319}
-{"text": "until I was good enough to go on stage", "start": 386.88, "duration": 5.28}
-{"text": "and play an instrument she grew up", "start": 389.759, "duration": 4.921}
-{"text": "singing opera and gospel in Doylestown", "start": 392.16, "duration": 4.8}
-{"text": "Pennsylvania but she says tension at", "start": 394.68, "duration": 4.76}
-{"text": "home made her desperate to leave she", "start": 396.96, "duration": 4.4}
-{"text": "calls her relationship with her father", "start": 399.44, "duration": 4.599}
-{"text": "Jim Moore complicated he served in", "start": 401.36, "duration": 5.679}
-{"text": "Vietnam and passed away two years ago as", "start": 404.039, "duration": 5.361}
-{"text": "a teen arguments with her mother were so", "start": 407.039, "duration": 5.321}
-{"text": "bad pink says one fight got physical and", "start": 409.4, "duration": 5.919}
-{"text": "her mom fell down stairs she now calls", "start": 412.36, "duration": 5.76}
-{"text": "that her one regret in life you said you", "start": 415.319, "duration": 4.921}
-{"text": "were the kid that other moms didn't want", "start": 418.12, "duration": 4.519}
-{"text": "their kids to play with why I was a punk", "start": 420.24, "duration": 5.399}
-{"text": "I had a mouth I was I had a chip on my", "start": 422.639, "duration": 5.24}
-{"text": "shoulder basically I grew up in a house", "start": 425.639, "duration": 4.081}
-{"text": "where every day my parents were", "start": 427.879, "duration": 4.401}
-{"text": "screaming at each other throwing things", "start": 429.72, "duration": 5.44}
-{"text": "hated each other and then I got into", "start": 432.28, "duration": 6.0}
-{"text": "drugs I was selling drugs and then I was", "start": 435.16, "duration": 4.4}
-{"text": "kicked out of the house I dropped out of", "start": 438.28, "duration": 3.72}
-{"text": "high school I was off the rails what", "start": 439.56, "duration": 4.96}
-{"text": "happened on Thanksgiving in", "start": 442.0, "duration": 6.319}
-{"text": "1995 Thanksgiving of 1995 I was at a", "start": 444.52, "duration": 5.519}
-{"text": "rave", "start": 448.319, "duration": 4.041}
-{"text": "and I", "start": 450.039, "duration": 5.681}
-{"text": "overdosed I was", "start": 452.36, "duration": 5.839}
-{"text": "on oh boy", "start": 455.72, "duration": 6.4}
-{"text": "ecstasy angel dust Crystal all kinds of", "start": 458.199, "duration": 7.28}
-{"text": "things and then I was out done too much", "start": 462.12, "duration": 6.4}
-{"text": "you almost died yeah remember she says", "start": 465.479, "duration": 5.28}
-{"text": "that was the end of hard drugs for her", "start": 468.52, "duration": 4.079}
-{"text": "and weeks later got her first record", "start": 470.759, "duration": 4.4}
-{"text": "deal as the lead singer in an R&B girl", "start": 472.599, "duration": 5.961}
-{"text": "group but they didn't last long so when", "start": 475.159, "duration": 5.88}
-{"text": "you're starting out the industry sort of", "start": 478.56, "duration": 4.759}
-{"text": "seems like they've got you going down a", "start": 481.039, "duration": 5.201}
-{"text": "path they paint you with an R&B brush", "start": 483.319, "duration": 5.44}
-{"text": "yes I signed to laf face records we were", "start": 486.24, "duration": 5.679}
-{"text": "the token white girls on a black label I", "start": 488.759, "duration": 5.12}
-{"text": "was told to take etiquette classes very", "start": 491.919, "duration": 4.481}
-{"text": "early on uh they wanted me to learn how", "start": 493.879, "duration": 4.72}
-{"text": "to wear dresses and use the Right Fork", "start": 496.4, "duration": 5.239}
-{"text": "how'd that work out I went once but it", "start": 498.599, "duration": 6.081}
-{"text": "didn't work what did they not like I", "start": 501.639, "duration": 4.161}
-{"text": "think they were trying to turn me into", "start": 504.68, "duration": 2.799}
-{"text": "something that I didn't want to be image", "start": 505.8, "duration": 4.28}
-{"text": "is everything in this business using her", "start": 507.479, "duration": 5.56}
-{"text": "teenage nickname pink she went solo and", "start": 510.08, "duration": 5.28}
-{"text": "her first album was an R&B double", "start": 513.039, "duration": 4.12}
-{"text": "Platinum", "start": 515.36, "duration": 4.28}
-{"text": "success she then broadened her sound to", "start": 517.159, "duration": 5.44}
-{"text": "include Rock and", "start": 519.64, "duration": 2.959}
-{"text": "pop and not so subtly named her next", "start": 524.32, "duration": 5.639}
-{"text": "album", "start": 527.24, "duration": 2.719}
-{"text": "misunderstood it was a career defining", "start": 534.519, "duration": 5.32}
-{"text": "hit selling 15 million cop cies around", "start": 537.08, "duration": 4.03}
-{"text": "the", "start": 539.839, "duration": 3.891}
-{"text": "[Music]", "start": 541.11, "duration": 3.7}
-{"text": "[Applause]", "start": 543.73, "duration": 6.39}
-{"text": "[Music]", "start": 544.81, "duration": 8.35}
-{"text": "world you'd said in the past it felt", "start": 550.12, "duration": 4.839}
-{"text": "like you were never winning the", "start": 553.16, "duration": 4.48}
-{"text": "popularity contest among your peers what", "start": 554.959, "duration": 5.201}
-{"text": "do you mean by that we sold 3 million", "start": 557.64, "duration": 6.12}
-{"text": "tickets in the last 6 months but you", "start": 560.16, "duration": 5.72}
-{"text": "don't really hear about it unless you", "start": 563.76, "duration": 4.88}
-{"text": "went so at the end of the day do I give", "start": 565.88, "duration": 7.28}
-{"text": "a who talks about me as long as the mom", "start": 568.64, "duration": 7.439}
-{"text": "and the daughter or the dad who's in the", "start": 573.16, "duration": 5.56}
-{"text": "pink T-shirt as well as his daughter and", "start": 576.079, "duration": 5.44}
-{"text": "her three friends had a fantastic time", "start": 578.72, "duration": 5.119}
-{"text": "or the gay couple that came together and", "start": 581.519, "duration": 5.241}
-{"text": "felt super safe at my show because no", "start": 583.839, "duration": 4.56}
-{"text": "one heckled", "start": 586.76, "duration": 5.84}
-{"text": "them that's what really", "start": 588.399, "duration": 4.201}
-{"text": "matters and then there's", "start": 594.6, "duration": 5.64}
-{"text": "this", "start": 598.12, "duration": 4.36}
-{"text": "we wanted to know how she does it", "start": 600.24, "duration": 5.0}
-{"text": "singing upside down as an asmatic no", "start": 602.48, "duration": 5.52}
-{"text": "less well it took a lot of childhood", "start": 605.24, "duration": 5.24}
-{"text": "gymnastics classes and tortured training", "start": 608.0, "duration": 4.68}
-{"text": "sessions with her aerialist coach Drea", "start": 610.48, "duration": 5.039}
-{"text": "Weber okay tighten up your stomach ready", "start": 612.68, "duration": 8.52}
-{"text": "be nice now sing where there is there is", "start": 615.519, "duration": 9.681}
-{"text": "beame come on there is a flame someone B", "start": 621.2, "duration": 7.96}
-{"text": "to get burned just because it burns", "start": 625.2, "duration": 6.52}
-{"text": "doesn't mean you're going to die you got", "start": 629.16, "duration": 4.96}
-{"text": "to", "start": 631.72, "duration": 2.4}
-{"text": "get I'm not just a singer I'm a gymnast", "start": 634.56, "duration": 4.44}
-{"text": "I can do all kinds of things I'm", "start": 637.32, "duration": 4.6}
-{"text": "physical this body like this the muscles", "start": 639.0, "duration": 6.079}
-{"text": "that that scare people are it's my power", "start": 641.92, "duration": 6.44}
-{"text": "right it's like I don't eat well to look", "start": 645.079, "duration": 7.041}
-{"text": "good I eat well to go far fast and", "start": 648.36, "duration": 7.919}
-{"text": "hard at 53 she is all muscle and make no", "start": 652.12, "duration": 8.18}
-{"text": "mistake as tough as she looks", "start": 656.279, "duration": 7.171}
-{"text": "[Applause]", "start": 660.3, "duration": 3.15}
-{"text": "I realized that the machete that I've", "start": 665.6, "duration": 4.88}
-{"text": "always carried this metaphorical machete", "start": 668.079, "duration": 3.76}
-{"text": "that I've always carried that made me a", "start": 670.48, "duration": 3.0}
-{"text": "really difficult kid is what makes me", "start": 671.839, "duration": 3.961}
-{"text": "really good at what I did today and it", "start": 673.48, "duration": 4.32}
-{"text": "makes me a Survivor do you feel like you", "start": 675.8, "duration": 4.96}
-{"text": "needed that hard Edge that machete to", "start": 677.8, "duration": 5.32}
-{"text": "climb as far as you've climbed in this", "start": 680.76, "duration": 5.199}
-{"text": "business absolutely I never got a record", "start": 683.12, "duration": 5.519}
-{"text": "deal because I was cute I got a record", "start": 685.959, "duration": 4.801}
-{"text": "deal cuz I was fiery I had a lot to say", "start": 688.639, "duration": 5.481}
-{"text": "and I had a voice so I'm relieved I", "start": 690.76, "duration": 5.519}
-{"text": "don't have to fall back on sort of", "start": 694.12, "duration": 5.68}
-{"text": "conventional Beauty and and that doesn't", "start": 696.279, "duration": 5.641}
-{"text": "have to be my thing and I don't have to", "start": 699.8, "duration": 4.08}
-{"text": "keep that up either as I age I don't", "start": 701.92, "duration": 4.88}
-{"text": "have to be that I can be all of this she", "start": 703.88, "duration": 5.959}
-{"text": "won't need a plan B anytime soon but as", "start": 706.8, "duration": 5.08}
-{"text": "she told us at midnight over a glass of", "start": 709.839, "duration": 3.56}
-{"text": "wine in her dressing room in", "start": 711.88, "duration": 5.84}
-{"text": "Philadelphia she is planning the next", "start": 713.399, "duration": 7.0}
-{"text": "chapter it's what any self-respecting", "start": 717.72, "duration": 5.359}
-{"text": "acrobatic sequin loving Entertainer", "start": 720.399, "duration": 5.711}
-{"text": "would do a Las Vegas", "start": 723.079, "duration": 6.131}
-{"text": "[Music]", "start": 726.11, "duration": 3.1}
-{"text": "residency I would like to have the best", "start": 729.32, "duration": 4.84}
-{"text": "show that Vegas has ever seen and I", "start": 731.639, "duration": 5.361}
-{"text": "think that I can for a performer like me", "start": 734.16, "duration": 6.16}
-{"text": "to have a stage that doesn't have to", "start": 737.0, "duration": 7.639}
-{"text": "travel oh my God you can do so much so", "start": 740.32, "duration": 6.199}
-{"text": "all these years in what's the hardest", "start": 744.639, "duration": 4.76}
-{"text": "part about your job now I guess that I", "start": 746.519, "duration": 5.401}
-{"text": "keep demanding more and more and more", "start": 749.399, "duration": 5.12}
-{"text": "and more from myself physically", "start": 751.92, "duration": 4.159}
-{"text": "emotionally", "start": 754.519, "duration": 4.68}
-{"text": "spiritually vocally I want to raise the", "start": 756.079, "duration": 5.88}
-{"text": "bar all the time and I'm sort of going", "start": 759.199, "duration": 5.76}
-{"text": "against time right how do you keep out", "start": 761.959, "duration": 7.041}
-{"text": "doing that I like going against societal", "start": 764.959, "duration": 8.161}
-{"text": "Norms when they say a woman has to slow", "start": 769.0, "duration": 8.16}
-{"text": "down become smaller take up less space", "start": 773.12, "duration": 9.519}
-{"text": "calm down no absolutely not why who says", "start": 777.16, "duration": 8.239}
-{"text": "why can't we ride till the wheels fall", "start": 782.639, "duration": 6.681}
-{"text": "off that's what I plan on", "start": 785.399, "duration": 3.921}
-{"text": "doing go backstage with pink after a", "start": 791.24, "duration": 6.32}
-{"text": "concert come on get in at 60 minutes", "start": 794.639, "duration": 5.801}
-{"text": "overtime.com", "start": 797.56, "duration": 2.88}
+2023 has been a year of soldout Stadium
+concerts but only one of the women
+breaking attendance records has built a
+global brand singing upside down
+highflying stunts are only part of her
+appeal Alicia Moore is known as much for
+her party anthems as her Powerhouse
+voice and if the name is unfamiliar it's
+because she's best known by her one-word
+professional identity pink pink famously
+has no filter and fans who have followed
+her 25y year career have come to expect
+her to share every detail of her
+sometimes troubled
+story the story will continue in a
+moment do I have this right you're
+willing to talk about anything any
+question is fine there's no offense
+taken yeah it's all I'm I'm open to all
+of it a lot of people in your world
+thrive on protecting privacy
+you're an open book why I guess I look
+at it in a very specific way if I'm a
+mystery to you how can I expect you to
+connect with me and if I'm a person
+that's desperate for connection then why
+would mystery be interesting to me I
+want to know you I want you to know me
+all right you guys want to start with
+start by coming to one of her concerts
+we were there for her homecoming shows
+in Philadelphia last month One Stop on a
+year and a half long tour hello
+beautiful people
+she's already set attendance records in
+stadiums around the
+world and sold more than $350 million in
+[Music]
+[Applause]
+tickets a pink concert is part Rock
+rager Park Broadway spectacle never
+going
+to again never going
+to
+again with some Tinker Bells sprinkled
+[Applause]
+in she belts out her hits while flipping
+and flying 100 fet in the air and she
+does it without lip
+syncing when she says she actually sings
+better upside down
+believer
+Now 44 when she looks out into the crowd
+she sees a lot more moms and dads she
+calls herself and her fans the uncool
+kids and takes great pleasure in taking
+on their haters whether in her shows or
+on social media her message is don't
+mess with them or
+me this image that you've created you've
+got this famous
+snarl yeah right I wonder if when that
+started the message was this is a woman
+that you don't want to mess with well
+this is a woman you don't want to mess
+with is a true statement I know what
+certain people think of when they look
+at me down to the fact that I'm muscular
+I'm outspoken and I have short hair I'm
+possibly a dude definitely a lesbian
+people sort of put you in a box no
+matter what you look like and my box
+happens to be if if you're outspoken and
+you don't sort of Bend to societal Norms
+then you're scary and dangerous and the
+reality is the reality is I am the
+goofiest most fun loving person that
+will possibly kick your ass if I have
+to come on children these days life is
+less get the party started and more get
+these kids to bed her six-year-old son
+Jameson push and 12-year-old daughter
+Willow are often on tour with her riding
+their scooters on stage during sound
+checks for the hometown show in Philly
+Pink's husband Motocross star Carrie
+Hart was there and so was her mom Judy
+this is our tour Library backstage
+there's a library where the team swaps
+books pink has a romantic novel she
+needs to return we have a
+little sheet you actually have a sign
+wish I had the thing but we don't have
+that so I've been backstage for other
+artists and some of the things I've seen
+are lot of booze lot of party cool my
+dressing room used to be like whiskey
+and cigarettes then it was ball pits and
+stuffed
+animals when she's not on the road she's
+home in Southern
+California this is where she's Alicia
+Moore a mohawk wearing mom who bakes
+sourdough and is part of the
+PTA she's either driving for school drop
+off or or driving a forklift on her 25
+acre Vineyard she says she schooled
+herself on the science of wine making by
+studying lat to the night after her
+shows so do I have this correct you
+don't make pink Rosé I do not make pink
+Rosé my ganache is it looks like a white
+wine occasionally it's a bit Peach but
+you drink it I drink a lot well Biggie
+Smalls once said never get high on your
+own Supply but he sure did I do make a
+lot of wine home is also where she makes
+music this is my music room it's really
+great yeah she's a writer on most of her
+songs and says no topic is off limits
+not even the ups and downs in her
+marriage and you taught yourself to play
+on this sort of kind of I mean I can
+play halves of songs one of my favorite
+songs is Make You Feel My Love and I
+played this every day during
+Co this is a bob Dylan song made most
+recently Famous by Adele it's one of my
+favorite
+songs when the rain is blowing in your
+face and the whole world is on your
+c i could offer you a warm
+embrace To Make You Feel My
+Love so I played that every day wow
+until I was good enough to go on stage
+and play an instrument she grew up
+singing opera and gospel in Doylestown
+Pennsylvania but she says tension at
+home made her desperate to leave she
+calls her relationship with her father
+Jim Moore complicated he served in
+Vietnam and passed away two years ago as
+a teen arguments with her mother were so
+bad pink says one fight got physical and
+her mom fell down stairs she now calls
+that her one regret in life you said you
+were the kid that other moms didn't want
+their kids to play with why I was a punk
+I had a mouth I was I had a chip on my
+shoulder basically I grew up in a house
+where every day my parents were
+screaming at each other throwing things
+hated each other and then I got into
+drugs I was selling drugs and then I was
+kicked out of the house I dropped out of
+high school I was off the rails what
+happened on Thanksgiving in
+1995 Thanksgiving of 1995 I was at a
+rave
+and I
+overdosed I was
+on oh boy
+ecstasy angel dust Crystal all kinds of
+things and then I was out done too much
+you almost died yeah remember she says
+that was the end of hard drugs for her
+and weeks later got her first record
+deal as the lead singer in an R&B girl
+group but they didn't last long so when
+you're starting out the industry sort of
+seems like they've got you going down a
+path they paint you with an R&B brush
+yes I signed to laf face records we were
+the token white girls on a black label I
+was told to take etiquette classes very
+early on uh they wanted me to learn how
+to wear dresses and use the Right Fork
+how'd that work out I went once but it
+didn't work what did they not like I
+think they were trying to turn me into
+something that I didn't want to be image
+is everything in this business using her
+teenage nickname pink she went solo and
+her first album was an R&B double
+Platinum
+success she then broadened her sound to
+include Rock and
+pop and not so subtly named her next
+album
+misunderstood it was a career defining
+hit selling 15 million cop cies around
+the
+[Music]
+[Applause]
+[Music]
+world you'd said in the past it felt
+like you were never winning the
+popularity contest among your peers what
+do you mean by that we sold 3 million
+tickets in the last 6 months but you
+don't really hear about it unless you
+went so at the end of the day do I give
+a who talks about me as long as the mom
+and the daughter or the dad who's in the
+pink T-shirt as well as his daughter and
+her three friends had a fantastic time
+or the gay couple that came together and
+felt super safe at my show because no
+one heckled
+them that's what really
+matters and then there's
+this
+we wanted to know how she does it
+singing upside down as an asmatic no
+less well it took a lot of childhood
+gymnastics classes and tortured training
+sessions with her aerialist coach Drea
+Weber okay tighten up your stomach ready
+be nice now sing where there is there is
+beame come on there is a flame someone B
+to get burned just because it burns
+doesn't mean you're going to die you got
+to
+get I'm not just a singer I'm a gymnast
+I can do all kinds of things I'm
+physical this body like this the muscles
+that that scare people are it's my power
+right it's like I don't eat well to look
+good I eat well to go far fast and
+hard at 53 she is all muscle and make no
+mistake as tough as she looks
+[Applause]
+I realized that the machete that I've
+always carried this metaphorical machete
+that I've always carried that made me a
+really difficult kid is what makes me
+really good at what I did today and it
+makes me a Survivor do you feel like you
+needed that hard Edge that machete to
+climb as far as you've climbed in this
+business absolutely I never got a record
+deal because I was cute I got a record
+deal cuz I was fiery I had a lot to say
+and I had a voice so I'm relieved I
+don't have to fall back on sort of
+conventional Beauty and and that doesn't
+have to be my thing and I don't have to
+keep that up either as I age I don't
+have to be that I can be all of this she
+won't need a plan B anytime soon but as
+she told us at midnight over a glass of
+wine in her dressing room in
+Philadelphia she is planning the next
+chapter it's what any self-respecting
+acrobatic sequin loving Entertainer
+would do a Las Vegas
+[Music]
+residency I would like to have the best
+show that Vegas has ever seen and I
+think that I can for a performer like me
+to have a stage that doesn't have to
+travel oh my God you can do so much so
+all these years in what's the hardest
+part about your job now I guess that I
+keep demanding more and more and more
+and more from myself physically
+emotionally
+spiritually vocally I want to raise the
+bar all the time and I'm sort of going
+against time right how do you keep out
+doing that I like going against societal
+Norms when they say a woman has to slow
+down become smaller take up less space
+calm down no absolutely not why who says
+why can't we ride till the wheels fall
+off that's what I plan on
+doing go backstage with pink after a
+concert come on get in at 60 minutes
+overtime.com

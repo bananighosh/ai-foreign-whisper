@@ -1,325 +1,325 @@
-{"text": "conventionally 60 Minutes doesn't", "start": 4.74, "duration": 4.62}
-{"text": "profile the same subject twice in two", "start": 6.899, "duration": 5.221}
-{"text": "seasons but convention doesn't intersect", "start": 9.36, "duration": 4.739}
-{"text": "with Pro Football Hall of Famer Dion", "start": 12.12, "duration": 4.739}
-{"text": "Sanders last fall we met Sanders in", "start": 14.099, "duration": 4.381}
-{"text": "Mississippi where he was coaching", "start": 16.859, "duration": 3.661}
-{"text": "Jackson State to prominence in a", "start": 18.48, "duration": 3.719}
-{"text": "conference of historically black", "start": 20.52, "duration": 4.62}
-{"text": "colleges and universities then the man", "start": 22.199, "duration": 5.34}
-{"text": "who calls himself coach prime high", "start": 25.14, "duration": 4.08}
-{"text": "stepped it to Boulder to the University", "start": 27.539, "duration": 4.56}
-{"text": "of Colorado taking his blazingly", "start": 29.22, "duration": 5.82}
-{"text": "singular Style with him there he hasn't", "start": 32.099, "duration": 5.341}
-{"text": "just awoken a dormant program but has", "start": 35.04, "duration": 4.56}
-{"text": "transformed it into the talk of college", "start": 37.44, "duration": 5.58}
-{"text": "football if not American Sports Sanders", "start": 39.6, "duration": 6.479}
-{"text": "is revered he is reviled but a Sudden", "start": 43.02, "duration": 5.699}
-{"text": "Impact is indisputable for the second", "start": 46.079, "duration": 4.621}
-{"text": "time in two radically different", "start": 48.719, "duration": 4.981}
-{"text": "environments Unapologetic as ever he's", "start": 50.7, "duration": 6.42}
-{"text": "shaken the sport like a snow globe", "start": 53.7, "duration": 7.999}
-{"text": "the story will continue in a moment", "start": 57.12, "duration": 4.579}
-{"text": "are you the change agent are you the", "start": 62.46, "duration": 3.24}
-{"text": "ultimate change agent I make a", "start": 64.379, "duration": 4.141}
-{"text": "difference I truly make a difference I", "start": 65.7, "duration": 5.7}
-{"text": "make folks nervous man I give folks", "start": 68.52, "duration": 4.56}
-{"text": "moving in their seat I get folks", "start": 71.4, "duration": 3.42}
-{"text": "twirling their thumbs I get them", "start": 73.08, "duration": 3.539}
-{"text": "thinking and second guessing they said", "start": 74.82, "duration": 3.54}
-{"text": "you know have you ever been so clean", "start": 76.619, "duration": 4.021}
-{"text": "that you walked in and somebody looked", "start": 78.36, "duration": 3.54}
-{"text": "down at you then they looked at", "start": 80.64, "duration": 2.64}
-{"text": "themselves they had to check themselves", "start": 81.9, "duration": 3.719}
-{"text": "because you were so clean I have that", "start": 83.28, "duration": 4.68}
-{"text": "effect that's the vibe you're getting I", "start": 85.619, "duration": 4.941}
-{"text": "have that effect", "start": 87.96, "duration": 2.6}
-{"text": "that was some good game right there but", "start": 91.04, "duration": 5.399}
-{"text": "God that was good we ain't got next", "start": 93.42, "duration": 6.32}
-{"text": "we got now", "start": 96.439, "duration": 3.301}
-{"text": "[Music]", "start": 104.91, "duration": 3.29}
-{"text": "[Applause]", "start": 106.72, "duration": 3.859}
-{"text": "this was the scene in the locker room", "start": 108.2, "duration": 5.3}
-{"text": "two weekends ago", "start": 110.579, "duration": 5.121}
-{"text": "[Applause]", "start": 113.5, "duration": 5.06}
-{"text": "before the Colorado Buffaloes and their", "start": 115.7, "duration": 5.14}
-{"text": "new coach Dion Sanders opened the season", "start": 118.56, "duration": 7.159}
-{"text": "to 21 Point Underdog at PCU good job", "start": 120.84, "duration": 8.72}
-{"text": "Colorado was fresh off a 1 in 11 season", "start": 125.719, "duration": 6.461}
-{"text": "TCU was fresh from playing in last", "start": 129.56, "duration": 5.74}
-{"text": "season's national championship game", "start": 132.18, "duration": 5.66}
-{"text": "with skill and will the Buffaloes won", "start": 135.3, "duration": 5.4}
-{"text": "45-42 behind their Star Quarterback", "start": 137.84, "duration": 5.68}
-{"text": "shudor Sanders but the real Focus as", "start": 140.7, "duration": 5.58}
-{"text": "ever was on shidur's 56 year old father", "start": 143.52, "duration": 5.46}
-{"text": "it was his first win as coach of a power", "start": 146.28, "duration": 5.039}
-{"text": "five School the highest level of college", "start": 148.98, "duration": 3.96}
-{"text": "football do you feel like you were", "start": 151.319, "duration": 3.721}
-{"text": "underestimated if you come here and it's", "start": 152.94, "duration": 4.26}
-{"text": "I don't know if coach Prime can win you", "start": 155.04, "duration": 3.419}
-{"text": "must have heard what some of these other", "start": 157.2, "duration": 5.119}
-{"text": "coaches were saying both secretly", "start": 158.459, "duration": 6.601}
-{"text": "fear yeah that's fear that's like hey", "start": 162.319, "duration": 3.64}
-{"text": "man", "start": 165.06, "duration": 2.459}
-{"text": "shoot we don't want to let that Engine", "start": 165.959, "duration": 3.181}
-{"text": "That Could get going because if that", "start": 167.519, "duration": 3.121}
-{"text": "Engine That Could get going he gonna", "start": 169.14, "duration": 3.36}
-{"text": "start saying I think I can I think I can", "start": 170.64, "duration": 3.0}
-{"text": "the sooner the lady he gonna start", "start": 172.5, "duration": 3.12}
-{"text": "saying I know I can I know I can't then", "start": 173.64, "duration": 3.54}
-{"text": "soon the lady going to start saying I", "start": 175.62, "duration": 2.58}
-{"text": "did that", "start": 177.18, "duration": 3.3}
-{"text": "his Colorado debut Drew national", "start": 178.2, "duration": 6.24}
-{"text": "attention and monster TV ratings", "start": 180.48, "duration": 6.119}
-{"text": "interest compounded last weekend when", "start": 184.44, "duration": 3.659}
-{"text": "the Buffaloes played before the biggest", "start": 186.599, "duration": 4.261}
-{"text": "home crowd in 15 years in beat rival", "start": 188.099, "duration": 5.06}
-{"text": "Nebraska", "start": 190.86, "duration": 2.299}
-{"text": "this weekend both Fox and ESPN", "start": 193.58, "duration": 5.739}
-{"text": "dispatched their pregame shows the rock", "start": 197.159, "duration": 4.621}
-{"text": "included to Boulder then the Buffaloes", "start": 199.319, "duration": 4.741}
-{"text": "rallied late to beat Colorado State in a", "start": 201.78, "duration": 5.42}
-{"text": "double overtime Thriller", "start": 204.06, "duration": 3.14}
-{"text": "three games into the season the", "start": 207.239, "duration": 3.78}
-{"text": "foothills of the Rockies marked the", "start": 209.28, "duration": 4.44}
-{"text": "unlikely epicenter of an entire sport", "start": 211.019, "duration": 5.161}
-{"text": "what's this been like for you", "start": 213.72, "duration": 5.04}
-{"text": "um it's it's been a lot of fun", "start": 216.18, "duration": 5.16}
-{"text": "Rick George who hired coach Prime has", "start": 218.76, "duration": 4.8}
-{"text": "been Colorado's athletic director for a", "start": 221.34, "duration": 5.58}
-{"text": "decade it's great for us to be able to", "start": 223.56, "duration": 6.3}
-{"text": "bring this program back to relevancy and", "start": 226.92, "duration": 5.239}
-{"text": "we had failed in my previous nine years", "start": 229.86, "duration": 5.099}
-{"text": "10 years fair to call this bit of a Hail", "start": 232.159, "duration": 5.44}
-{"text": "Mary it wasn't a Hail Mary but it was a", "start": 234.959, "duration": 5.28}
-{"text": "moment in time for our University and", "start": 237.599, "duration": 4.92}
-{"text": "our athletic department that we were", "start": 240.239, "duration": 3.72}
-{"text": "either going to be relevant or we were", "start": 242.519, "duration": 3.121}
-{"text": "going to be irrelevant", "start": 243.959, "duration": 4.081}
-{"text": "it's too early to quantify the full", "start": 245.64, "duration": 5.78}
-{"text": "Prime effect but merchandise sales up", "start": 248.04, "duration": 7.559}
-{"text": "819 from last season Instagram followers", "start": 251.42, "duration": 7.9}
-{"text": "up more than tenfold season tickets sold", "start": 255.599, "duration": 4.561}
-{"text": "out", "start": 259.32, "duration": 3.12}
-{"text": "Sanders might be the ideal coach for", "start": 260.16, "duration": 4.22}
-{"text": "these shifting times in college football", "start": 262.44, "duration": 5.4}
-{"text": "another son Dion JR is part of the army", "start": 264.38, "duration": 5.379}
-{"text": "of videographers filming the team", "start": 267.84, "duration": 4.799}
-{"text": "non-stop for YouTube and an upcoming", "start": 269.759, "duration": 4.321}
-{"text": "docu-series", "start": 272.639, "duration": 4.381}
-{"text": "steam won one game last season is that", "start": 274.08, "duration": 6.48}
-{"text": "in a way a point of appeal God wouldn't", "start": 277.02, "duration": 5.34}
-{"text": "relocate me to something that was", "start": 280.56, "duration": 4.38}
-{"text": "successful that don't make sense to it", "start": 282.36, "duration": 5.0}
-{"text": "he had to find the most", "start": 284.94, "duration": 6.72}
-{"text": "disappointing in the most uh difficult", "start": 287.36, "duration": 5.74}
-{"text": "task", "start": 291.66, "duration": 3.12}
-{"text": "in this", "start": 293.1, "duration": 4.02}
-{"text": "is what it was and this is what it is", "start": 294.78, "duration": 4.32}
-{"text": "and I love that", "start": 297.12, "duration": 4.139}
-{"text": "this wasn't dissimilar to what he told", "start": 299.1, "duration": 4.74}
-{"text": "us last year that God had called him", "start": 301.259, "duration": 4.5}
-{"text": "collect to come to Jackson State", "start": 303.84, "duration": 3.84}
-{"text": "University and Elevate yes the football", "start": 305.759, "duration": 6.0}
-{"text": "program but also all hbcus", "start": 307.68, "duration": 6.299}
-{"text": "he stayed three seasons but the same", "start": 311.759, "duration": 4.741}
-{"text": "night last December that JSU won the", "start": 313.979, "duration": 4.381}
-{"text": "conference Championship Sanders", "start": 316.5, "duration": 4.139}
-{"text": "announced he was off to Colorado to", "start": 318.36, "duration": 4.32}
-{"text": "climb Another Mountain you left Jackson", "start": 320.639, "duration": 6.0}
-{"text": "State and you left quickness", "start": 322.68, "duration": 3.959}
-{"text": "leave quick I left what I was supposed", "start": 328.68, "duration": 3.18}
-{"text": "to leave", "start": 330.419, "duration": 3.961}
-{"text": "to leave most coaches get a new job and", "start": 331.86, "duration": 4.86}
-{"text": "they leave expeditiously I finished the", "start": 334.38, "duration": 4.2}
-{"text": "task you say finish the task was there", "start": 336.72, "duration": 2.88}
-{"text": "was there more work you could have done", "start": 338.58, "duration": 2.76}
-{"text": "in Jackson or I think we did a", "start": 339.6, "duration": 3.9}
-{"text": "tremendous job in Jackson I think we", "start": 341.34, "duration": 5.04}
-{"text": "laid down the tremendous blueprint", "start": 343.5, "duration": 4.919}
-{"text": "we tried to press Sanders on the", "start": 346.38, "duration": 4.259}
-{"text": "circumstances surrounding his abandoning", "start": 348.419, "duration": 4.801}
-{"text": "the mission at Jackson State he's hinted", "start": 350.639, "duration": 4.441}
-{"text": "the school's lack of Forward Thinking", "start": 353.22, "duration": 4.56}
-{"text": "may have factored in his decision but on", "start": 355.08, "duration": 5.1}
-{"text": "this topic he was about as elusive as he", "start": 357.78, "duration": 4.38}
-{"text": "was returning punts for touchdowns in", "start": 360.18, "duration": 3.72}
-{"text": "the NFL what'd you tell his kids when", "start": 362.16, "duration": 3.3}
-{"text": "you left", "start": 363.9, "duration": 3.06}
-{"text": "um opportunity", "start": 365.46, "duration": 4.92}
-{"text": "called sooner and later in life there", "start": 366.96, "duration": 5.16}
-{"text": "will be opportunity that knocks at your", "start": 370.38, "duration": 4.08}
-{"text": "door and at this juncture in my life I", "start": 372.12, "duration": 4.019}
-{"text": "felt like the opportunity for not only", "start": 374.46, "duration": 3.72}
-{"text": "me but for my kids as well was", "start": 376.139, "duration": 4.861}
-{"text": "tremendous not only did we take several", "start": 378.18, "duration": 5.579}
-{"text": "kids from that team", "start": 381.0, "duration": 4.56}
-{"text": "three trainers", "start": 383.759, "duration": 5.821}
-{"text": "maybe 12 to 14 staffers so we afforded", "start": 385.56, "duration": 6.9}
-{"text": "to give people a tremendous opportunity", "start": 389.58, "duration": 3.959}
-{"text": "here", "start": 392.46, "duration": 3.359}
-{"text": "the distance between Jackson and Boulder", "start": 393.539, "duration": 5.041}
-{"text": "is a thousand miles and immeasurably", "start": 395.819, "duration": 5.641}
-{"text": "further culturally Sanders went from a", "start": 398.58, "duration": 5.339}
-{"text": "city that is 83 percent black to one", "start": 401.46, "duration": 4.98}
-{"text": "that is one percent black from a place", "start": 403.919, "duration": 4.681}
-{"text": "with a Water Crisis to the kind of", "start": 406.44, "duration": 4.259}
-{"text": "hipster college town where there's a", "start": 408.6, "duration": 4.8}
-{"text": "shop devoted to kites what are your", "start": 410.699, "duration": 5.0}
-{"text": "first impressions uh beautiful", "start": 413.4, "duration": 5.82}
-{"text": "unbelievable just the whole peace and", "start": 415.699, "duration": 6.161}
-{"text": "serenity of it all I never fathom coming", "start": 419.22, "duration": 4.259}
-{"text": "here I ain't never even vacation here", "start": 421.86, "duration": 3.6}
-{"text": "man I ain't never been skiing or", "start": 423.479, "duration": 4.261}
-{"text": "whatever you call it snowboarding or", "start": 425.46, "duration": 4.859}
-{"text": "whatever all the stuff you know ain't", "start": 427.74, "duration": 3.78}
-{"text": "never done none of that you don't even", "start": 430.319, "duration": 3.961}
-{"text": "fly fish no I don't I fish", "start": 431.52, "duration": 5.66}
-{"text": "I'm fly why I fish but I don't fly fish", "start": 434.28, "duration": 5.819}
-{"text": "still he wasted no time ingratiating", "start": 437.18, "duration": 5.38}
-{"text": "himself in the community including a", "start": 440.099, "duration": 5.22}
-{"text": "visit to Peggy coppam a 98 year old", "start": 442.56, "duration": 5.9}
-{"text": "Buffalo Super Fan", "start": 445.319, "duration": 3.141}
-{"text": "how about good looking this", "start": 452.88, "duration": 5.64}
-{"text": "he was less embracing of the incumbent", "start": 456.3, "duration": 4.5}
-{"text": "Colorado players at the first team", "start": 458.52, "duration": 4.44}
-{"text": "meeting in December Sanders encouraged", "start": 460.8, "duration": 4.619}
-{"text": "players to enter the transfer portal an", "start": 462.96, "duration": 4.44}
-{"text": "open market for athletes to find new", "start": 465.419, "duration": 4.68}
-{"text": "schools I promise you it's my job to get", "start": 467.4, "duration": 4.799}
-{"text": "rid of them and make room for Superior", "start": 470.099, "duration": 5.1}
-{"text": "Talent he planned to bring in more than", "start": 472.199, "duration": 5.461}
-{"text": "50 players eventually transferred out", "start": 475.199, "duration": 4.5}
-{"text": "you got here and you didn't pull punches", "start": 477.66, "duration": 4.979}
-{"text": "you told some of these guys have I ever", "start": 479.699, "duration": 5.821}
-{"text": "you take a team that's won one game and", "start": 482.639, "duration": 5.221}
-{"text": "you fired a whole coaching staff so who", "start": 485.52, "duration": 4.44}
-{"text": "did the coaching staff recruit", "start": 487.86, "duration": 3.6}
-{"text": "the kids", "start": 489.96, "duration": 4.739}
-{"text": "so the kids are just", "start": 491.46, "duration": 5.459}
-{"text": "as much to blame as the coaching staff", "start": 494.699, "duration": 5.101}
-{"text": "and I came to the conclusion that a", "start": 496.919, "duration": 5.161}
-{"text": "multitude of them can help us get to", "start": 499.8, "duration": 4.14}
-{"text": "where we wanted to go you told most of", "start": 502.08, "duration": 3.42}
-{"text": "these guys the more you jump in the more", "start": 503.94, "duration": 3.06}
-{"text": "room you're going to make those of you", "start": 505.5, "duration": 2.879}
-{"text": "we don't run off we're going to try to", "start": 507.0, "duration": 3.9}
-{"text": "make you quit yeah you made it very", "start": 508.379, "duration": 6.301}
-{"text": "clear yeah now if you went for that if", "start": 510.9, "duration": 6.36}
-{"text": "you were able to let words run you off", "start": 514.68, "duration": 4.68}
-{"text": "you ain't for us because we're old", "start": 517.26, "duration": 4.38}
-{"text": "school staff we coach hard we coach tuck", "start": 519.36, "duration": 5.7}
-{"text": "we're disciplined narrants so if you're", "start": 521.64, "duration": 6.48}
-{"text": "allowing verbiage to run you off because", "start": 525.06, "duration": 4.62}
-{"text": "you don't feel secure with your ability", "start": 528.12, "duration": 3.54}
-{"text": "you ain't for us", "start": 529.68, "duration": 4.2}
-{"text": "if some kid said you know what no I'm", "start": 531.66, "duration": 3.66}
-{"text": "staying you're not going to run me off", "start": 533.88, "duration": 4.019}
-{"text": "with your words right stay so prove it", "start": 535.32, "duration": 5.34}
-{"text": "I'm sure that your straight talk was", "start": 537.899, "duration": 4.56}
-{"text": "appreciated by some but is this scorched", "start": 540.66, "duration": 3.299}
-{"text": "Earth policy good for for college", "start": 542.459, "duration": 4.021}
-{"text": "football or for the kids I think truth", "start": 543.959, "duration": 5.161}
-{"text": "is good for kids we're so busy lying we", "start": 546.48, "duration": 4.38}
-{"text": "don't even recognize the truth no more", "start": 549.12, "duration": 4.32}
-{"text": "in society we want everybody to feel", "start": 550.86, "duration": 4.919}
-{"text": "good that's not that's not the way life", "start": 553.44, "duration": 5.64}
-{"text": "is now it is my job to make sure I have", "start": 555.779, "duration": 5.401}
-{"text": "what we need to win", "start": 559.08, "duration": 4.319}
-{"text": "that makes a lot of people feel good", "start": 561.18, "duration": 4.08}
-{"text": "winning does I got to push back on this", "start": 563.399, "duration": 5.221}
-{"text": "you're a father of college athletes yes", "start": 565.26, "duration": 4.98}
-{"text": "if they called you and say hey we got a", "start": 568.62, "duration": 2.76}
-{"text": "new coach and they're telling me to get", "start": 570.24, "duration": 2.82}
-{"text": "in the transfer portal I say son you", "start": 571.38, "duration": 4.2}
-{"text": "must be you must not be doing well", "start": 573.06, "duration": 4.14}
-{"text": "that's what you said you must not be", "start": 575.58, "duration": 3.72}
-{"text": "doing well because you should be an", "start": 577.2, "duration": 4.8}
-{"text": "asset and not a liability I'm honest", "start": 579.3, "duration": 5.7}
-{"text": "with my kids his kids include shador the", "start": 582.0, "duration": 5.399}
-{"text": "star quarterback in Shiloh of starting", "start": 585.0, "duration": 4.92}
-{"text": "safety if you guys have any idea that", "start": 587.399, "duration": 3.721}
-{"text": "you are going to be this good and", "start": 589.92, "duration": 2.58}
-{"text": "capture the country the way you have", "start": 591.12, "duration": 4.98}
-{"text": "yeah you did yeah we both didn't come", "start": 592.5, "duration": 4.32}
-{"text": "here", "start": 596.1, "duration": 4.32}
-{"text": "have our dad closing just to lose", "start": 596.82, "duration": 5.82}
-{"text": "a year ago to the day we watched the", "start": 600.42, "duration": 4.74}
-{"text": "door fleeing and Zing touchdown passes", "start": 602.64, "duration": 5.04}
-{"text": "at Jackson State", "start": 605.16, "duration": 4.44}
-{"text": "but there were questions about whether", "start": 607.68, "duration": 3.839}
-{"text": "he could do the same against stiffer", "start": 609.6, "duration": 4.26}
-{"text": "competition well in his first two games", "start": 611.519, "duration": 5.461}
-{"text": "at Colorado he threw for nearly 1 000", "start": 613.86, "duration": 6.12}
-{"text": "yards without an interception", "start": 616.98, "duration": 4.919}
-{"text": "you were putting up big numbers at", "start": 619.98, "duration": 4.32}
-{"text": "Jackson State you're doing it here", "start": 621.899, "duration": 5.281}
-{"text": "against teams and the Big Ten yeah the", "start": 624.3, "duration": 5.58}
-{"text": "big 12. must be gratifying yeah now", "start": 627.18, "duration": 4.26}
-{"text": "these two games was the most yards I", "start": 629.88, "duration": 3.12}
-{"text": "passed for in my career", "start": 631.44, "duration": 3.6}
-{"text": "so it's just it's just exciting knowing", "start": 633.0, "duration": 5.04}
-{"text": "that you know to translate and like on a", "start": 635.04, "duration": 4.859}
-{"text": "bigger stage I just feel better he's", "start": 638.04, "duration": 3.66}
-{"text": "also and again welcome to today's", "start": 639.899, "duration": 4.321}
-{"text": "college sports translated his success", "start": 641.7, "duration": 5.579}
-{"text": "into riches thanks to nil name image", "start": 644.22, "duration": 6.179}
-{"text": "likeness income so much so he drives a", "start": 647.279, "duration": 4.74}
-{"text": "one hundred and ninety thousand dollar", "start": 650.399, "duration": 4.56}
-{"text": "Mercedes Maybach and chidur might not", "start": 652.019, "duration": 5.161}
-{"text": "even be the team's best player Travis", "start": 654.959, "duration": 4.32}
-{"text": "Hunter also followed coach Prime from", "start": 657.18, "duration": 4.68}
-{"text": "Jackson to Colorado his coach lets him", "start": 659.279, "duration": 4.861}
-{"text": "play offense and defense virtually", "start": 661.86, "duration": 4.5}
-{"text": "unheard of in the modern college game", "start": 664.14, "duration": 4.74}
-{"text": "you've got two really good Heisman", "start": 666.36, "duration": 4.979}
-{"text": "quality players on this team yes your", "start": 668.88, "duration": 4.56}
-{"text": "son and Travis Hunter yes sir first half", "start": 671.339, "duration": 3.781}
-{"text": "of the first game of the season you're", "start": 673.44, "duration": 4.079}
-{"text": "already publicly talking about Travis", "start": 675.12, "duration": 4.98}
-{"text": "Hunter's Heisman chances who does that a", "start": 677.519, "duration": 5.101}
-{"text": "a coach that loves his kids the coach", "start": 680.1, "duration": 5.52}
-{"text": "that understands that's what those kids", "start": 682.62, "duration": 6.18}
-{"text": "desire and I supposed to do that that's", "start": 685.62, "duration": 4.74}
-{"text": "what we told them when they were coming", "start": 688.8, "duration": 5.279}
-{"text": "and choosing to play for us my kids that", "start": 690.36, "duration": 5.64}
-{"text": "play for me they didn't choose a", "start": 694.079, "duration": 3.121}
-{"text": "university", "start": 696.0, "duration": 3.62}
-{"text": "they chose me that's the difference", "start": 697.2, "duration": 5.22}
-{"text": "coaches have chosen to join Sanders as", "start": 699.62, "duration": 5.44}
-{"text": "well the staff he overhauled and", "start": 702.42, "duration": 5.359}
-{"text": "upgraded includes former head coaches", "start": 705.06, "duration": 5.519}
-{"text": "and former coordinators from schools", "start": 707.779, "duration": 4.781}
-{"text": "like Alabama now that you're a power", "start": 710.579, "duration": 4.741}
-{"text": "Five Guy mm-hmm who's the best coach in", "start": 712.56, "duration": 5.48}
-{"text": "college football today", "start": 715.32, "duration": 2.72}
-{"text": "let me see let me see a mirror so I can", "start": 718.079, "duration": 4.82}
-{"text": "look at it", "start": 720.54, "duration": 2.359}
-{"text": "you feel that", "start": 723.24, "duration": 3.719}
-{"text": "you think I'm gonna sit up here and tell", "start": 724.82, "duration": 3.82}
-{"text": "you somebody else", "start": 726.959, "duration": 3.481}
-{"text": "you think you think that's the way I", "start": 728.64, "duration": 3.6}
-{"text": "operate that somebody else got that on", "start": 730.44, "duration": 4.079}
-{"text": "me but I tell you this", "start": 732.24, "duration": 7.38}
-{"text": "I love and I adore and I respect and", "start": 734.519, "duration": 7.861}
-{"text": "every time I do a commercial with Coach", "start": 739.62, "duration": 6.6}
-{"text": "Saban it's a gift just sitting in his", "start": 742.38, "duration": 6.36}
-{"text": "presence and hearing him and and", "start": 746.22, "duration": 4.14}
-{"text": "throwing something else out there so I", "start": 748.74, "duration": 3.24}
-{"text": "could hear his viewpoint on it because", "start": 750.36, "duration": 4.919}
-{"text": "he's forgotten more things than I may", "start": 751.98, "duration": 7.62}
-{"text": "ever accomplish so I'm a student looking", "start": 755.279, "duration": 7.321}
-{"text": "up to this wonderful teacher saying", "start": 759.6, "duration": 5.64}
-{"text": "just just throw me a crumb of what you", "start": 762.6, "duration": 3.78}
-{"text": "know", "start": 765.24, "duration": 3.539}
-{"text": "for all the bling and Bluster there is", "start": 766.38, "duration": 5.04}
-{"text": "some humility and the current Mania may", "start": 768.779, "duration": 4.8}
-{"text": "die down a bit as Colorado faces a", "start": 771.42, "duration": 4.02}
-{"text": "Welter of tougher opponents the rest of", "start": 773.579, "duration": 3.781}
-{"text": "the season", "start": 775.44, "duration": 4.74}
-{"text": "but Dion Sanders has invigorated the", "start": 777.36, "duration": 6.36}
-{"text": "campus a program an entire sport game", "start": 780.18, "duration": 5.64}
-{"text": "ball Peggy", "start": 783.72, "duration": 3.96}
-{"text": "and damn if", "start": 785.82, "duration": 5.23}
-{"text": "fun give me my theme music", "start": 787.68, "duration": 9.36}
-{"text": "[Applause]", "start": 791.05, "duration": 5.99}
+conventionally 60 Minutes doesn't
+profile the same subject twice in two
+seasons but convention doesn't intersect
+with Pro Football Hall of Famer Dion
+Sanders last fall we met Sanders in
+Mississippi where he was coaching
+Jackson State to prominence in a
+conference of historically black
+colleges and universities then the man
+who calls himself coach prime high
+stepped it to Boulder to the University
+of Colorado taking his blazingly
+singular Style with him there he hasn't
+just awoken a dormant program but has
+transformed it into the talk of college
+football if not American Sports Sanders
+is revered he is reviled but a Sudden
+Impact is indisputable for the second
+time in two radically different
+environments Unapologetic as ever he's
+shaken the sport like a snow globe
+the story will continue in a moment
+are you the change agent are you the
+ultimate change agent I make a
+difference I truly make a difference I
+make folks nervous man I give folks
+moving in their seat I get folks
+twirling their thumbs I get them
+thinking and second guessing they said
+you know have you ever been so clean
+that you walked in and somebody looked
+down at you then they looked at
+themselves they had to check themselves
+because you were so clean I have that
+effect that's the vibe you're getting I
+have that effect
+that was some good game right there but
+God that was good we ain't got next
+we got now
+[Music]
+[Applause]
+this was the scene in the locker room
+two weekends ago
+[Applause]
+before the Colorado Buffaloes and their
+new coach Dion Sanders opened the season
+to 21 Point Underdog at PCU good job
+Colorado was fresh off a 1 in 11 season
+TCU was fresh from playing in last
+season's national championship game
+with skill and will the Buffaloes won
+45-42 behind their Star Quarterback
+shudor Sanders but the real Focus as
+ever was on shidur's 56 year old father
+it was his first win as coach of a power
+five School the highest level of college
+football do you feel like you were
+underestimated if you come here and it's
+I don't know if coach Prime can win you
+must have heard what some of these other
+coaches were saying both secretly
+fear yeah that's fear that's like hey
+man
+shoot we don't want to let that Engine
+That Could get going because if that
+Engine That Could get going he gonna
+start saying I think I can I think I can
+the sooner the lady he gonna start
+saying I know I can I know I can't then
+soon the lady going to start saying I
+did that
+his Colorado debut Drew national
+attention and monster TV ratings
+interest compounded last weekend when
+the Buffaloes played before the biggest
+home crowd in 15 years in beat rival
+Nebraska
+this weekend both Fox and ESPN
+dispatched their pregame shows the rock
+included to Boulder then the Buffaloes
+rallied late to beat Colorado State in a
+double overtime Thriller
+three games into the season the
+foothills of the Rockies marked the
+unlikely epicenter of an entire sport
+what's this been like for you
+um it's it's been a lot of fun
+Rick George who hired coach Prime has
+been Colorado's athletic director for a
+decade it's great for us to be able to
+bring this program back to relevancy and
+we had failed in my previous nine years
+10 years fair to call this bit of a Hail
+Mary it wasn't a Hail Mary but it was a
+moment in time for our University and
+our athletic department that we were
+either going to be relevant or we were
+going to be irrelevant
+it's too early to quantify the full
+Prime effect but merchandise sales up
+819 from last season Instagram followers
+up more than tenfold season tickets sold
+out
+Sanders might be the ideal coach for
+these shifting times in college football
+another son Dion JR is part of the army
+of videographers filming the team
+non-stop for YouTube and an upcoming
+docu-series
+steam won one game last season is that
+in a way a point of appeal God wouldn't
+relocate me to something that was
+successful that don't make sense to it
+he had to find the most
+disappointing in the most uh difficult
+task
+in this
+is what it was and this is what it is
+and I love that
+this wasn't dissimilar to what he told
+us last year that God had called him
+collect to come to Jackson State
+University and Elevate yes the football
+program but also all hbcus
+he stayed three seasons but the same
+night last December that JSU won the
+conference Championship Sanders
+announced he was off to Colorado to
+climb Another Mountain you left Jackson
+State and you left quickness
+leave quick I left what I was supposed
+to leave
+to leave most coaches get a new job and
+they leave expeditiously I finished the
+task you say finish the task was there
+was there more work you could have done
+in Jackson or I think we did a
+tremendous job in Jackson I think we
+laid down the tremendous blueprint
+we tried to press Sanders on the
+circumstances surrounding his abandoning
+the mission at Jackson State he's hinted
+the school's lack of Forward Thinking
+may have factored in his decision but on
+this topic he was about as elusive as he
+was returning punts for touchdowns in
+the NFL what'd you tell his kids when
+you left
+um opportunity
+called sooner and later in life there
+will be opportunity that knocks at your
+door and at this juncture in my life I
+felt like the opportunity for not only
+me but for my kids as well was
+tremendous not only did we take several
+kids from that team
+three trainers
+maybe 12 to 14 staffers so we afforded
+to give people a tremendous opportunity
+here
+the distance between Jackson and Boulder
+is a thousand miles and immeasurably
+further culturally Sanders went from a
+city that is 83 percent black to one
+that is one percent black from a place
+with a Water Crisis to the kind of
+hipster college town where there's a
+shop devoted to kites what are your
+first impressions uh beautiful
+unbelievable just the whole peace and
+serenity of it all I never fathom coming
+here I ain't never even vacation here
+man I ain't never been skiing or
+whatever you call it snowboarding or
+whatever all the stuff you know ain't
+never done none of that you don't even
+fly fish no I don't I fish
+I'm fly why I fish but I don't fly fish
+still he wasted no time ingratiating
+himself in the community including a
+visit to Peggy coppam a 98 year old
+Buffalo Super Fan
+how about good looking this
+he was less embracing of the incumbent
+Colorado players at the first team
+meeting in December Sanders encouraged
+players to enter the transfer portal an
+open market for athletes to find new
+schools I promise you it's my job to get
+rid of them and make room for Superior
+Talent he planned to bring in more than
+50 players eventually transferred out
+you got here and you didn't pull punches
+you told some of these guys have I ever
+you take a team that's won one game and
+you fired a whole coaching staff so who
+did the coaching staff recruit
+the kids
+so the kids are just
+as much to blame as the coaching staff
+and I came to the conclusion that a
+multitude of them can help us get to
+where we wanted to go you told most of
+these guys the more you jump in the more
+room you're going to make those of you
+we don't run off we're going to try to
+make you quit yeah you made it very
+clear yeah now if you went for that if
+you were able to let words run you off
+you ain't for us because we're old
+school staff we coach hard we coach tuck
+we're disciplined narrants so if you're
+allowing verbiage to run you off because
+you don't feel secure with your ability
+you ain't for us
+if some kid said you know what no I'm
+staying you're not going to run me off
+with your words right stay so prove it
+I'm sure that your straight talk was
+appreciated by some but is this scorched
+Earth policy good for for college
+football or for the kids I think truth
+is good for kids we're so busy lying we
+don't even recognize the truth no more
+in society we want everybody to feel
+good that's not that's not the way life
+is now it is my job to make sure I have
+what we need to win
+that makes a lot of people feel good
+winning does I got to push back on this
+you're a father of college athletes yes
+if they called you and say hey we got a
+new coach and they're telling me to get
+in the transfer portal I say son you
+must be you must not be doing well
+that's what you said you must not be
+doing well because you should be an
+asset and not a liability I'm honest
+with my kids his kids include shador the
+star quarterback in Shiloh of starting
+safety if you guys have any idea that
+you are going to be this good and
+capture the country the way you have
+yeah you did yeah we both didn't come
+here
+have our dad closing just to lose
+a year ago to the day we watched the
+door fleeing and Zing touchdown passes
+at Jackson State
+but there were questions about whether
+he could do the same against stiffer
+competition well in his first two games
+at Colorado he threw for nearly 1 000
+yards without an interception
+you were putting up big numbers at
+Jackson State you're doing it here
+against teams and the Big Ten yeah the
+big 12. must be gratifying yeah now
+these two games was the most yards I
+passed for in my career
+so it's just it's just exciting knowing
+that you know to translate and like on a
+bigger stage I just feel better he's
+also and again welcome to today's
+college sports translated his success
+into riches thanks to nil name image
+likeness income so much so he drives a
+one hundred and ninety thousand dollar
+Mercedes Maybach and chidur might not
+even be the team's best player Travis
+Hunter also followed coach Prime from
+Jackson to Colorado his coach lets him
+play offense and defense virtually
+unheard of in the modern college game
+you've got two really good Heisman
+quality players on this team yes your
+son and Travis Hunter yes sir first half
+of the first game of the season you're
+already publicly talking about Travis
+Hunter's Heisman chances who does that a
+a coach that loves his kids the coach
+that understands that's what those kids
+desire and I supposed to do that that's
+what we told them when they were coming
+and choosing to play for us my kids that
+play for me they didn't choose a
+university
+they chose me that's the difference
+coaches have chosen to join Sanders as
+well the staff he overhauled and
+upgraded includes former head coaches
+and former coordinators from schools
+like Alabama now that you're a power
+Five Guy mm-hmm who's the best coach in
+college football today
+let me see let me see a mirror so I can
+look at it
+you feel that
+you think I'm gonna sit up here and tell
+you somebody else
+you think you think that's the way I
+operate that somebody else got that on
+me but I tell you this
+I love and I adore and I respect and
+every time I do a commercial with Coach
+Saban it's a gift just sitting in his
+presence and hearing him and and
+throwing something else out there so I
+could hear his viewpoint on it because
+he's forgotten more things than I may
+ever accomplish so I'm a student looking
+up to this wonderful teacher saying
+just just throw me a crumb of what you
+know
+for all the bling and Bluster there is
+some humility and the current Mania may
+die down a bit as Colorado faces a
+Welter of tougher opponents the rest of
+the season
+but Dion Sanders has invigorated the
+campus a program an entire sport game
+ball Peggy
+and damn if
+fun give me my theme music
+[Applause]

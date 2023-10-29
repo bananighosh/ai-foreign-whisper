@@ -1,269 +1,269 @@
-{"text": "tonight Scott Pelley reports from", "start": 1.5, "duration": 4.859}
-{"text": "Ukraine where he sat down with president", "start": 3.959, "duration": 7.14}
-{"text": "velodimir zielinski in the capital keep", "start": 6.359, "duration": 9.261}
-{"text": "the story will continue in a moment", "start": 11.099, "duration": 4.521}
-{"text": "we met president zielinski as he", "start": 17.039, "duration": 4.381}
-{"text": "prepared to depart key for the United", "start": 19.32, "duration": 4.68}
-{"text": "States this week he will speak at the", "start": 21.42, "duration": 5.88}
-{"text": "U.N and meet President Biden it is a", "start": 24.0, "duration": 6.48}
-{"text": "critical time U.S officials tell us that", "start": 27.3, "duration": 7.08}
-{"text": "over nearly 600 days almost half a", "start": 30.48, "duration": 6.419}
-{"text": "million troops have been killed or", "start": 34.38, "duration": 5.999}
-{"text": "wounded both sides altogether", "start": 36.899, "duration": 6.541}
-{"text": "part of the cost so far of Vladimir", "start": 40.379, "duration": 6.661}
-{"text": "Putin's unprovoked invasion we spoke to", "start": 43.44, "duration": 6.42}
-{"text": "zielinski on Thursday he told us that", "start": 47.04, "duration": 6.359}
-{"text": "his people are dying every day to", "start": 49.86, "duration": 6.719}
-{"text": "prevent World War III", "start": 53.399, "duration": 4.82}
-{"text": "um", "start": 56.579, "duration": 4.561}
-{"text": "we're defending the values of the whole", "start": 58.219, "duration": 5.8}
-{"text": "world zielinski said and these are", "start": 61.14, "duration": 5.04}
-{"text": "Ukrainian people who are paying the", "start": 64.019, "duration": 4.761}
-{"text": "highest price", "start": 66.18, "duration": 2.6}
-{"text": "we are truly fighting for our freedom we", "start": 69.2, "duration": 6.06}
-{"text": "are dying", "start": 72.659, "duration": 2.601}
-{"text": "we're not fiction we're not a book we're", "start": 77.0, "duration": 6.34}
-{"text": "fighting for real with a nuclear state", "start": 80.58, "duration": 5.64}
-{"text": "that threatens to destroy the world", "start": 83.34, "duration": 5.7}
-{"text": "the United States has contributed about", "start": 86.22, "duration": 6.24}
-{"text": "70 billion dollars to your war effort", "start": 89.04, "duration": 7.02}
-{"text": "and I wonder if you expect that level of", "start": 92.46, "duration": 6.5}
-{"text": "support to continue", "start": 96.06, "duration": 2.9}
-{"text": "the United States of America is", "start": 100.579, "duration": 4.9}
-{"text": "supporting Ukraine financially and I'm", "start": 103.259, "duration": 3.72}
-{"text": "grateful for this", "start": 105.479, "duration": 3.421}
-{"text": "I just think they're not supporting only", "start": 106.979, "duration": 6.42}
-{"text": "Ukraine alone if Ukraine Falls Putin", "start": 108.9, "duration": 7.14}
-{"text": "will surely go further what will the", "start": 113.399, "duration": 5.22}
-{"text": "United States of America do when Putin", "start": 116.04, "duration": 4.859}
-{"text": "reaches the Baltic states when he", "start": 118.619, "duration": 5.161}
-{"text": "reaches the Polish border he will", "start": 120.899, "duration": 5.701}
-{"text": "this is a lot of money we have a lot of", "start": 123.78, "duration": 5.94}
-{"text": "gratitude what else must Ukraine do for", "start": 126.6, "duration": 5.279}
-{"text": "everyone to measure our huge gratitude", "start": 129.72, "duration": 6.92}
-{"text": "we are dying in this war", "start": 131.879, "duration": 4.761}
-{"text": "look if Ukraine Falls what will happen", "start": 136.76, "duration": 6.4}
-{"text": "in 10 years just think about it if the", "start": 140.16, "duration": 6.18}
-{"text": "Russians reach Poland what's next a", "start": 143.16, "duration": 4.68}
-{"text": "third world war", "start": 146.34, "duration": 4.92}
-{"text": "what will it take another 70 billion", "start": 147.84, "duration": 5.539}
-{"text": "yeah", "start": 151.26, "duration": 4.979}
-{"text": "I don't have an answer the whole world", "start": 153.379, "duration": 4.961}
-{"text": "has to decide whether we want to stop", "start": 156.239, "duration": 4.561}
-{"text": "Putin or whether we want to start the", "start": 158.34, "duration": 4.94}
-{"text": "beginning of a World War", "start": 160.8, "duration": 6.18}
-{"text": "we can't change Putin Russian Society", "start": 163.28, "duration": 6.52}
-{"text": "has lost the respect of the world they", "start": 166.98, "duration": 5.46}
-{"text": "elected him and re-elected him and", "start": 169.8, "duration": 7.14}
-{"text": "raised a second Hitler they did this we", "start": 172.44, "duration": 8.159}
-{"text": "cannot go back in time but we can stop", "start": 176.94, "duration": 5.6}
-{"text": "it here", "start": 180.599, "duration": 4.981}
-{"text": "Ukraine stopped the Russian advance but", "start": 182.54, "duration": 6.52}
-{"text": "at a terrible cost ruined cities", "start": 185.58, "duration": 7.739}
-{"text": "millions of refugees Untold thousands of", "start": 189.06, "duration": 5.039}
-{"text": "dead", "start": 193.319, "duration": 3.481}
-{"text": "all four Vladimir Putin's nation", "start": 194.099, "duration": 4.86}
-{"text": "building vanity", "start": 196.8, "duration": 5.159}
-{"text": "today the war is fought on a 700 mile", "start": 198.959, "duration": 6.42}
-{"text": "front the red area is the 20 percent of", "start": 201.959, "duration": 6.961}
-{"text": "Ukraine still occupied by Russia this is", "start": 205.379, "duration": 5.94}
-{"text": "where Western donated tanks were", "start": 208.92, "duration": 4.62}
-{"text": "supposed to punch through cutting the", "start": 211.319, "duration": 3.901}
-{"text": "Russian Force in half", "start": 213.54, "duration": 4.5}
-{"text": "but trenches minefields and artillery", "start": 215.22, "duration": 6.54}
-{"text": "stopped the armored Advance now it's an", "start": 218.04, "duration": 6.3}
-{"text": "artillery duel with each side firing", "start": 221.76, "duration": 6.42}
-{"text": "about 40 000 shells a day", "start": 224.34, "duration": 7.74}
-{"text": "Ukrainian infantry is advancing bloody", "start": 228.18, "duration": 6.059}
-{"text": "yards at a time", "start": 232.08, "duration": 4.5}
-{"text": "it's World War One", "start": 234.239, "duration": 4.441}
-{"text": "with drones", "start": 236.58, "duration": 4.799}
-{"text": "how would you describe the fighting at", "start": 238.68, "duration": 5.0}
-{"text": "the front", "start": 241.379, "duration": 2.301}
-{"text": "um", "start": 243.78, "duration": 2.06}
-{"text": "it's a difficult question I'll be", "start": 246.98, "duration": 5.14}
-{"text": "completely honest with you we have the", "start": 249.599, "duration": 5.901}
-{"text": "initiative this is a plus", "start": 252.12, "duration": 3.38}
-{"text": "the Russian offensive and we moved into", "start": 256.76, "duration": 5.8}
-{"text": "a counter-offensive but despite that", "start": 259.739, "duration": 6.121}
-{"text": "it's not very fast it is important that", "start": 262.56, "duration": 5.639}
-{"text": "we are moving forward every day and", "start": 265.86, "duration": 6.839}
-{"text": "liberating territory you have about six", "start": 268.199, "duration": 7.081}
-{"text": "weeks of good weather left and I wonder", "start": 272.699, "duration": 4.861}
-{"text": "after that point will the front be", "start": 275.28, "duration": 4.58}
-{"text": "frozen in place", "start": 277.56, "duration": 5.16}
-{"text": "we need to liberate our territory as", "start": 279.86, "duration": 5.5}
-{"text": "much as possible and move forward even", "start": 282.72, "duration": 5.28}
-{"text": "if it's less than half a mile or a", "start": 285.36, "duration": 5.7}
-{"text": "hundred yards we must do it we can't", "start": 288.0, "duration": 6.12}
-{"text": "lose time forget about the weather and", "start": 291.06, "duration": 5.699}
-{"text": "the like in places that we can't get", "start": 294.12, "duration": 5.46}
-{"text": "through in an armored vehicle let's fly", "start": 296.759, "duration": 7.88}
-{"text": "if we can't fly let's send drones", "start": 299.58, "duration": 8.76}
-{"text": "we mustn't give Putin a break", "start": 304.639, "duration": 7.0}
-{"text": "if the front is stationary Ukrainian", "start": 308.34, "duration": 5.88}
-{"text": "drones have vaulted into Russia itself", "start": 311.639, "duration": 6.181}
-{"text": "hitting the Kremlin warplanes and Moscow", "start": 314.22, "duration": 6.66}
-{"text": "high-rises officially Ukraine does not", "start": 317.82, "duration": 6.12}
-{"text": "acknowledge these attacks the drone", "start": 320.88, "duration": 5.4}
-{"text": "strikes in Russia are being done on your", "start": 323.94, "duration": 3.599}
-{"text": "orders", "start": 326.28, "duration": 5.34}
-{"text": "no not on your order well you know how", "start": 327.539, "duration": 6.541}
-{"text": "is this happening at the shore you know", "start": 331.62, "duration": 4.74}
-{"text": "we don't shoot at the territory of the", "start": 334.08, "duration": 4.02}
-{"text": "Russian Federation", "start": 336.36, "duration": 4.619}
-{"text": "we decided to try the question another", "start": 338.1, "duration": 7.02}
-{"text": "way what message is being sent with", "start": 340.979, "duration": 8.181}
-{"text": "these drone strikes in Russia", "start": 345.12, "duration": 6.78}
-{"text": "you do know that we use our partners", "start": 349.16, "duration": 5.02}
-{"text": "weapons on the territory of Ukraine only", "start": 351.9, "duration": 5.1}
-{"text": "and this is true but these are not", "start": 354.18, "duration": 6.239}
-{"text": "punitive operations such as they carry", "start": 357.0, "duration": 6.96}
-{"text": "out killing civilians but Russia needs", "start": 360.419, "duration": 6.481}
-{"text": "to know that wherever it is whichever", "start": 363.96, "duration": 5.459}
-{"text": "place they use for launching missiles to", "start": 366.9, "duration": 6.06}
-{"text": "strike Ukraine Ukraine has every moral", "start": 369.419, "duration": 5.961}
-{"text": "right to send a response to those places", "start": 372.96, "duration": 6.54}
-{"text": "we are responding to them saying your", "start": 375.38, "duration": 7.36}
-{"text": "sky is not as well protected as you", "start": 379.5, "duration": 4.25}
-{"text": "think", "start": 382.74, "duration": 2.16}
-{"text": "[Music]", "start": 383.75, "duration": 3.97}
-{"text": "last winter it was Ukrainian Skies that", "start": 384.9, "duration": 5.1}
-{"text": "were filled with missiles in a Russian", "start": 387.72, "duration": 5.12}
-{"text": "bombardment to destroy power plants", "start": 390.0, "duration": 6.0}
-{"text": "Millions shivered in the dark", "start": 392.84, "duration": 6.28}
-{"text": "with winter approaching again zielinski", "start": 396.0, "duration": 5.16}
-{"text": "had this warning", "start": 399.12, "duration": 5.18}
-{"text": "they must know if you cut off our power", "start": 401.16, "duration": 6.84}
-{"text": "deprive us of electricity deprive us of", "start": 404.3, "duration": 7.3}
-{"text": "water the privacy of gasoline you need", "start": 408.0, "duration": 5.419}
-{"text": "to know", "start": 411.6, "duration": 5.879}
-{"text": "we have the right to do it to you", "start": 413.419, "duration": 6.641}
-{"text": "Russia takes Solinski seriously now", "start": 417.479, "duration": 5.22}
-{"text": "because Putin's Mass invasion was a", "start": 420.06, "duration": 6.359}
-{"text": "fiasco the red marks where Ukraine", "start": 422.699, "duration": 6.901}
-{"text": "stopped Russia's Advance last year", "start": 426.419, "duration": 6.541}
-{"text": "it also marks the stain of Russia's war", "start": 429.6, "duration": 6.84}
-{"text": "crimes Mr President in traveling around", "start": 432.96, "duration": 6.48}
-{"text": "Ukraine for the last year and a half", "start": 436.44, "duration": 6.72}
-{"text": "we spoke to people in bombed out schools", "start": 439.44, "duration": 5.879}
-{"text": "in chernoheve", "start": 443.16, "duration": 4.8}
-{"text": "we've seen destroyed apartment blocks in", "start": 445.319, "duration": 7.041}
-{"text": "borodianca a bombed Hospital in isium", "start": 447.96, "duration": 8.88}
-{"text": "civilians in a mass grave in bucha these", "start": 452.36, "duration": 6.94}
-{"text": "are not military targets", "start": 456.84, "duration": 7.94}
-{"text": "what is Vladimir Putin trying to do", "start": 459.3, "duration": 5.48}
-{"text": "to break us", "start": 465.08, "duration": 3.42}
-{"text": "and by choosing civilian targets Putin", "start": 469.28, "duration": 6.759}
-{"text": "wanted to achieve exactly this to break", "start": 472.86, "duration": 7.38}
-{"text": "us this person who has made his way with", "start": 476.039, "duration": 7.261}
-{"text": "such bloody actions with everything he", "start": 480.24, "duration": 6.959}
-{"text": "has said cannot be trusted there is no", "start": 483.3, "duration": 6.899}
-{"text": "trust in such a person because he has", "start": 487.199, "duration": 5.78}
-{"text": "not been a human being for a long time", "start": 490.199, "duration": 6.541}
-{"text": "the Russians have suffered Grievous", "start": 492.979, "duration": 5.081}
-{"text": "losses", "start": 496.74, "duration": 4.44}
-{"text": "without resorting to nuclear weapons", "start": 498.06, "duration": 5.46}
-{"text": "and I wonder if you believe that the", "start": 501.18, "duration": 5.9}
-{"text": "threat of nuclear war is now behind us", "start": 503.52, "duration": 5.64}
-{"text": "I think he's going to continue", "start": 507.08, "duration": 4.86}
-{"text": "threatening", "start": 509.16, "duration": 5.819}
-{"text": "he's waiting for the United States to", "start": 511.94, "duration": 5.86}
-{"text": "become less stable he thinks that's", "start": 514.979, "duration": 6.68}
-{"text": "going to happen during the U.S election", "start": 517.8, "duration": 6.659}
-{"text": "he'll be looking for instability in", "start": 521.659, "duration": 5.521}
-{"text": "Europe and the United States of America", "start": 524.459, "duration": 6.361}
-{"text": "he will use the risk of using nuclear", "start": 527.18, "duration": 7.0}
-{"text": "weapons to fuel that instability he will", "start": 530.82, "duration": 5.639}
-{"text": "keep on threatening", "start": 534.18, "duration": 4.86}
-{"text": "that U.S election he mentioned worries", "start": 536.459, "duration": 4.861}
-{"text": "him his negotiations with President", "start": 539.04, "duration": 5.7}
-{"text": "Biden have been contentious at times but", "start": 541.32, "duration": 5.639}
-{"text": "zielinski tends to get what he asks for", "start": 544.74, "duration": 5.46}
-{"text": "even if in zelinski's opinion it's", "start": 546.959, "duration": 5.761}
-{"text": "generally six months too late", "start": 550.2, "duration": 5.819}
-{"text": "this week zelinski will press Mr Biden", "start": 552.72, "duration": 6.299}
-{"text": "for missiles with longer range Congress", "start": 556.019, "duration": 6.541}
-{"text": "is debating another 24 billion dollar", "start": 559.019, "duration": 6.201}
-{"text": "package", "start": 562.56, "duration": 2.66}
-{"text": "and if Ukraine had enough of these", "start": 565.94, "duration": 4.72}
-{"text": "modern systems we would have already", "start": 568.5, "duration": 4.68}
-{"text": "restored the territorial Integrity of", "start": 570.66, "duration": 5.239}
-{"text": "Ukraine we would have already done that", "start": 573.18, "duration": 7.7}
-{"text": "these systems exist are you safe here", "start": 575.899, "duration": 8.261}
-{"text": "we first met zielinski not long after", "start": 580.88, "duration": 5.86}
-{"text": "the invasion when his office was a", "start": 584.16, "duration": 5.58}
-{"text": "blacked out bunker be careful now a year", "start": 586.74, "duration": 5.88}
-{"text": "and a half later we noticed a difference", "start": 589.74, "duration": 5.76}
-{"text": "as we were setting up the interview the", "start": 592.62, "duration": 6.24}
-{"text": "former actor used his talent to mask the", "start": 595.5, "duration": 6.66}
-{"text": "strain he smiled at a compliment to his", "start": 598.86, "duration": 6.659}
-{"text": "wife yeah so great and then instantly he", "start": 602.16, "duration": 7.08}
-{"text": "seemed pulled beneath a depth no one can", "start": 605.519, "duration": 4.621}
-{"text": "know", "start": 609.24, "duration": 3.719}
-{"text": "we don't know what he was thinking it", "start": 610.14, "duration": 4.86}
-{"text": "looked like empathy", "start": 612.959, "duration": 3.601}
-{"text": "for the Lost", "start": 615.0, "duration": 4.47}
-{"text": "and for those who might be saved", "start": 616.56, "duration": 7.68}
-{"text": "[Applause]", "start": 619.47, "duration": 8.549}
-{"text": "our time was solinsky began in silence a", "start": 624.24, "duration": 6.18}
-{"text": "remembrance of the fallen during a", "start": 628.019, "duration": 5.411}
-{"text": "ceremony to award Medals of Valor", "start": 630.42, "duration": 4.5}
-{"text": "[Applause]", "start": 633.43, "duration": 4.37}
-{"text": "Ukrainian officials tell us Ukraine and", "start": 634.92, "duration": 5.28}
-{"text": "Russia have lost their professional", "start": 637.8, "duration": 5.4}
-{"text": "armies now the forces are made up of", "start": 640.2, "duration": 6.12}
-{"text": "volunteers draftees and in Russia's case", "start": 643.2, "duration": 5.42}
-{"text": "prison inmates", "start": 646.32, "duration": 5.1}
-{"text": "zielinski counts his dad in casualty", "start": 648.62, "duration": 5.38}
-{"text": "reports each morning you are the", "start": 651.42, "duration": 6.0}
-{"text": "president but it must be humbling to", "start": 654.0, "duration": 5.399}
-{"text": "meet those men I wonder what they mean", "start": 657.42, "duration": 4.34}
-{"text": "to you", "start": 659.399, "duration": 2.361}
-{"text": "yeah first of all it's a great honor for", "start": 663.68, "duration": 5.62}
-{"text": "me I look into their eyes and it makes", "start": 666.959, "duration": 4.681}
-{"text": "me proud that we have such strong people", "start": 669.3, "duration": 6.479}
-{"text": "because this is a big risk a big risk", "start": 671.64, "duration": 6.66}
-{"text": "you can definitely lose your life for", "start": 675.779, "duration": 5.341}
-{"text": "the sake of saving other lives and when", "start": 678.3, "duration": 5.039}
-{"text": "I say other lives I don't speak in", "start": 681.12, "duration": 5.1}
-{"text": "general I mean my own life the lives of", "start": 683.339, "duration": 5.761}
-{"text": "my children and I understand completely", "start": 686.22, "duration": 5.96}
-{"text": "what risks are involved", "start": 689.1, "duration": 7.26}
-{"text": "that empathy for life has velodimir", "start": 692.18, "duration": 7.0}
-{"text": "zielinski reaching out again to the", "start": 696.36, "duration": 5.3}
-{"text": "United Nations and the United States", "start": 699.18, "duration": 5.76}
-{"text": "hoping to convince the Allies that the", "start": 701.66, "duration": 7.359}
-{"text": "world can be safe only when Ukraine is", "start": 704.94, "duration": 6.959}
-{"text": "whole can you give up", "start": 709.019, "duration": 7.5}
-{"text": "any part of Ukraine for peace", "start": 711.899, "duration": 8.401}
-{"text": "no this is our territory you must have", "start": 716.519, "duration": 7.221}
-{"text": "it all including Crimea", "start": 720.3, "duration": 3.44}
-{"text": "of women", "start": 723.899, "duration": 2.601}
-{"text": "today you and I you said it to me you", "start": 728.16, "duration": 6.06}
-{"text": "saw me awarding people medals well today", "start": 731.579, "duration": 5.76}
-{"text": "is a day like that a week ago I gave", "start": 734.22, "duration": 5.4}
-{"text": "Awards to parents of soldiers who have", "start": 737.339, "duration": 5.101}
-{"text": "been killed there were 24 families of", "start": 739.62, "duration": 5.58}
-{"text": "the Dead there was a woman she was with", "start": 742.44, "duration": 5.579}
-{"text": "three children there were parents very", "start": 745.2, "duration": 5.1}
-{"text": "old they could barely walk and they had", "start": 748.019, "duration": 4.981}
-{"text": "had only one son", "start": 750.3, "duration": 5.219}
-{"text": "one of the women was pregnant she", "start": 753.0, "duration": 5.1}
-{"text": "arrived holding a baby in her arms and", "start": 755.519, "duration": 5.041}
-{"text": "she was pregnant and that baby will", "start": 758.1, "duration": 3.56}
-{"text": "never see", "start": 760.56, "duration": 4.56}
-{"text": "what should I tell them that all of them", "start": 761.66, "duration": 5.979}
-{"text": "died so that we could say it's okay", "start": 765.12, "duration": 7.26}
-{"text": "Russia you can take it all right", "start": 767.639, "duration": 4.741}
-{"text": "it's a difficult job you understand me", "start": 773.48, "duration": 6.64}
-{"text": "right giving awards to people whose", "start": 776.88, "duration": 5.579}
-{"text": "faces show their whole world has", "start": 780.12, "duration": 6.779}
-{"text": "collapsed and all I can give them all I", "start": 782.459, "duration": 5.601}
-{"text": "can give them", "start": 786.899, "duration": 4.641}
-{"text": "is Victory", "start": 788.06, "duration": 3.48}
-{"text": "hello Mr President hear more from Scott", "start": 794.7, "duration": 4.74}
-{"text": "pelly's news making conversation with", "start": 797.22, "duration": 4.619}
-{"text": "President Volo damir zielinski at 60", "start": 799.44, "duration": 4.38}
-{"text": "minutes overtime.com", "start": 801.839, "duration": 4.881}
-{"text": "something don't", "start": 803.82, "duration": 2.9}
+tonight Scott Pelley reports from
+Ukraine where he sat down with president
+velodimir zielinski in the capital keep
+the story will continue in a moment
+we met president zielinski as he
+prepared to depart key for the United
+States this week he will speak at the
+U.N and meet President Biden it is a
+critical time U.S officials tell us that
+over nearly 600 days almost half a
+million troops have been killed or
+wounded both sides altogether
+part of the cost so far of Vladimir
+Putin's unprovoked invasion we spoke to
+zielinski on Thursday he told us that
+his people are dying every day to
+prevent World War III
+um
+we're defending the values of the whole
+world zielinski said and these are
+Ukrainian people who are paying the
+highest price
+we are truly fighting for our freedom we
+are dying
+we're not fiction we're not a book we're
+fighting for real with a nuclear state
+that threatens to destroy the world
+the United States has contributed about
+70 billion dollars to your war effort
+and I wonder if you expect that level of
+support to continue
+the United States of America is
+supporting Ukraine financially and I'm
+grateful for this
+I just think they're not supporting only
+Ukraine alone if Ukraine Falls Putin
+will surely go further what will the
+United States of America do when Putin
+reaches the Baltic states when he
+reaches the Polish border he will
+this is a lot of money we have a lot of
+gratitude what else must Ukraine do for
+everyone to measure our huge gratitude
+we are dying in this war
+look if Ukraine Falls what will happen
+in 10 years just think about it if the
+Russians reach Poland what's next a
+third world war
+what will it take another 70 billion
+yeah
+I don't have an answer the whole world
+has to decide whether we want to stop
+Putin or whether we want to start the
+beginning of a World War
+we can't change Putin Russian Society
+has lost the respect of the world they
+elected him and re-elected him and
+raised a second Hitler they did this we
+cannot go back in time but we can stop
+it here
+Ukraine stopped the Russian advance but
+at a terrible cost ruined cities
+millions of refugees Untold thousands of
+dead
+all four Vladimir Putin's nation
+building vanity
+today the war is fought on a 700 mile
+front the red area is the 20 percent of
+Ukraine still occupied by Russia this is
+where Western donated tanks were
+supposed to punch through cutting the
+Russian Force in half
+but trenches minefields and artillery
+stopped the armored Advance now it's an
+artillery duel with each side firing
+about 40 000 shells a day
+Ukrainian infantry is advancing bloody
+yards at a time
+it's World War One
+with drones
+how would you describe the fighting at
+the front
+um
+it's a difficult question I'll be
+completely honest with you we have the
+initiative this is a plus
+the Russian offensive and we moved into
+a counter-offensive but despite that
+it's not very fast it is important that
+we are moving forward every day and
+liberating territory you have about six
+weeks of good weather left and I wonder
+after that point will the front be
+frozen in place
+we need to liberate our territory as
+much as possible and move forward even
+if it's less than half a mile or a
+hundred yards we must do it we can't
+lose time forget about the weather and
+the like in places that we can't get
+through in an armored vehicle let's fly
+if we can't fly let's send drones
+we mustn't give Putin a break
+if the front is stationary Ukrainian
+drones have vaulted into Russia itself
+hitting the Kremlin warplanes and Moscow
+high-rises officially Ukraine does not
+acknowledge these attacks the drone
+strikes in Russia are being done on your
+orders
+no not on your order well you know how
+is this happening at the shore you know
+we don't shoot at the territory of the
+Russian Federation
+we decided to try the question another
+way what message is being sent with
+these drone strikes in Russia
+you do know that we use our partners
+weapons on the territory of Ukraine only
+and this is true but these are not
+punitive operations such as they carry
+out killing civilians but Russia needs
+to know that wherever it is whichever
+place they use for launching missiles to
+strike Ukraine Ukraine has every moral
+right to send a response to those places
+we are responding to them saying your
+sky is not as well protected as you
+think
+[Music]
+last winter it was Ukrainian Skies that
+were filled with missiles in a Russian
+bombardment to destroy power plants
+Millions shivered in the dark
+with winter approaching again zielinski
+had this warning
+they must know if you cut off our power
+deprive us of electricity deprive us of
+water the privacy of gasoline you need
+to know
+we have the right to do it to you
+Russia takes Solinski seriously now
+because Putin's Mass invasion was a
+fiasco the red marks where Ukraine
+stopped Russia's Advance last year
+it also marks the stain of Russia's war
+crimes Mr President in traveling around
+Ukraine for the last year and a half
+we spoke to people in bombed out schools
+in chernoheve
+we've seen destroyed apartment blocks in
+borodianca a bombed Hospital in isium
+civilians in a mass grave in bucha these
+are not military targets
+what is Vladimir Putin trying to do
+to break us
+and by choosing civilian targets Putin
+wanted to achieve exactly this to break
+us this person who has made his way with
+such bloody actions with everything he
+has said cannot be trusted there is no
+trust in such a person because he has
+not been a human being for a long time
+the Russians have suffered Grievous
+losses
+without resorting to nuclear weapons
+and I wonder if you believe that the
+threat of nuclear war is now behind us
+I think he's going to continue
+threatening
+he's waiting for the United States to
+become less stable he thinks that's
+going to happen during the U.S election
+he'll be looking for instability in
+Europe and the United States of America
+he will use the risk of using nuclear
+weapons to fuel that instability he will
+keep on threatening
+that U.S election he mentioned worries
+him his negotiations with President
+Biden have been contentious at times but
+zielinski tends to get what he asks for
+even if in zelinski's opinion it's
+generally six months too late
+this week zelinski will press Mr Biden
+for missiles with longer range Congress
+is debating another 24 billion dollar
+package
+and if Ukraine had enough of these
+modern systems we would have already
+restored the territorial Integrity of
+Ukraine we would have already done that
+these systems exist are you safe here
+we first met zielinski not long after
+the invasion when his office was a
+blacked out bunker be careful now a year
+and a half later we noticed a difference
+as we were setting up the interview the
+former actor used his talent to mask the
+strain he smiled at a compliment to his
+wife yeah so great and then instantly he
+seemed pulled beneath a depth no one can
+know
+we don't know what he was thinking it
+looked like empathy
+for the Lost
+and for those who might be saved
+[Applause]
+our time was solinsky began in silence a
+remembrance of the fallen during a
+ceremony to award Medals of Valor
+[Applause]
+Ukrainian officials tell us Ukraine and
+Russia have lost their professional
+armies now the forces are made up of
+volunteers draftees and in Russia's case
+prison inmates
+zielinski counts his dad in casualty
+reports each morning you are the
+president but it must be humbling to
+meet those men I wonder what they mean
+to you
+yeah first of all it's a great honor for
+me I look into their eyes and it makes
+me proud that we have such strong people
+because this is a big risk a big risk
+you can definitely lose your life for
+the sake of saving other lives and when
+I say other lives I don't speak in
+general I mean my own life the lives of
+my children and I understand completely
+what risks are involved
+that empathy for life has velodimir
+zielinski reaching out again to the
+United Nations and the United States
+hoping to convince the Allies that the
+world can be safe only when Ukraine is
+whole can you give up
+any part of Ukraine for peace
+no this is our territory you must have
+it all including Crimea
+of women
+today you and I you said it to me you
+saw me awarding people medals well today
+is a day like that a week ago I gave
+Awards to parents of soldiers who have
+been killed there were 24 families of
+the Dead there was a woman she was with
+three children there were parents very
+old they could barely walk and they had
+had only one son
+one of the women was pregnant she
+arrived holding a baby in her arms and
+she was pregnant and that baby will
+never see
+what should I tell them that all of them
+died so that we could say it's okay
+Russia you can take it all right
+it's a difficult job you understand me
+right giving awards to people whose
+faces show their whole world has
+collapsed and all I can give them all I
+can give them
+is Victory
+hello Mr President hear more from Scott
+pelly's news making conversation with
+President Volo damir zielinski at 60
+minutes overtime.com
+something don't

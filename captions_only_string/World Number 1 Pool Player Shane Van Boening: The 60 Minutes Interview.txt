@@ -1,313 +1,313 @@
-{"text": "you'd expect a 600-year old sport to", "start": 4.88, "duration": 4.92}
-{"text": "have played through its identity crisis", "start": 7.359, "duration": 5.041}
-{"text": "not the case for pool the Sport's very", "start": 9.8, "duration": 4.36}
-{"text": "name comes from pooling money to", "start": 12.4, "duration": 4.36}
-{"text": "determine odds and wagering lens pool", "start": 14.16, "duration": 5.119}
-{"text": "Mystique hustling and pool go together", "start": 16.76, "duration": 5.08}
-{"text": "like atick and chalk but that's as much", "start": 19.279, "duration": 5.201}
-{"text": "a curse as a blessing how can a sport", "start": 21.84, "duration": 4.8}
-{"text": "Thrive at the highest level when so much", "start": 24.48, "duration": 5.039}
-{"text": "of it exists in the shadows well here", "start": 26.64, "duration": 6.0}
-{"text": "comes van boning from Rapid City as we", "start": 29.519, "duration": 5.681}
-{"text": "first told you in December at age 39", "start": 32.64, "duration": 4.68}
-{"text": "with no interest in gambling van boning", "start": 35.2, "duration": 4.56}
-{"text": "is arguably the best American player", "start": 37.32, "duration": 4.559}
-{"text": "ever to break a rack and was ranked", "start": 39.76, "duration": 5.36}
-{"text": "number one in the world for 2022 he also", "start": 41.879, "duration": 5.961}
-{"text": "happens to be deaf can the South Dakota", "start": 45.12, "duration": 5.599}
-{"text": "kid help turn pool popular in bars and", "start": 47.84, "duration": 6.12}
-{"text": "basement but not on TV into a proper Pro", "start": 50.719, "duration": 5.881}
-{"text": "Sport we hit the circuit with him to", "start": 53.96, "duration": 4.2}
-{"text": "find", "start": 56.6, "duration": 6.2}
-{"text": "out the story we'll continue in a", "start": 58.16, "duration": 4.64}
-{"text": "moment another day another casino hotel", "start": 64.479, "duration": 6.081}
-{"text": "Shane Van boning spends 300 days a year", "start": 67.88, "duration": 5.08}
-{"text": "on the road playing professional pool", "start": 70.56, "duration": 4.28}
-{"text": "today he's clocking in early at the", "start": 72.96, "duration": 4.12}
-{"text": "Jamboree of American pool tournaments", "start": 74.84, "duration": 4.08}
-{"text": "the Derby City", "start": 77.08, "duration": 4.359}
-{"text": "Classic held every January outside", "start": 78.92, "duration": 4.8}
-{"text": "Louisville Derby City is a colorful", "start": 81.439, "duration": 4.961}
-{"text": "expression of pool's split personality", "start": 83.72, "duration": 5.48}
-{"text": "downstairs a felt ocean drawing dozens", "start": 86.4, "duration": 5.2}
-{"text": "of the world's best practitioners they", "start": 89.2, "duration": 5.16}
-{"text": "compete 12 hours a day for 9 days in", "start": 91.6, "duration": 3.799}
-{"text": "multiple", "start": 94.36, "duration": 4.119}
-{"text": "events this winner is smiling ear to ear", "start": 95.399, "duration": 5.921}
-{"text": "and his check tops out at", "start": 98.479, "duration": 5.401}
-{"text": "$166,000 but upstairs it's a different", "start": 101.32, "duration": 6.72}
-{"text": "economy behold pool's zestier side popup", "start": 103.88, "duration": 6.48}
-{"text": "action rooms standing room only where", "start": 108.04, "duration": 5.039}
-{"text": "Pros amateurs and wannabes alike come to", "start": 110.36, "duration": 5.6}
-{"text": "the table for unofficial competition the", "start": 113.079, "duration": 5.761}
-{"text": "signs say no smoking and no gambling and", "start": 115.96, "duration": 5.759}
-{"text": "we sure didn't see any smoking tens", "start": 118.84, "duration": 4.44}
-{"text": "sometimes hundreds of thousands of", "start": 121.719, "duration": 4.08}
-{"text": "dollars Big Timber they call it change", "start": 123.28, "duration": 5.679}
-{"text": "hands until the sun comes up one player", "start": 125.799, "duration": 5.52}
-{"text": "we didn't see gambling upstairs Shane", "start": 128.959, "duration": 5.28}
-{"text": "Van bony a generational Talent known for", "start": 131.319, "duration": 5.041}
-{"text": "his killer", "start": 134.239, "duration": 5.121}
-{"text": "break van boning has won the US Open", "start": 136.36, "duration": 5.32}
-{"text": "five times and been named player of the", "start": 139.36, "duration": 5.239}
-{"text": "decade deaf since birth he wears hearing", "start": 141.68, "duration": 5.0}
-{"text": "aids and shuts down any question this", "start": 144.599, "duration": 4.161}
-{"text": "makes it harder for him to play", "start": 146.68, "duration": 4.76}
-{"text": "pool it's actually a big Advantage for", "start": 148.76, "duration": 4.96}
-{"text": "me how's that you know when I play po", "start": 151.44, "duration": 4.28}
-{"text": "tournament I can just shut it off do you", "start": 153.72, "duration": 3.64}
-{"text": "shut your hearing aids off when you play", "start": 155.72, "duration": 3.76}
-{"text": "when I want my first Uso and I had", "start": 157.36, "duration": 4.0}
-{"text": "everything off I was focused total", "start": 159.48, "duration": 7.72}
-{"text": "silence yes I'm totally like 100% zon in", "start": 161.36, "duration": 8.72}
-{"text": "never more zoned in than in 2018 when he", "start": 167.2, "duration": 5.039}
-{"text": "led the United States to victory over", "start": 170.08, "duration": 4.84}
-{"text": "Europe at the muscone cup P's answer to", "start": 172.239, "duration": 5.761}
-{"text": "golf's Rider cup and he is going for it", "start": 174.92, "duration": 5.48}
-{"text": "he closed it out with an off angle long", "start": 178.0, "duration": 5.4}
-{"text": "distance 1 n combo this highrisk High", "start": 180.4, "duration": 7.04}
-{"text": "reward pressure packed shot what a shot", "start": 183.4, "duration": 7.04}
-{"text": "Shane Van boning and Team", "start": 187.44, "duration": 6.96}
-{"text": "USA unbelievable finish think you could", "start": 190.44, "duration": 5.28}
-{"text": "have made that", "start": 194.4, "duration": 4.28}
-{"text": "shot we went to Rapid City South Dakota", "start": 195.72, "duration": 5.4}
-{"text": "a side pocket of America to Van Bon's", "start": 198.68, "duration": 4.479}
-{"text": "pool hall where he explained that making", "start": 201.12, "duration": 4.679}
-{"text": "balls disappear into pockets is only", "start": 203.159, "duration": 5.201}
-{"text": "half of pool Excellence it's also about", "start": 205.799, "duration": 4.52}
-{"text": "setting up your neck shot", "start": 208.36, "duration": 4.4}
-{"text": "Q ball control they call it and I'm", "start": 210.319, "duration": 4.041}
-{"text": "going to make the Q ball stop right here", "start": 212.76, "duration": 4.8}
-{"text": "so I can shoot the two in the", "start": 214.36, "duration": 3.2}
-{"text": "side then I'm", "start": 219.0, "duration": 5.04}
-{"text": "going you did that how how did you do", "start": 221.319, "duration": 5.401}
-{"text": "that just hit it right below Center so", "start": 224.04, "duration": 5.68}
-{"text": "now it lines up that next ball perfectly", "start": 226.72, "duration": 6.0}
-{"text": "yeah I'm so struck by the geometry of", "start": 229.72, "duration": 5.76}
-{"text": "all this yeah I love geometry it's all", "start": 232.72, "duration": 5.879}
-{"text": "about the angles van boning says he can", "start": 235.48, "duration": 6.24}
-{"text": "see every angle on the table a six sense", "start": 238.599, "duration": 4.961}
-{"text": "that comes from practicing as much as 10", "start": 241.72, "duration": 4.12}
-{"text": "hours a day shooting half a million", "start": 243.56, "duration": 4.679}
-{"text": "balls a year I want to make the shot", "start": 245.84, "duration": 4.52}
-{"text": "perfect the only way to hit it perfect", "start": 248.239, "duration": 5.0}
-{"text": "you got to do it over and over and over", "start": 250.36, "duration": 4.839}
-{"text": "can you be perfect in this", "start": 253.239, "duration": 3.84}
-{"text": "sport", "start": 255.199, "duration": 5.88}
-{"text": "no I tried so hard so all these years", "start": 257.079, "duration": 6.12}
-{"text": "van boning comes by it honestly his", "start": 261.079, "duration": 4.321}
-{"text": "grandfather Gary Bloomberg a known", "start": 263.199, "duration": 4.56}
-{"text": "trickshot artist opened pool halls off", "start": 265.4, "duration": 5.32}
-{"text": "I90 easy access for Hustlers passing", "start": 267.759, "duration": 5.321}
-{"text": "across the Great Plains but these rooms", "start": 270.72, "duration": 5.24}
-{"text": "were familyfriendly places so much so", "start": 273.08, "duration": 4.839}
-{"text": "Shane got his first pool queue when he", "start": 275.96, "duration": 4.44}
-{"text": "was two and went to the pool room every", "start": 277.919, "duration": 5.241}
-{"text": "day after school not just to play but to", "start": 280.4, "duration": 4.799}
-{"text": "escape kids who picked on him for being", "start": 283.16, "duration": 4.759}
-{"text": "deaf how bad did it get the kid would", "start": 285.199, "duration": 5.881}
-{"text": "start throwing Ros at me they would put", "start": 287.919, "duration": 5.921}
-{"text": "gum in my hair and then I would go home", "start": 291.08, "duration": 6.44}
-{"text": "to my mom I'd be going home crying you", "start": 293.84, "duration": 5.88}
-{"text": "know and then she made me feel feel", "start": 297.52, "duration": 4.679}
-{"text": "better by asking me you want to go to", "start": 299.72, "duration": 4.12}
-{"text": "the pool room why did coming to the pool", "start": 302.199, "duration": 3.44}
-{"text": "room make you feel better you know when", "start": 303.84, "duration": 3.76}
-{"text": "you walk in the pool room what do you", "start": 305.639, "duration": 5.241}
-{"text": "see you know you see people having a", "start": 307.6, "duration": 6.039}
-{"text": "good time but it was more than that he", "start": 310.88, "duration": 4.879}
-{"text": "had prodigious ability for thinking", "start": 313.639, "duration": 4.761}
-{"text": "multiple Strokes ahead when van boning", "start": 315.759, "duration": 5.361}
-{"text": "was 18 he hit the road he and his uncle", "start": 318.4, "duration": 4.96}
-{"text": "loaded into an RV looking for money", "start": 321.12, "duration": 5.32}
-{"text": "games came to play pool fats of course", "start": 323.36, "duration": 5.32}
-{"text": "they did the Hustler that stealth", "start": 326.44, "duration": 4.599}
-{"text": "roadman armed only with a wooden stick", "start": 328.68, "duration": 4.48}
-{"text": "in confidence divorcing the locals from", "start": 331.039, "duration": 4.6}
-{"text": "their cash has been romanticized for", "start": 333.16, "duration": 5.72}
-{"text": "decades not least by Paul Newman this", "start": 335.639, "duration": 5.721}
-{"text": "reporter was so taken by po hustling he", "start": 338.88, "duration": 4.68}
-{"text": "once wrote a book about it for Van", "start": 341.36, "duration": 4.36}
-{"text": "boning the romance hit the Rocks", "start": 343.56, "duration": 4.68}
-{"text": "abruptly yeah I actually was playing the", "start": 345.72, "duration": 5.4}
-{"text": "pool in Tennessee and I was playing this", "start": 348.24, "duration": 4.84}
-{"text": "guy for money and we were playing for a", "start": 351.12, "duration": 4.0}
-{"text": "whole lot and he was", "start": 353.08, "duration": 4.76}
-{"text": "losing and he picked up the key ball and", "start": 355.12, "duration": 4.519}
-{"text": "threw it at me where'd he hit you he hit", "start": 357.84, "duration": 4.16}
-{"text": "me right on the chest it's the kind of", "start": 359.639, "duration": 4.961}
-{"text": "thing you do to start a fight yeah how'd", "start": 362.0, "duration": 6.039}
-{"text": "you react I told my Uncle I said I don't", "start": 364.6, "duration": 5.159}
-{"text": "want to do this anymore I don't want to", "start": 368.039, "duration": 4.241}
-{"text": "live on the road anymore it's just too", "start": 369.759, "duration": 5.121}
-{"text": "dangerous here we go for the title he", "start": 372.28, "duration": 5.0}
-{"text": "chose to go legit and began playing and", "start": 374.88, "duration": 4.84}
-{"text": "winning proper tournaments though less", "start": 377.28, "duration": 4.359}
-{"text": "lucrative than the rambling gambling", "start": 379.72, "duration": 3.84}
-{"text": "life van boning enjoyed being a", "start": 381.639, "duration": 3.96}
-{"text": "professional did you worry that coming", "start": 383.56, "duration": 5.039}
-{"text": "in off the road was going to impact your", "start": 385.599, "duration": 5.801}
-{"text": "your finances", "start": 388.599, "duration": 2.801}
-{"text": "I know some of the pool players like the", "start": 391.52, "duration": 3.72}
-{"text": "top pool players were making money so if", "start": 393.08, "duration": 5.0}
-{"text": "they can do it I can do it but pool is a", "start": 395.24, "duration": 5.44}
-{"text": "deceptively tricky sport next up two", "start": 398.08, "duration": 5.16}
-{"text": "superpowers Collide just ask Shane's", "start": 400.68, "duration": 4.799}
-{"text": "Scottish counterpart Jason Shaw another", "start": 403.24, "duration": 4.88}
-{"text": "top player earlier this year Shaw holed", "start": 405.479, "duration": 5.041}
-{"text": "up in a Virginia pool room for 5 days", "start": 408.12, "duration": 4.24}
-{"text": "and broke the straight pool record", "start": 410.52, "duration": 5.28}
-{"text": "making 74 shots in a row the stuff that", "start": 412.36, "duration": 5.76}
-{"text": "happens in pool will completely screw", "start": 415.8, "duration": 3.92}
-{"text": "your brain up what do you mean you'll", "start": 418.12, "duration": 3.199}
-{"text": "see shots that and you'll be like how", "start": 419.72, "duration": 3.319}
-{"text": "did that happen you'll you'll hear that", "start": 421.319, "duration": 4.201}
-{"text": "all day how did that land over there did", "start": 423.039, "duration": 4.481}
-{"text": "you see that how that went in in pool", "start": 425.52, "duration": 3.76}
-{"text": "you see at every game something weird", "start": 427.52, "duration": 3.44}
-{"text": "will happen does that make it more", "start": 429.28, "duration": 3.68}
-{"text": "exhilarating or more frustrating both", "start": 430.96, "duration": 4.16}
-{"text": "mentally you want to like flip the table", "start": 432.96, "duration": 4.919}
-{"text": "at some point you ever flipped a table", "start": 435.12, "duration": 4.799}
-{"text": "no I've thought about it a few times", "start": 437.879, "duration": 4.201}
-{"text": "people come in how hard could it be it's", "start": 439.919, "duration": 4.481}
-{"text": "just a rectangle with six and then 20", "start": 442.08, "duration": 4.119}
-{"text": "minutes later there's still 15 balls on", "start": 444.4, "duration": 3.479}
-{"text": "the table they've not poted a ball and", "start": 446.199, "duration": 3.921}
-{"text": "the guy's like scratching his head like", "start": 447.879, "duration": 6.16}
-{"text": "thought this was easy it's", "start": 450.12, "duration": 3.919}
-{"text": "not we watched you at Derby City play", "start": 454.16, "duration": 7.92}
-{"text": "Jason Shaw Jason who yeah is he rival", "start": 456.879, "duration": 7.241}
-{"text": "yeah it's been going on for several", "start": 462.08, "duration": 5.0}
-{"text": "years now he's a great player and um", "start": 464.12, "duration": 5.039}
-{"text": "we're always going to have a battle you", "start": 467.08, "duration": 4.16}
-{"text": "okay with that yeah you have to accept", "start": 469.159, "duration": 4.48}
-{"text": "losing if you don't accept losing you're", "start": 471.24, "duration": 4.76}
-{"text": "just you're going to go crazy I'll stick", "start": 473.639, "duration": 4.601}
-{"text": "is the ice right here if having a rival", "start": 476.0, "duration": 3.919}
-{"text": "is Central to being being an elite", "start": 478.24, "duration": 4.76}
-{"text": "athlete so is this leaving time to clear", "start": 479.919, "duration": 5.96}
-{"text": "your head so it was we found ourselves", "start": 483.0, "duration": 5.12}
-{"text": "following Shane Van boning out on to", "start": 485.879, "duration": 5.241}
-{"text": "Paola Lake in the Black", "start": 488.12, "duration": 6.0}
-{"text": "Hills van boning goes fishing season be", "start": 491.12, "duration": 5.96}
-{"text": "damned every morning when he's back home", "start": 494.12, "duration": 5.44}
-{"text": "we didn't catch any fish we did catch", "start": 497.08, "duration": 4.76}
-{"text": "van bony's drift though his take on the", "start": 499.56, "duration": 5.4}
-{"text": "virtues of complete", "start": 501.84, "duration": 3.12}
-{"text": "silence vanity plate notwithstanding few", "start": 508.24, "duration": 5.12}
-{"text": "extravagances come with being number one", "start": 511.28, "duration": 5.04}
-{"text": "in pool the ragtag pro tour barely", "start": 513.36, "duration": 5.44}
-{"text": "televised in the US struggles to draw", "start": 516.32, "duration": 5.159}
-{"text": "much interest or investment outside of", "start": 518.8, "duration": 5.52}
-{"text": "pool die hards how many sponsors do you", "start": 521.479, "duration": 6.36}
-{"text": "have I have six sponsors cues and tables", "start": 524.32, "duration": 6.24}
-{"text": "and Pool Products yes and any sponsors", "start": 527.839, "duration": 5.041}
-{"text": "outside of pool no what can a top player", "start": 530.56, "duration": 5.719}
-{"text": "make top and pool can make only six", "start": 532.88, "duration": 6.84}
-{"text": "figures half expenses maybe five figures", "start": 536.279, "duration": 5.24}
-{"text": "no one's making a million bucks as a", "start": 539.72, "duration": 3.52}
-{"text": "pool player it never", "start": 541.519, "duration": 4.32}
-{"text": "happened van boning says cleaning up the", "start": 543.24, "duration": 4.76}
-{"text": "sport doing away with back room money", "start": 545.839, "duration": 4.521}
-{"text": "games would lure big corporate sponsors", "start": 548.0, "duration": 4.88}
-{"text": "big media deals and grow professional", "start": 550.36, "duration": 5.159}
-{"text": "pool we saw firsthand his discomfort", "start": 552.88, "duration": 5.48}
-{"text": "with gambling and all that comes with it", "start": 555.519, "duration": 4.56}
-{"text": "when we interviewed you in in dery city", "start": 558.36, "duration": 2.64}
-{"text": "I don't if you remember the the", "start": 560.079, "duration": 3.32}
-{"text": "interview was interrupted you you recall", "start": 561.0, "duration": 3.24}
-{"text": "what", "start": 563.399, "duration": 2.88}
-{"text": "happened oh the", "start": 564.24, "duration": 6.8}
-{"text": "gambling was that what happened yeah", "start": 566.279, "duration": 6.68}
-{"text": "it was morning at Derby City and the", "start": 571.04, "duration": 3.799}
-{"text": "action upstairs from the night before", "start": 572.959, "duration": 3.601}
-{"text": "was still", "start": 574.839, "duration": 3.68}
-{"text": "simmering they", "start": 576.56, "duration": 4.44}
-{"text": "arguing over the course of a few minutes", "start": 578.519, "duration": 4.44}
-{"text": "two players who' bet on a game nearly", "start": 581.0, "duration": 5.72}
-{"text": "came to blows you cannot gamble you know", "start": 582.959, "duration": 6.281}
-{"text": "van boning could only shake his head it", "start": 586.72, "duration": 5.16}
-{"text": "got to be a clean sport Ender prop", "start": 589.24, "duration": 5.12}
-{"text": "pool's unlikely new Guardian Emily", "start": 591.88, "duration": 5.28}
-{"text": "Fraser of the British sports promoter", "start": 594.36, "duration": 5.32}
-{"text": "matchroom the company recently revamp", "start": 597.16, "duration": 4.84}
-{"text": "Pro darts and snooker in the UK", "start": 599.68, "duration": 4.2}
-{"text": "streamlining their circuits and turning", "start": 602.0, "duration": 4.079}
-{"text": "top players into celebrities who make", "start": 603.88, "duration": 5.199}
-{"text": "millions oh that's where the tra sits", "start": 606.079, "duration": 4.961}
-{"text": "Fraser is tasked with doing the same for", "start": 609.079, "duration": 4.241}
-{"text": "pool and she says gambling is the least", "start": 611.04, "duration": 4.96}
-{"text": "of her worries what's the state of", "start": 613.32, "duration": 5.28}
-{"text": "professional pool today ah an absolute", "start": 616.0, "duration": 5.64}
-{"text": "mess why' you say that the first ever US", "start": 618.6, "duration": 4.56}
-{"text": "Open that I did in", "start": 621.64, "duration": 5.0}
-{"text": "2019 oh my gosh the players turned up", "start": 623.16, "duration": 6.08}
-{"text": "they were in jeans when I'm going hang", "start": 626.64, "duration": 4.319}
-{"text": "on a second like what's happening here", "start": 629.24, "duration": 3.68}
-{"text": "why is this guy turning up in jeans", "start": 630.959, "duration": 3.88}
-{"text": "Fraser has asked Pro players to dress", "start": 632.92, "duration": 3.84}
-{"text": "the part but she won't ask them to give", "start": 634.839, "duration": 5.081}
-{"text": "up their side hustles now all of the", "start": 636.76, "duration": 5.8}
-{"text": "basement tables and the money matches I", "start": 639.92, "duration": 4.56}
-{"text": "think that's brilliant and that can", "start": 642.56, "duration": 3.92}
-{"text": "still yeah I think that it's fantastic", "start": 644.48, "duration": 3.68}
-{"text": "because it's got the history behind it", "start": 646.48, "duration": 3.56}
-{"text": "you're okay if people are still they're", "start": 648.16, "duration": 4.0}
-{"text": "gambling and playing money games as far", "start": 650.04, "duration": 4.239}
-{"text": "as I'm concerned in a couple years time", "start": 652.16, "duration": 3.72}
-{"text": "they won't need to have any money it'll", "start": 654.279, "duration": 3.401}
-{"text": "be obsolete the market will do its thing", "start": 655.88, "duration": 4.8}
-{"text": "exactly but right now now it's not", "start": 657.68, "duration": 6.159}
-{"text": "viewed as this professional sport and it", "start": 660.68, "duration": 5.88}
-{"text": "has all the ingredients to be one she", "start": 663.839, "duration": 4.641}
-{"text": "standardize the format this is", "start": 666.56, "duration": 4.399}
-{"text": "commercialized sponsor friendly nineball", "start": 668.48, "duration": 4.359}
-{"text": "not the solids and Stripes eight ball", "start": 670.959, "duration": 4.481}
-{"text": "you've likely played in October at the", "start": 672.839, "duration": 5.521}
-{"text": "US Open held in Atlantic City Fraser", "start": 675.44, "duration": 5.12}
-{"text": "brought in bigger live audiences and", "start": 678.36, "duration": 4.8}
-{"text": "ramped up TV production she's kept one", "start": 680.56, "duration": 5.6}
-{"text": "pool Hallmark the Smoke Filled Room", "start": 683.16, "duration": 5.2}
-{"text": "close but no cigar there's a machine", "start": 686.16, "duration": 4.76}
-{"text": "puffing away in the corner When the", "start": 688.36, "duration": 5.24}
-{"text": "Smoke cleared there was Shane Van", "start": 690.92, "duration": 5.0}
-{"text": "boning he was fresh off winning his", "start": 693.6, "duration": 4.64}
-{"text": "first world championship sealing his", "start": 695.92, "duration": 5.12}
-{"text": "status at top the sport he confided to", "start": 698.24, "duration": 4.92}
-{"text": "us that he'd slept with the trophy for a", "start": 701.04, "duration": 4.64}
-{"text": "month van boning is mobbed at pool", "start": 703.16, "duration": 4.28}
-{"text": "tournaments but can still walk through", "start": 705.68, "duration": 4.04}
-{"text": "an airport unbothered well he's no", "start": 707.44, "duration": 4.68}
-{"text": "LeBron James and I totally understand", "start": 709.72, "duration": 5.559}
-{"text": "that and I recognize that um it's our", "start": 712.12, "duration": 5.519}
-{"text": "job to turn that around it is our", "start": 715.279, "duration": 5.12}
-{"text": "responsibility to turn that world number", "start": 717.639, "duration": 4.561}
-{"text": "one prize money from", "start": 720.399, "duration": 5.161}
-{"text": "$80,000 to a million so it's prize money", "start": 722.2, "duration": 5.8}
-{"text": "it's more events and let's get these", "start": 725.56, "duration": 5.6}
-{"text": "players known you've got to fall in love", "start": 728.0, "duration": 7.88}
-{"text": "with them are they lovable yes some of", "start": 731.16, "duration": 7.039}
-{"text": "them the health of the sport also", "start": 735.88, "duration": 4.28}
-{"text": "depends on minting a new generation of", "start": 738.199, "duration": 4.08}
-{"text": "elite players so this tournament had a", "start": 740.16, "duration": 4.72}
-{"text": "junior division held alongside the pros", "start": 742.279, "duration": 5.481}
-{"text": "and named what else the Shane Van boning", "start": 744.88, "duration": 6.04}
-{"text": "Jr open these are future Pros oh yeah", "start": 747.76, "duration": 5.6}
-{"text": "definitely definitely they have so much", "start": 750.92, "duration": 4.039}
-{"text": "passion for the game and then I'm going", "start": 753.36, "duration": 3.839}
-{"text": "to shoot the Shish back at the pool hall", "start": 754.959, "duration": 5.401}
-{"text": "in Rapid City we experience pool's highs", "start": 757.199, "duration": 6.481}
-{"text": "and lows in the same", "start": 760.36, "duration": 3.32}
-{"text": "hour didn't even let me hit a ball ever", "start": 767.32, "duration": 5.079}
-{"text": "the sports gentleman Shane Van boning", "start": 770.36, "duration": 3.719}
-{"text": "wouldn't let us leave without setting us", "start": 772.399, "duration": 4.88}
-{"text": "up to s a trick shot pool may or may not", "start": 774.079, "duration": 6.0}
-{"text": "clean up its act but any sport that can", "start": 777.279, "duration": 5.721}
-{"text": "provide this kind of pure simple thrill", "start": 780.079, "duration": 4.56}
-{"text": "just go right down the middle yep right", "start": 783.0, "duration": 3.88}
-{"text": "down the middle you reckon it'll survive", "start": 784.639, "duration": 4.56}
-{"text": "just", "start": 786.88, "duration": 2.319}
-{"text": "[Laughter]", "start": 789.35, "duration": 5.97}
-{"text": "fine you got", "start": 791.839, "duration": 3.481}
-{"text": "that", "start": 797.839, "duration": 3.0}
+you'd expect a 600-year old sport to
+have played through its identity crisis
+not the case for pool the Sport's very
+name comes from pooling money to
+determine odds and wagering lens pool
+Mystique hustling and pool go together
+like atick and chalk but that's as much
+a curse as a blessing how can a sport
+Thrive at the highest level when so much
+of it exists in the shadows well here
+comes van boning from Rapid City as we
+first told you in December at age 39
+with no interest in gambling van boning
+is arguably the best American player
+ever to break a rack and was ranked
+number one in the world for 2022 he also
+happens to be deaf can the South Dakota
+kid help turn pool popular in bars and
+basement but not on TV into a proper Pro
+Sport we hit the circuit with him to
+find
+out the story we'll continue in a
+moment another day another casino hotel
+Shane Van boning spends 300 days a year
+on the road playing professional pool
+today he's clocking in early at the
+Jamboree of American pool tournaments
+the Derby City
+Classic held every January outside
+Louisville Derby City is a colorful
+expression of pool's split personality
+downstairs a felt ocean drawing dozens
+of the world's best practitioners they
+compete 12 hours a day for 9 days in
+multiple
+events this winner is smiling ear to ear
+and his check tops out at
+$166,000 but upstairs it's a different
+economy behold pool's zestier side popup
+action rooms standing room only where
+Pros amateurs and wannabes alike come to
+the table for unofficial competition the
+signs say no smoking and no gambling and
+we sure didn't see any smoking tens
+sometimes hundreds of thousands of
+dollars Big Timber they call it change
+hands until the sun comes up one player
+we didn't see gambling upstairs Shane
+Van bony a generational Talent known for
+his killer
+break van boning has won the US Open
+five times and been named player of the
+decade deaf since birth he wears hearing
+aids and shuts down any question this
+makes it harder for him to play
+pool it's actually a big Advantage for
+me how's that you know when I play po
+tournament I can just shut it off do you
+shut your hearing aids off when you play
+when I want my first Uso and I had
+everything off I was focused total
+silence yes I'm totally like 100% zon in
+never more zoned in than in 2018 when he
+led the United States to victory over
+Europe at the muscone cup P's answer to
+golf's Rider cup and he is going for it
+he closed it out with an off angle long
+distance 1 n combo this highrisk High
+reward pressure packed shot what a shot
+Shane Van boning and Team
+USA unbelievable finish think you could
+have made that
+shot we went to Rapid City South Dakota
+a side pocket of America to Van Bon's
+pool hall where he explained that making
+balls disappear into pockets is only
+half of pool Excellence it's also about
+setting up your neck shot
+Q ball control they call it and I'm
+going to make the Q ball stop right here
+so I can shoot the two in the
+side then I'm
+going you did that how how did you do
+that just hit it right below Center so
+now it lines up that next ball perfectly
+yeah I'm so struck by the geometry of
+all this yeah I love geometry it's all
+about the angles van boning says he can
+see every angle on the table a six sense
+that comes from practicing as much as 10
+hours a day shooting half a million
+balls a year I want to make the shot
+perfect the only way to hit it perfect
+you got to do it over and over and over
+can you be perfect in this
+sport
+no I tried so hard so all these years
+van boning comes by it honestly his
+grandfather Gary Bloomberg a known
+trickshot artist opened pool halls off
+I90 easy access for Hustlers passing
+across the Great Plains but these rooms
+were familyfriendly places so much so
+Shane got his first pool queue when he
+was two and went to the pool room every
+day after school not just to play but to
+escape kids who picked on him for being
+deaf how bad did it get the kid would
+start throwing Ros at me they would put
+gum in my hair and then I would go home
+to my mom I'd be going home crying you
+know and then she made me feel feel
+better by asking me you want to go to
+the pool room why did coming to the pool
+room make you feel better you know when
+you walk in the pool room what do you
+see you know you see people having a
+good time but it was more than that he
+had prodigious ability for thinking
+multiple Strokes ahead when van boning
+was 18 he hit the road he and his uncle
+loaded into an RV looking for money
+games came to play pool fats of course
+they did the Hustler that stealth
+roadman armed only with a wooden stick
+in confidence divorcing the locals from
+their cash has been romanticized for
+decades not least by Paul Newman this
+reporter was so taken by po hustling he
+once wrote a book about it for Van
+boning the romance hit the Rocks
+abruptly yeah I actually was playing the
+pool in Tennessee and I was playing this
+guy for money and we were playing for a
+whole lot and he was
+losing and he picked up the key ball and
+threw it at me where'd he hit you he hit
+me right on the chest it's the kind of
+thing you do to start a fight yeah how'd
+you react I told my Uncle I said I don't
+want to do this anymore I don't want to
+live on the road anymore it's just too
+dangerous here we go for the title he
+chose to go legit and began playing and
+winning proper tournaments though less
+lucrative than the rambling gambling
+life van boning enjoyed being a
+professional did you worry that coming
+in off the road was going to impact your
+your finances
+I know some of the pool players like the
+top pool players were making money so if
+they can do it I can do it but pool is a
+deceptively tricky sport next up two
+superpowers Collide just ask Shane's
+Scottish counterpart Jason Shaw another
+top player earlier this year Shaw holed
+up in a Virginia pool room for 5 days
+and broke the straight pool record
+making 74 shots in a row the stuff that
+happens in pool will completely screw
+your brain up what do you mean you'll
+see shots that and you'll be like how
+did that happen you'll you'll hear that
+all day how did that land over there did
+you see that how that went in in pool
+you see at every game something weird
+will happen does that make it more
+exhilarating or more frustrating both
+mentally you want to like flip the table
+at some point you ever flipped a table
+no I've thought about it a few times
+people come in how hard could it be it's
+just a rectangle with six and then 20
+minutes later there's still 15 balls on
+the table they've not poted a ball and
+the guy's like scratching his head like
+thought this was easy it's
+not we watched you at Derby City play
+Jason Shaw Jason who yeah is he rival
+yeah it's been going on for several
+years now he's a great player and um
+we're always going to have a battle you
+okay with that yeah you have to accept
+losing if you don't accept losing you're
+just you're going to go crazy I'll stick
+is the ice right here if having a rival
+is Central to being being an elite
+athlete so is this leaving time to clear
+your head so it was we found ourselves
+following Shane Van boning out on to
+Paola Lake in the Black
+Hills van boning goes fishing season be
+damned every morning when he's back home
+we didn't catch any fish we did catch
+van bony's drift though his take on the
+virtues of complete
+silence vanity plate notwithstanding few
+extravagances come with being number one
+in pool the ragtag pro tour barely
+televised in the US struggles to draw
+much interest or investment outside of
+pool die hards how many sponsors do you
+have I have six sponsors cues and tables
+and Pool Products yes and any sponsors
+outside of pool no what can a top player
+make top and pool can make only six
+figures half expenses maybe five figures
+no one's making a million bucks as a
+pool player it never
+happened van boning says cleaning up the
+sport doing away with back room money
+games would lure big corporate sponsors
+big media deals and grow professional
+pool we saw firsthand his discomfort
+with gambling and all that comes with it
+when we interviewed you in in dery city
+I don't if you remember the the
+interview was interrupted you you recall
+what
+happened oh the
+gambling was that what happened yeah
+it was morning at Derby City and the
+action upstairs from the night before
+was still
+simmering they
+arguing over the course of a few minutes
+two players who' bet on a game nearly
+came to blows you cannot gamble you know
+van boning could only shake his head it
+got to be a clean sport Ender prop
+pool's unlikely new Guardian Emily
+Fraser of the British sports promoter
+matchroom the company recently revamp
+Pro darts and snooker in the UK
+streamlining their circuits and turning
+top players into celebrities who make
+millions oh that's where the tra sits
+Fraser is tasked with doing the same for
+pool and she says gambling is the least
+of her worries what's the state of
+professional pool today ah an absolute
+mess why' you say that the first ever US
+Open that I did in
+2019 oh my gosh the players turned up
+they were in jeans when I'm going hang
+on a second like what's happening here
+why is this guy turning up in jeans
+Fraser has asked Pro players to dress
+the part but she won't ask them to give
+up their side hustles now all of the
+basement tables and the money matches I
+think that's brilliant and that can
+still yeah I think that it's fantastic
+because it's got the history behind it
+you're okay if people are still they're
+gambling and playing money games as far
+as I'm concerned in a couple years time
+they won't need to have any money it'll
+be obsolete the market will do its thing
+exactly but right now now it's not
+viewed as this professional sport and it
+has all the ingredients to be one she
+standardize the format this is
+commercialized sponsor friendly nineball
+not the solids and Stripes eight ball
+you've likely played in October at the
+US Open held in Atlantic City Fraser
+brought in bigger live audiences and
+ramped up TV production she's kept one
+pool Hallmark the Smoke Filled Room
+close but no cigar there's a machine
+puffing away in the corner When the
+Smoke cleared there was Shane Van
+boning he was fresh off winning his
+first world championship sealing his
+status at top the sport he confided to
+us that he'd slept with the trophy for a
+month van boning is mobbed at pool
+tournaments but can still walk through
+an airport unbothered well he's no
+LeBron James and I totally understand
+that and I recognize that um it's our
+job to turn that around it is our
+responsibility to turn that world number
+one prize money from
+$80,000 to a million so it's prize money
+it's more events and let's get these
+players known you've got to fall in love
+with them are they lovable yes some of
+them the health of the sport also
+depends on minting a new generation of
+elite players so this tournament had a
+junior division held alongside the pros
+and named what else the Shane Van boning
+Jr open these are future Pros oh yeah
+definitely definitely they have so much
+passion for the game and then I'm going
+to shoot the Shish back at the pool hall
+in Rapid City we experience pool's highs
+and lows in the same
+hour didn't even let me hit a ball ever
+the sports gentleman Shane Van boning
+wouldn't let us leave without setting us
+up to s a trick shot pool may or may not
+clean up its act but any sport that can
+provide this kind of pure simple thrill
+just go right down the middle yep right
+down the middle you reckon it'll survive
+just
+[Laughter]
+fine you got
+that

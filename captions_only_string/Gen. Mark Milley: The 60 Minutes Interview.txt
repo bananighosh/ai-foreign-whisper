@@ -1,346 +1,346 @@
-{"text": "General Mark Millie completed a", "start": 1.88, "duration": 4.16}
-{"text": "four-year term as chairman of the Joint", "start": 3.8, "duration": 4.64}
-{"text": "Chiefs of Staff the nation's highest", "start": 6.04, "duration": 4.96}
-{"text": "ranking military officer on September", "start": 8.44, "duration": 5.119}
-{"text": "30th he told us he spent most of his", "start": 11.0, "duration": 5.039}
-{"text": "time working to avoid a direct conflict", "start": 13.559, "duration": 4.921}
-{"text": "with Russia and China while the country", "start": 16.039, "duration": 5.0}
-{"text": "watched him have a very public falling", "start": 18.48, "duration": 4.92}
-{"text": "out with former president Trump the man", "start": 21.039, "duration": 4.641}
-{"text": "who picked him for the job General", "start": 23.4, "duration": 4.119}
-{"text": "Millie's times serving President Joe", "start": 25.68, "duration": 4.359}
-{"text": "Biden had its own challenges including", "start": 27.519, "duration": 4.841}
-{"text": "America's calamitous withdrawal from", "start": 30.039, "duration": 4.761}
-{"text": "Afghanistan as well as providing Ukraine", "start": 32.36, "duration": 4.16}
-{"text": "with billions of dollars worth of", "start": 34.8, "duration": 4.599}
-{"text": "American military equipment a few hours", "start": 36.52, "duration": 4.44}
-{"text": "before we sat down with the general at", "start": 39.399, "duration": 3.561}
-{"text": "the Pentagon he'd had his final phone", "start": 40.96, "duration": 4.32}
-{"text": "call with the commander of Ukraine's", "start": 42.96, "duration": 4.279}
-{"text": "armed", "start": 45.28, "duration": 6.88}
-{"text": "forces the story will continue in a", "start": 47.239, "duration": 4.921}
-{"text": "moment the counter offensive that the", "start": 52.359, "duration": 4.72}
-{"text": "ukrainians are running is still ongoing", "start": 54.52, "duration": 4.8}
-{"text": "um the progress as uh many many people", "start": 57.079, "duration": 3.881}
-{"text": "have noted is slow but it is steady and", "start": 59.32, "duration": 3.879}
-{"text": "they are making progress on a day-to-day", "start": 60.96, "duration": 4.6}
-{"text": "basis but expelling 200,000 Russian", "start": 63.199, "duration": 4.92}
-{"text": "soldiers No Easy Task very hard very", "start": 65.56, "duration": 4.08}
-{"text": "hard how long is this going to look like", "start": 68.119, "duration": 4.121}
-{"text": "this a year five years well you can't", "start": 69.64, "duration": 3.799}
-{"text": "put a Time on it but it'll be a", "start": 72.24, "duration": 2.28}
-{"text": "considerable length of time and it's", "start": 73.439, "duration": 2.481}
-{"text": "going to be long and hard and very", "start": 74.52, "duration": 5.16}
-{"text": "bloody Russia occupies 41,000 square", "start": 75.92, "duration": 6.72}
-{"text": "miles of Ukraine the front line extends", "start": 79.68, "duration": 5.28}
-{"text": "about the distance from Atlanta to", "start": 82.64, "duration": 5.839}
-{"text": "Washington DC in Congress this past week", "start": 84.96, "duration": 5.839}
-{"text": "Republicans ended Kevin McCarthy's", "start": 88.479, "duration": 5.28}
-{"text": "speakership and for now more Aid to", "start": 90.799, "duration": 5.561}
-{"text": "Ukraine according to the White House of", "start": 93.759, "duration": 6.0}
-{"text": "the 113 billion already committed", "start": 96.36, "duration": 5.56}
-{"text": "there's only enough left to last a few", "start": 99.759, "duration": 5.04}
-{"text": "more months with all of the issues", "start": 101.92, "duration": 5.879}
-{"text": "facing Americans at home why is this", "start": 104.799, "duration": 6.0}
-{"text": "worth it if Ukraine loses and Putin wins", "start": 107.799, "duration": 4.32}
-{"text": "I think you would be certainly", "start": 110.799, "duration": 3.081}
-{"text": "increasing if not doubling your defense", "start": 112.119, "duration": 3.64}
-{"text": "budget in the years ahead and you will", "start": 113.88, "duration": 3.32}
-{"text": "increase the probability of a great", "start": 115.759, "duration": 3.081}
-{"text": "power war in the next 10 to 15 years I", "start": 117.2, "duration": 3.12}
-{"text": "think it' be a very dangerous situation", "start": 118.84, "duration": 3.12}
-{"text": "if if Putin's allowed to win Ukraine", "start": 120.32, "duration": 4.04}
-{"text": "Russia obviously is what drives this", "start": 121.96, "duration": 4.68}
-{"text": "meeting today the chairman of the Joint", "start": 124.36, "duration": 4.519}
-{"text": "Chiefs is the commander and Chief's", "start": 126.64, "duration": 4.76}
-{"text": "principal military adviser but commands", "start": 128.879, "duration": 5.321}
-{"text": "no troops in battle I am obligated uh", "start": 131.4, "duration": 4.28}
-{"text": "regardless of consequences to give my", "start": 134.2, "duration": 3.679}
-{"text": "advice to the president but no president", "start": 135.68, "duration": 4.12}
-{"text": "is obligated to follow that advice this", "start": 137.879, "duration": 4.041}
-{"text": "past August General Millie invited us to", "start": 139.8, "duration": 4.4}
-{"text": "board the USS Constitution in Boston", "start": 141.92, "duration": 5.2}
-{"text": "Harbor not far from where he grew up", "start": 144.2, "duration": 5.119}
-{"text": "we're the only uh military in the world", "start": 147.12, "duration": 4.759}
-{"text": "that swear an oath not to a king a queen", "start": 149.319, "duration": 4.881}
-{"text": "a tyrant a wouldbe tyrant or a dictator", "start": 151.879, "duration": 4.121}
-{"text": "we swear an oath to an idea the idea", "start": 154.2, "duration": 3.84}
-{"text": "that is American it's and it's embodied", "start": 156.0, "duration": 3.8}
-{"text": "in that document the Constitution which", "start": 158.04, "duration": 4.76}
-{"text": "sets up our form of government in 2021", "start": 159.8, "duration": 4.88}
-{"text": "General Millie had counseled President", "start": 162.8, "duration": 5.92}
-{"text": "Biden to keep 2,500 troops in and around", "start": 164.68, "duration": 6.88}
-{"text": "Cobell instead Mr Biden ordered a", "start": 168.72, "duration": 5.32}
-{"text": "complete withdrawal to end America's", "start": 171.56, "duration": 6.0}
-{"text": "longest war after 20 years the disaster", "start": 174.04, "duration": 5.8}
-{"text": "that followed will be part of both of", "start": 177.56, "duration": 5.64}
-{"text": "their legacies I go through the entire", "start": 179.84, "duration": 6.119}
-{"text": "uh withdrawal from uh Afghanistan", "start": 183.2, "duration": 4.84}
-{"text": "chapter and verse all the time that was", "start": 185.959, "duration": 3.84}
-{"text": "a a strategic failure for the United", "start": 188.04, "duration": 3.68}
-{"text": "States the enemy occupied the capital", "start": 189.799, "duration": 3.241}
-{"text": "city of the country that you were", "start": 191.72, "duration": 3.64}
-{"text": "supporting so to me uh that hurts it", "start": 193.04, "duration": 4.279}
-{"text": "hurts a big way but no matter what pain", "start": 195.36, "duration": 4.439}
-{"text": "I feel or anyone else feels nothing", "start": 197.319, "duration": 4.361}
-{"text": "comes even close to the pain of those", "start": 199.799, "duration": 3.601}
-{"text": "that were killed to those who served in", "start": 201.68, "duration": 5.0}
-{"text": "Afghanistan for two decades and lost", "start": 203.4, "duration": 5.96}
-{"text": "family members and friends and wonder", "start": 206.68, "duration": 5.88}
-{"text": "was it worth it that's always the", "start": 209.36, "duration": 6.799}
-{"text": "question right so 2461 killed in action", "start": 212.56, "duration": 5.56}
-{"text": "by the enemy in Afghanistan over 20", "start": 216.159, "duration": 3.921}
-{"text": "years was it worth it look at I can't", "start": 218.12, "duration": 4.08}
-{"text": "answer that for other people this is a", "start": 220.08, "duration": 3.439}
-{"text": "tough business that we're in this", "start": 222.2, "duration": 3.2}
-{"text": "military business it's unforgiving The", "start": 223.519, "duration": 4.241}
-{"text": "Crucible of combat's unforgiving people", "start": 225.4, "duration": 3.96}
-{"text": "die they lose their arms they lose their", "start": 227.76, "duration": 4.559}
-{"text": "legs it's an incredibly difficult uh", "start": 229.36, "duration": 6.0}
-{"text": "life but is it worth it look around you", "start": 232.319, "duration": 6.12}
-{"text": "uh look ask yourself the question uh for", "start": 235.36, "duration": 4.799}
-{"text": "me I've answered it many many times over", "start": 238.439, "duration": 2.88}
-{"text": "and that's why I stay in uniform and", "start": 240.159, "duration": 3.08}
-{"text": "that's why I maintain my oath his", "start": 241.319, "duration": 3.601}
-{"text": "commitment to that oath would be both", "start": 243.239, "duration": 4.761}
-{"text": "tested and questioned by Donald Trump", "start": 244.92, "duration": 5.28}
-{"text": "while their relationship began with kind", "start": 248.0, "duration": 4.599}
-{"text": "words uh Mark Milly he's a great", "start": 250.2, "duration": 4.239}
-{"text": "gentleman he's a great Patriot he's a", "start": 252.599, "duration": 4.441}
-{"text": "great Soldier after the January 6th", "start": 254.439, "duration": 4.92}
-{"text": "Insurrection the two men would not speak", "start": 257.04, "duration": 5.92}
-{"text": "again what do we want we their public", "start": 259.359, "duration": 5.56}
-{"text": "estrangement started in the spring of", "start": 262.96, "duration": 4.84}
-{"text": "2020 when protests for racial Justice", "start": 264.919, "duration": 5.361}
-{"text": "some violent spread across the country", "start": 267.8, "duration": 5.52}
-{"text": "including to Washington DC perhaps more", "start": 270.28, "duration": 5.68}
-{"text": "than any other chairman in the role you", "start": 273.32, "duration": 6.2}
-{"text": "have become ins snarled in politics and", "start": 275.96, "duration": 5.799}
-{"text": "arguably threats to the Constitution", "start": 279.52, "duration": 4.239}
-{"text": "what have you learned from that well I", "start": 281.759, "duration": 3.561}
-{"text": "think it's important to to keep your", "start": 283.759, "duration": 4.0}
-{"text": "North Star which is the Constitution we", "start": 285.32, "duration": 5.76}
-{"text": "the military are not only apolitical we", "start": 287.759, "duration": 5.681}
-{"text": "are nonpartisan you can't pick sides", "start": 291.08, "duration": 4.959}
-{"text": "June 1st 2020 was that a turning point", "start": 293.44, "duration": 4.8}
-{"text": "for you as chairman I think it was yeah", "start": 296.039, "duration": 4.041}
-{"text": "I realized that", "start": 298.24, "duration": 4.08}
-{"text": "stepped into a political Minefield and I", "start": 300.08, "duration": 3.0}
-{"text": "shouldn't", "start": 302.32, "duration": 3.36}
-{"text": "have he's talking about the day when", "start": 303.08, "duration": 4.44}
-{"text": "President Trump threatened to invoke the", "start": 305.68, "duration": 4.6}
-{"text": "Insurrection act and deploy the US Army", "start": 307.52, "duration": 6.0}
-{"text": "to put down the unrest on America's", "start": 310.28, "duration": 6.32}
-{"text": "streets on the evening of June 1st after", "start": 313.52, "duration": 5.0}
-{"text": "demonstrators near the White House were", "start": 316.6, "duration": 4.719}
-{"text": "removed by", "start": 318.52, "duration": 2.799}
-{"text": "force chairman Millie dressed in battle", "start": 321.56, "duration": 4.96}
-{"text": "fatigues joined president Trump and", "start": 324.36, "duration": 4.679}
-{"text": "members of his cabinet in a march across", "start": 326.52, "duration": 5.399}
-{"text": "lafay Square to St John's Church where", "start": 329.039, "duration": 5.081}
-{"text": "Mr Trump posed for", "start": 331.919, "duration": 5.081}
-{"text": "photographs 10 days later General Millie", "start": 334.12, "duration": 5.199}
-{"text": "apologized in a speech to graduates of", "start": 337.0, "duration": 4.759}
-{"text": "the National Defense University my", "start": 339.319, "duration": 4.6}
-{"text": "presence in that moment and in that", "start": 341.759, "duration": 4.361}
-{"text": "environment created a perception of the", "start": 343.919, "duration": 5.161}
-{"text": "military involved in domestic Politics", "start": 346.12, "duration": 5.199}
-{"text": "as a commissioned uniformed officer it", "start": 349.08, "duration": 4.8}
-{"text": "was a mistake that I have learned from", "start": 351.319, "duration": 4.361}
-{"text": "it's rare for a chairman to apologize", "start": 353.88, "duration": 3.84}
-{"text": "publicly well you know I grew up here in", "start": 355.68, "duration": 5.16}
-{"text": "Boston I'm Irish Catholic and my mother", "start": 357.72, "duration": 4.36}
-{"text": "and father taught me that when you make", "start": 360.84, "duration": 2.359}
-{"text": "a mistake you admit it you got a", "start": 362.08, "duration": 2.8}
-{"text": "confession you say 10 hell Mar is an Al", "start": 363.199, "duration": 3.921}
-{"text": "father everybody makes mistakes and and", "start": 364.88, "duration": 4.4}
-{"text": "the key is how you deal with a mistake", "start": 367.12, "duration": 4.079}
-{"text": "after you apologized former president", "start": 369.28, "duration": 4.0}
-{"text": "Trump said you choked like a", "start": 371.199, "duration": 4.521}
-{"text": "dog yeah I'm not going to comment on", "start": 373.28, "duration": 3.919}
-{"text": "anything the former president has said", "start": 375.72, "duration": 4.199}
-{"text": "or not said General Millie did tell us", "start": 377.199, "duration": 4.881}
-{"text": "he was so disillusioned with the former", "start": 379.919, "duration": 5.28}
-{"text": "president's actions he nearly resigned", "start": 382.08, "duration": 4.959}
-{"text": "instead according to Former Defense", "start": 385.199, "duration": 4.28}
-{"text": "secretary Mark esper he and the general", "start": 387.039, "duration": 5.28}
-{"text": "made a pact to protect the military from", "start": 389.479, "duration": 6.241}
-{"text": "becoming politicized or misused it's", "start": 392.319, "duration": 5.32}
-{"text": "also been reported that you spent", "start": 395.72, "duration": 3.84}
-{"text": "several days several drafts of", "start": 397.639, "duration": 4.521}
-{"text": "resignation letters right I was very", "start": 399.56, "duration": 5.079}
-{"text": "struck by the one that was published in", "start": 402.16, "duration": 4.52}
-{"text": "which you said to the president it is my", "start": 404.639, "duration": 4.081}
-{"text": "deeply held belief that you are ruining", "start": 406.68, "duration": 4.4}
-{"text": "the international order causing", "start": 408.72, "duration": 3.919}
-{"text": "significant damage to our country", "start": 411.08, "duration": 4.239}
-{"text": "overseas that was fought so hard by the", "start": 412.639, "duration": 4.361}
-{"text": "greatest Generation in", "start": 415.319, "duration": 4.201}
-{"text": "1945 that generation has fought against", "start": 417.0, "duration": 5.0}
-{"text": "fascism has fought against Nazism has", "start": 419.52, "duration": 4.72}
-{"text": "fought against extremism it's now", "start": 422.0, "duration": 5.28}
-{"text": "obvious to me that you don't understand", "start": 424.24, "duration": 6.48}
-{"text": "that World Order you don't think Donald", "start": 427.28, "duration": 5.12}
-{"text": "Trump understood what World War II was", "start": 430.72, "duration": 5.12}
-{"text": "fought over I don't know what uh", "start": 432.4, "duration": 5.639}
-{"text": "president former president Trump uh", "start": 435.84, "duration": 4.68}
-{"text": "understood about World War II or or or", "start": 438.039, "duration": 4.961}
-{"text": "or anything else uh I I can tell you", "start": 440.52, "duration": 5.119}
-{"text": "that from 1914 to", "start": 443.0, "duration": 6.36}
-{"text": "1945 150 million people or thereabouts", "start": 445.639, "duration": 5.201}
-{"text": "were slaughtered in the conduct of great", "start": 449.36, "duration": 3.88}
-{"text": "power war and in 1945 the United States", "start": 450.84, "duration": 5.199}
-{"text": "took the initiative and drafted up a set", "start": 453.24, "duration": 4.679}
-{"text": "of rules that govern the world to this", "start": 456.039, "duration": 4.521}
-{"text": "day those rules are under stress", "start": 457.919, "duration": 4.72}
-{"text": "internationally President Putin is a", "start": 460.56, "duration": 4.52}
-{"text": "direct frontal assault on those rules uh", "start": 462.639, "duration": 4.52}
-{"text": "China is trying to revise those rules to", "start": 465.08, "duration": 3.799}
-{"text": "their own benefit but that's one thing", "start": 467.159, "duration": 3.401}
-{"text": "to say that China is threatening that", "start": 468.879, "duration": 3.561}
-{"text": "World Order and Russia is threatening", "start": 470.56, "duration": 3.96}
-{"text": "that world order to say that the", "start": 472.44, "duration": 4.879}
-{"text": "Commander in Chief Donald Trump was", "start": 474.52, "duration": 4.799}
-{"text": "ruining the international order in", "start": 477.319, "duration": 5.081}
-{"text": "causing significant damage what did you", "start": 479.319, "duration": 5.401}
-{"text": "see that caused you to write that I I", "start": 482.4, "duration": 3.4}
-{"text": "would say that it's got to be more than", "start": 484.72, "duration": 2.56}
-{"text": "walking into Lafayette Square and", "start": 485.8, "duration": 4.079}
-{"text": "uniform there was a wide variety of", "start": 487.28, "duration": 4.319}
-{"text": "initiatives that were ongoing one of", "start": 489.879, "duration": 3.401}
-{"text": "them of course was with drawing troops", "start": 491.599, "duration": 4.44}
-{"text": "out of NATO those were initiatives that", "start": 493.28, "duration": 6.08}
-{"text": "placed at risk um you know I think", "start": 496.039, "duration": 5.401}
-{"text": "America's rolling the world now that is", "start": 499.36, "duration": 5.239}
-{"text": "uh the opposite of uh what my parents", "start": 501.44, "duration": 5.8}
-{"text": "and and uh 18 million others wore the", "start": 504.599, "duration": 4.681}
-{"text": "uniform for World War II to defeat", "start": 507.24, "duration": 4.28}
-{"text": "General Millie doesn't just Revere the", "start": 509.28, "duration": 5.48}
-{"text": "greatest Generation he was raised by it", "start": 511.52, "duration": 5.319}
-{"text": "his father was a Navy medic who served", "start": 514.76, "duration": 4.44}
-{"text": "in the Pacific Campaign including at the", "start": 516.839, "duration": 5.12}
-{"text": "Battle of iima his mother joined the", "start": 519.2, "duration": 5.04}
-{"text": "naval Reserve to work as a", "start": 521.959, "duration": 5.361}
-{"text": "nurse well this was and Still Remains a", "start": 524.24, "duration": 4.88}
-{"text": "very patriotic neighborhood after the", "start": 527.32, "duration": 4.44}
-{"text": "war they settled in Winchester a small", "start": 529.12, "duration": 5.56}
-{"text": "town north of Boston almost every", "start": 531.76, "duration": 6.04}
-{"text": "single uh male and female parent that", "start": 534.68, "duration": 4.96}
-{"text": "was here they're all World War Two", "start": 537.8, "duration": 3.56}
-{"text": "Veterans of one kind or another the", "start": 539.64, "duration": 3.56}
-{"text": "whole block really a lot ofbody yeah", "start": 541.36, "duration": 4.84}
-{"text": "100% and interesting no officers uh", "start": 543.2, "duration": 5.6}
-{"text": "these were all 100% enlisted and they", "start": 546.2, "duration": 4.44}
-{"text": "had their own opinions of officers too", "start": 548.8, "duration": 3.599}
-{"text": "including your parents right oh yeah", "start": 550.64, "duration": 3.84}
-{"text": "yeah during high school he was recruited", "start": 552.399, "duration": 3.761}
-{"text": "to play ice hockey at Princeton", "start": 554.48, "duration": 3.96}
-{"text": "University and decided to join The", "start": 556.16, "duration": 5.119}
-{"text": "Reserve officer training Corps or", "start": 558.44, "duration": 6.24}
-{"text": "Roc after graduating in 1980 he went on", "start": 561.279, "duration": 5.521}
-{"text": "to become a paratrooper and serve in", "start": 564.68, "duration": 5.08}
-{"text": "Special Forces he did one com tour in", "start": 566.8, "duration": 6.0}
-{"text": "Iraq and three in Afghanistan raise your", "start": 569.76, "duration": 5.36}
-{"text": "right hand this past may he returned to", "start": 572.8, "duration": 4.8}
-{"text": "Princeton to commission the graduating", "start": 575.12, "duration": 5.12}
-{"text": "Roc class congratulations to every one", "start": 577.6, "duration": 5.44}
-{"text": "of you and took a particular interest", "start": 580.24, "duration": 4.8}
-{"text": "all right Cadets in a few of the young", "start": 583.04, "duration": 4.359}
-{"text": "officers whose language skills are", "start": 585.04, "duration": 5.08}
-{"text": "currently in high demand I speak Chinese", "start": 587.399, "duration": 4.56}
-{"text": "sir Chinese is really really important", "start": 590.12, "duration": 4.0}
-{"text": "to us does anybody else speak Chinese", "start": 591.959, "duration": 6.56}
-{"text": "whoa 1 two 3 4 five if you speak Chinese", "start": 594.12, "duration": 6.36}
-{"text": "if you don't mind I'd like to get your", "start": 598.519, "duration": 4.681}
-{"text": "names uh and we'll see where life takes", "start": 600.48, "duration": 5.12}
-{"text": "you guys we the United States need to", "start": 603.2, "duration": 4.04}
-{"text": "take the challenge the military", "start": 605.6, "duration": 3.52}
-{"text": "challenge of China extraordinarily", "start": 607.24, "duration": 5.2}
-{"text": "seriously how concerned are you that", "start": 609.12, "duration": 6.12}
-{"text": "military to military Communications are", "start": 612.44, "duration": 4.639}
-{"text": "not happening right now with China yeah", "start": 615.24, "duration": 3.719}
-{"text": "I think we need to get that established", "start": 617.079, "duration": 3.88}
-{"text": "uh we had them for a period of time and", "start": 618.959, "duration": 3.841}
-{"text": "they've dropped off so channels of", "start": 620.959, "duration": 3.521}
-{"text": "communication are important in order to", "start": 622.8, "duration": 3.8}
-{"text": "deescalate in time of Crisis general", "start": 624.48, "duration": 4.64}
-{"text": "Millie says he held a total of five", "start": 626.6, "duration": 4.4}
-{"text": "calls with his Chinese military", "start": 629.12, "duration": 4.68}
-{"text": "counterparts during the Trump and Biden", "start": 631.0, "duration": 4.959}
-{"text": "administrations but it was his last two", "start": 633.8, "duration": 4.039}
-{"text": "calls during the final months of the", "start": 635.959, "duration": 4.241}
-{"text": "Trump presidency that got the attention", "start": 637.839, "duration": 5.161}
-{"text": "of the press Congress and the former", "start": 640.2, "duration": 5.16}
-{"text": "president himself why did you think it", "start": 643.0, "duration": 5.2}
-{"text": "was so important to call your Chinese", "start": 645.36, "duration": 5.039}
-{"text": "military counterpart in the aftermath of", "start": 648.2, "duration": 3.879}
-{"text": "the January 6th attacks that's an", "start": 650.399, "duration": 4.24}
-{"text": "example of deescalation so there was", "start": 652.079, "duration": 4.601}
-{"text": "clear indications uh that the Chinese", "start": 654.639, "duration": 3.921}
-{"text": "were very concerned about what they were", "start": 656.68, "duration": 4.56}
-{"text": "observing here in the United States you", "start": 658.56, "duration": 4.839}
-{"text": "see some movement of Chinese military", "start": 661.24, "duration": 3.24}
-{"text": "equipment I w't go over anything", "start": 663.399, "duration": 3.88}
-{"text": "classified um so I won't discuss exactly", "start": 664.48, "duration": 4.88}
-{"text": "what we saw or didn't see or what we", "start": 667.279, "duration": 4.441}
-{"text": "heard or didn't hear I will just say", "start": 669.36, "duration": 4.4}
-{"text": "that uh there was clear indications that", "start": 671.72, "duration": 4.0}
-{"text": "the Chinese are very concerned president", "start": 673.76, "duration": 4.16}
-{"text": "Trump recently said that your dealings", "start": 675.72, "duration": 4.52}
-{"text": "with China were so egregious that in", "start": 677.92, "duration": 5.08}
-{"text": "Times Gone by the punishment would have", "start": 680.24, "duration": 5.36}
-{"text": "been", "start": 683.0, "duration": 2.6}
-{"text": "death that's right he said that but for", "start": 686.8, "duration": 3.52}
-{"text": "the record was there anything", "start": 689.24, "duration": 3.0}
-{"text": "inappropriate or treasonous about the", "start": 690.32, "duration": 3.68}
-{"text": "calls you made to China absolutely not", "start": 692.24, "duration": 3.88}
-{"text": "zero none and not only that they were", "start": 694.0, "duration": 3.639}
-{"text": "authorized and they coordinated uh", "start": 696.12, "duration": 3.12}
-{"text": "Congress knows that we've answered these", "start": 697.639, "duration": 3.081}
-{"text": "questions several different times in", "start": 699.24, "duration": 3.08}
-{"text": "writing were you giving the Chinese", "start": 700.72, "duration": 3.239}
-{"text": "information about thinking of the", "start": 702.32, "duration": 3.44}
-{"text": "president of the United States the", "start": 703.959, "duration": 4.281}
-{"text": "specific conversation was I think in", "start": 705.76, "duration": 4.199}
-{"text": "accordance with the intent of the", "start": 708.24, "duration": 3.44}
-{"text": "Secretary of Defense which was to make", "start": 709.959, "duration": 3.161}
-{"text": "sure the Chinese knew that we were not", "start": 711.68, "duration": 3.399}
-{"text": "going to attack them why did the Chinese", "start": 713.12, "duration": 4.0}
-{"text": "think that the US under then president", "start": 715.079, "duration": 3.481}
-{"text": "Trump was going to attack them the", "start": 717.12, "duration": 3.56}
-{"text": "Chinese were concerned about uh what", "start": 718.56, "duration": 4.279}
-{"text": "what is commonly referred to in in the", "start": 720.68, "duration": 3.399}
-{"text": "English language like an October", "start": 722.839, "duration": 3.961}
-{"text": "surprise Wag the Dog sort of thing uh", "start": 724.079, "duration": 4.721}
-{"text": "they were wrong they were not reading us", "start": 726.8, "duration": 3.839}
-{"text": "right look at the president Trump was", "start": 728.8, "duration": 4.159}
-{"text": "not going to attack China uh and they", "start": 730.639, "duration": 4.921}
-{"text": "needed to know that China Russia and the", "start": 732.959, "duration": 5.281}
-{"text": "war in Ukraine are now the problem of", "start": 735.56, "duration": 6.079}
-{"text": "his successor Air Force General Charles", "start": 738.24, "duration": 4.76}
-{"text": "Q Brown", "start": 741.639, "duration": 4.2}
-{"text": "Jr there are also areas of concern", "start": 743.0, "duration": 6.04}
-{"text": "closer to home last year the Army missed", "start": 745.839, "duration": 6.8}
-{"text": "recruiting numbers by 15,000 Soldiers", "start": 749.04, "duration": 6.239}
-{"text": "the worst shortfall in decades", "start": 752.639, "duration": 5.161}
-{"text": "confidence in the US military is at its", "start": 755.279, "duration": 5.12}
-{"text": "lowest in two decades do you bear any", "start": 757.8, "duration": 4.8}
-{"text": "personal responsibility for that", "start": 760.399, "duration": 3.88}
-{"text": "absolutely I think I think as the leader", "start": 762.6, "duration": 3.56}
-{"text": "of the military the uniform military I", "start": 764.279, "duration": 3.8}
-{"text": "think that I am part of that for sure I", "start": 766.16, "duration": 4.08}
-{"text": "think the walk from the White House to", "start": 768.079, "duration": 4.401}
-{"text": "the St John's Church I think that uh", "start": 770.24, "duration": 3.76}
-{"text": "helped create some of that I think the", "start": 772.48, "duration": 3.799}
-{"text": "withdrawal from Afghanistan uh helped", "start": 774.0, "duration": 3.6}
-{"text": "create some of that but I would also say", "start": 776.279, "duration": 3.401}
-{"text": "the United States military is still one", "start": 777.6, "duration": 3.919}
-{"text": "of the most respected institutions in", "start": 779.68, "duration": 4.519}
-{"text": "the United States by a long shot uh by", "start": 781.519, "duration": 4.76}
-{"text": "huge margin you know I I think we've uh", "start": 784.199, "duration": 3.601}
-{"text": "taken a slip back a little bit and I", "start": 786.279, "duration": 4.401}
-{"text": "think we need to improve on", "start": 787.8, "duration": 2.88}
-{"text": "that General Mark Milly on the future of", "start": 792.839, "duration": 6.321}
-{"text": "warfare does it make war more likely it", "start": 795.88, "duration": 6.319}
-{"text": "could at 60 Minutes overtime.com in the", "start": 799.16, "duration": 6.72}
-{"text": "character of War which is", "start": 802.199, "duration": 3.681}
+General Mark Millie completed a
+four-year term as chairman of the Joint
+Chiefs of Staff the nation's highest
+ranking military officer on September
+30th he told us he spent most of his
+time working to avoid a direct conflict
+with Russia and China while the country
+watched him have a very public falling
+out with former president Trump the man
+who picked him for the job General
+Millie's times serving President Joe
+Biden had its own challenges including
+America's calamitous withdrawal from
+Afghanistan as well as providing Ukraine
+with billions of dollars worth of
+American military equipment a few hours
+before we sat down with the general at
+the Pentagon he'd had his final phone
+call with the commander of Ukraine's
+armed
+forces the story will continue in a
+moment the counter offensive that the
+ukrainians are running is still ongoing
+um the progress as uh many many people
+have noted is slow but it is steady and
+they are making progress on a day-to-day
+basis but expelling 200,000 Russian
+soldiers No Easy Task very hard very
+hard how long is this going to look like
+this a year five years well you can't
+put a Time on it but it'll be a
+considerable length of time and it's
+going to be long and hard and very
+bloody Russia occupies 41,000 square
+miles of Ukraine the front line extends
+about the distance from Atlanta to
+Washington DC in Congress this past week
+Republicans ended Kevin McCarthy's
+speakership and for now more Aid to
+Ukraine according to the White House of
+the 113 billion already committed
+there's only enough left to last a few
+more months with all of the issues
+facing Americans at home why is this
+worth it if Ukraine loses and Putin wins
+I think you would be certainly
+increasing if not doubling your defense
+budget in the years ahead and you will
+increase the probability of a great
+power war in the next 10 to 15 years I
+think it' be a very dangerous situation
+if if Putin's allowed to win Ukraine
+Russia obviously is what drives this
+meeting today the chairman of the Joint
+Chiefs is the commander and Chief's
+principal military adviser but commands
+no troops in battle I am obligated uh
+regardless of consequences to give my
+advice to the president but no president
+is obligated to follow that advice this
+past August General Millie invited us to
+board the USS Constitution in Boston
+Harbor not far from where he grew up
+we're the only uh military in the world
+that swear an oath not to a king a queen
+a tyrant a wouldbe tyrant or a dictator
+we swear an oath to an idea the idea
+that is American it's and it's embodied
+in that document the Constitution which
+sets up our form of government in 2021
+General Millie had counseled President
+Biden to keep 2,500 troops in and around
+Cobell instead Mr Biden ordered a
+complete withdrawal to end America's
+longest war after 20 years the disaster
+that followed will be part of both of
+their legacies I go through the entire
+uh withdrawal from uh Afghanistan
+chapter and verse all the time that was
+a a strategic failure for the United
+States the enemy occupied the capital
+city of the country that you were
+supporting so to me uh that hurts it
+hurts a big way but no matter what pain
+I feel or anyone else feels nothing
+comes even close to the pain of those
+that were killed to those who served in
+Afghanistan for two decades and lost
+family members and friends and wonder
+was it worth it that's always the
+question right so 2461 killed in action
+by the enemy in Afghanistan over 20
+years was it worth it look at I can't
+answer that for other people this is a
+tough business that we're in this
+military business it's unforgiving The
+Crucible of combat's unforgiving people
+die they lose their arms they lose their
+legs it's an incredibly difficult uh
+life but is it worth it look around you
+uh look ask yourself the question uh for
+me I've answered it many many times over
+and that's why I stay in uniform and
+that's why I maintain my oath his
+commitment to that oath would be both
+tested and questioned by Donald Trump
+while their relationship began with kind
+words uh Mark Milly he's a great
+gentleman he's a great Patriot he's a
+great Soldier after the January 6th
+Insurrection the two men would not speak
+again what do we want we their public
+estrangement started in the spring of
+2020 when protests for racial Justice
+some violent spread across the country
+including to Washington DC perhaps more
+than any other chairman in the role you
+have become ins snarled in politics and
+arguably threats to the Constitution
+what have you learned from that well I
+think it's important to to keep your
+North Star which is the Constitution we
+the military are not only apolitical we
+are nonpartisan you can't pick sides
+June 1st 2020 was that a turning point
+for you as chairman I think it was yeah
+I realized that
+stepped into a political Minefield and I
+shouldn't
+have he's talking about the day when
+President Trump threatened to invoke the
+Insurrection act and deploy the US Army
+to put down the unrest on America's
+streets on the evening of June 1st after
+demonstrators near the White House were
+removed by
+force chairman Millie dressed in battle
+fatigues joined president Trump and
+members of his cabinet in a march across
+lafay Square to St John's Church where
+Mr Trump posed for
+photographs 10 days later General Millie
+apologized in a speech to graduates of
+the National Defense University my
+presence in that moment and in that
+environment created a perception of the
+military involved in domestic Politics
+as a commissioned uniformed officer it
+was a mistake that I have learned from
+it's rare for a chairman to apologize
+publicly well you know I grew up here in
+Boston I'm Irish Catholic and my mother
+and father taught me that when you make
+a mistake you admit it you got a
+confession you say 10 hell Mar is an Al
+father everybody makes mistakes and and
+the key is how you deal with a mistake
+after you apologized former president
+Trump said you choked like a
+dog yeah I'm not going to comment on
+anything the former president has said
+or not said General Millie did tell us
+he was so disillusioned with the former
+president's actions he nearly resigned
+instead according to Former Defense
+secretary Mark esper he and the general
+made a pact to protect the military from
+becoming politicized or misused it's
+also been reported that you spent
+several days several drafts of
+resignation letters right I was very
+struck by the one that was published in
+which you said to the president it is my
+deeply held belief that you are ruining
+the international order causing
+significant damage to our country
+overseas that was fought so hard by the
+greatest Generation in
+1945 that generation has fought against
+fascism has fought against Nazism has
+fought against extremism it's now
+obvious to me that you don't understand
+that World Order you don't think Donald
+Trump understood what World War II was
+fought over I don't know what uh
+president former president Trump uh
+understood about World War II or or or
+or anything else uh I I can tell you
+that from 1914 to
+1945 150 million people or thereabouts
+were slaughtered in the conduct of great
+power war and in 1945 the United States
+took the initiative and drafted up a set
+of rules that govern the world to this
+day those rules are under stress
+internationally President Putin is a
+direct frontal assault on those rules uh
+China is trying to revise those rules to
+their own benefit but that's one thing
+to say that China is threatening that
+World Order and Russia is threatening
+that world order to say that the
+Commander in Chief Donald Trump was
+ruining the international order in
+causing significant damage what did you
+see that caused you to write that I I
+would say that it's got to be more than
+walking into Lafayette Square and
+uniform there was a wide variety of
+initiatives that were ongoing one of
+them of course was with drawing troops
+out of NATO those were initiatives that
+placed at risk um you know I think
+America's rolling the world now that is
+uh the opposite of uh what my parents
+and and uh 18 million others wore the
+uniform for World War II to defeat
+General Millie doesn't just Revere the
+greatest Generation he was raised by it
+his father was a Navy medic who served
+in the Pacific Campaign including at the
+Battle of iima his mother joined the
+naval Reserve to work as a
+nurse well this was and Still Remains a
+very patriotic neighborhood after the
+war they settled in Winchester a small
+town north of Boston almost every
+single uh male and female parent that
+was here they're all World War Two
+Veterans of one kind or another the
+whole block really a lot ofbody yeah
+100% and interesting no officers uh
+these were all 100% enlisted and they
+had their own opinions of officers too
+including your parents right oh yeah
+yeah during high school he was recruited
+to play ice hockey at Princeton
+University and decided to join The
+Reserve officer training Corps or
+Roc after graduating in 1980 he went on
+to become a paratrooper and serve in
+Special Forces he did one com tour in
+Iraq and three in Afghanistan raise your
+right hand this past may he returned to
+Princeton to commission the graduating
+Roc class congratulations to every one
+of you and took a particular interest
+all right Cadets in a few of the young
+officers whose language skills are
+currently in high demand I speak Chinese
+sir Chinese is really really important
+to us does anybody else speak Chinese
+whoa 1 two 3 4 five if you speak Chinese
+if you don't mind I'd like to get your
+names uh and we'll see where life takes
+you guys we the United States need to
+take the challenge the military
+challenge of China extraordinarily
+seriously how concerned are you that
+military to military Communications are
+not happening right now with China yeah
+I think we need to get that established
+uh we had them for a period of time and
+they've dropped off so channels of
+communication are important in order to
+deescalate in time of Crisis general
+Millie says he held a total of five
+calls with his Chinese military
+counterparts during the Trump and Biden
+administrations but it was his last two
+calls during the final months of the
+Trump presidency that got the attention
+of the press Congress and the former
+president himself why did you think it
+was so important to call your Chinese
+military counterpart in the aftermath of
+the January 6th attacks that's an
+example of deescalation so there was
+clear indications uh that the Chinese
+were very concerned about what they were
+observing here in the United States you
+see some movement of Chinese military
+equipment I w't go over anything
+classified um so I won't discuss exactly
+what we saw or didn't see or what we
+heard or didn't hear I will just say
+that uh there was clear indications that
+the Chinese are very concerned president
+Trump recently said that your dealings
+with China were so egregious that in
+Times Gone by the punishment would have
+been
+death that's right he said that but for
+the record was there anything
+inappropriate or treasonous about the
+calls you made to China absolutely not
+zero none and not only that they were
+authorized and they coordinated uh
+Congress knows that we've answered these
+questions several different times in
+writing were you giving the Chinese
+information about thinking of the
+president of the United States the
+specific conversation was I think in
+accordance with the intent of the
+Secretary of Defense which was to make
+sure the Chinese knew that we were not
+going to attack them why did the Chinese
+think that the US under then president
+Trump was going to attack them the
+Chinese were concerned about uh what
+what is commonly referred to in in the
+English language like an October
+surprise Wag the Dog sort of thing uh
+they were wrong they were not reading us
+right look at the president Trump was
+not going to attack China uh and they
+needed to know that China Russia and the
+war in Ukraine are now the problem of
+his successor Air Force General Charles
+Q Brown
+Jr there are also areas of concern
+closer to home last year the Army missed
+recruiting numbers by 15,000 Soldiers
+the worst shortfall in decades
+confidence in the US military is at its
+lowest in two decades do you bear any
+personal responsibility for that
+absolutely I think I think as the leader
+of the military the uniform military I
+think that I am part of that for sure I
+think the walk from the White House to
+the St John's Church I think that uh
+helped create some of that I think the
+withdrawal from Afghanistan uh helped
+create some of that but I would also say
+the United States military is still one
+of the most respected institutions in
+the United States by a long shot uh by
+huge margin you know I I think we've uh
+taken a slip back a little bit and I
+think we need to improve on
+that General Mark Milly on the future of
+warfare does it make war more likely it
+could at 60 Minutes overtime.com in the
+character of War which is
