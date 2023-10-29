@@ -97,7 +97,7 @@ def get_videos_list(youtube, interviews_playlist_id, maxResults=10):
 
     request = youtube.playlistItems().list(
         part="snippet",
-        # maxResults=maxResults,
+        maxResults=maxResults,
         playlistId=interviews_playlist_id
     )
     
@@ -105,8 +105,8 @@ def get_videos_list(youtube, interviews_playlist_id, maxResults=10):
     response_parsed = json_parsed_response(response)
 
     # print(response_parsed["items"][0]["contentDetails"]["videoId"])
-    print(response_parsed["items"][0]["snippet"]["title"])
-    print(response_parsed["items"][0]["snippet"]["resourceId"]["videoId"])
+    # print(response_parsed["items"][0]["snippet"]["title"])
+    # print(response_parsed["items"][0]["snippet"]["resourceId"]["videoId"])
 
     return response_parsed
     # return json_parsed_response(response)
@@ -117,8 +117,8 @@ def get_captions_list(youtube, video_list):
     try:
         for video in video_list["items"]:
 
-            if n_downloads >= 10:
-                break
+            # if n_downloads >= 10:
+            #     break
 
             # video_id = video["contentDetails"]["videoId"]
             video_id = video["snippet"]["resourceId"]["videoId"]
@@ -163,7 +163,7 @@ def get_captions_list(youtube, video_list):
             except Exception as e:
                 print(f"Error fetching captions for {video_title}: {str(e)}")
             
-            n_downloads =  n_downloads + 1
+            # n_downloads =  n_downloads + 1
     except ValueError:
         print(f"error download captions for {video_id}")
                 
@@ -218,7 +218,7 @@ def main():
     video_list = get_videos_list(youtube, interviews_playlist, num_videos)
     captions_list = get_captions_list(youtube, video_list)
 
-    print(captions_list)
+    # print(captions_list)
 
     # download_caption_id(youtube, captions_list)
 
