@@ -1,0 +1,326 @@
+{"text": "in his Hall of Fame NBA career Charles", "start": 4.62, "duration": 5.0}
+{"text": "Barkley accumulated 12", "start": 7.14, "duration": 5.64}
+{"text": "546 rebounds but he pulled the ultimate", "start": 9.62, "duration": 4.78}
+{"text": "rebound when he finished playing", "start": 12.78, "duration": 4.56}
+{"text": "equaling maybe even eclipsing his", "start": 14.4, "duration": 4.5}
+{"text": "considerable skills on a basketball", "start": 17.34, "duration": 4.439}
+{"text": "court with his singular talent in a TV", "start": 18.9, "duration": 3.78}
+{"text": "studio", "start": 21.779, "duration": 3.601}
+{"text": "for the last 23 years Barkley has been", "start": 22.68, "duration": 4.62}
+{"text": "delivering witty blunt provocative", "start": 25.38, "duration": 5.1}
+{"text": "opinions on every imaginable topic often", "start": 27.3, "duration": 5.58}
+{"text": "imparted with a smile always imparted", "start": 30.48, "duration": 4.14}
+{"text": "with I don't give a damn if you agree", "start": 32.88, "duration": 4.5}
+{"text": "with me Candor imagine Mark Twain with a", "start": 34.62, "duration": 5.279}
+{"text": "low post game as we first reported in", "start": 37.38, "duration": 4.62}
+{"text": "March despite his lack of a tongue", "start": 39.899, "duration": 4.921}
+{"text": "editor maybe because of it Barkley Now", "start": 42.0, "duration": 6.059}
+{"text": "60 seems cancel proof granted license to", "start": 44.82, "duration": 5.28}
+{"text": "go right up to that mid-court line of", "start": 48.059, "duration": 4.441}
+{"text": "acceptability even to stomp over it", "start": 50.1, "duration": 4.74}
+{"text": "sometimes it's made him more relevant", "start": 52.5, "duration": 5.1}
+{"text": "than ever it's made him dare we say it", "start": 54.84, "duration": 5.879}
+{"text": "an American treasure", "start": 57.6, "duration": 7.4}
+{"text": "the story will continue in a moment", "start": 60.719, "duration": 4.281}
+{"text": "why do you suppose people want to listen", "start": 66.06, "duration": 2.87}
+{"text": "to you", "start": 67.86, "duration": 5.16}
+{"text": "[Laughter]", "start": 68.93, "duration": 6.07}
+{"text": "I think they know that I'm gonna be", "start": 73.02, "duration": 3.18}
+{"text": "honest", "start": 75.0, "duration": 3.42}
+{"text": "I'm gonna be fair", "start": 76.2, "duration": 5.099}
+{"text": "I don't have a hidden agenda", "start": 78.42, "duration": 5.22}
+{"text": "not many people on TV that you can set", "start": 81.299, "duration": 3.481}
+{"text": "out about", "start": 83.64, "duration": 5.04}
+{"text": "what's up everybody what's up", "start": 84.78, "duration": 6.0}
+{"text": "you don't have a chance to win every", "start": 88.68, "duration": 4.079}
+{"text": "year that's one of the biggest lies ever", "start": 90.78, "duration": 2.5}
+{"text": "told", "start": 92.759, "duration": 1.86}
+{"text": "[Music]", "start": 93.28, "duration": 3.979}
+{"text": "60 nights a year Charles Barkley is the", "start": 94.619, "duration": 6.721}
+{"text": "go-to guy on TNT's Inside the NBA I like", "start": 97.259, "duration": 6.18}
+{"text": "this do people like you think our team", "start": 101.34, "duration": 4.44}
+{"text": "sucks I'm like uh yeah I only think that", "start": 103.439, "duration": 5.101}
+{"text": "because they suck a path breaking Emmy", "start": 105.78, "duration": 5.1}
+{"text": "dominating show that makes for riveting", "start": 108.54, "duration": 5.539}
+{"text": "unscripted TV you big dummy", "start": 110.88, "duration": 6.379}
+{"text": "you're fun up there it's just basketball", "start": 114.079, "duration": 6.4}
+{"text": "we're not solving inflation we didn't", "start": 117.259, "duration": 5.561}
+{"text": "just get back from Afghanistan but", "start": 120.479, "duration": 4.081}
+{"text": "you're not a used car salesman either I", "start": 122.82, "duration": 3.78}
+{"text": "mean if the game's no good you'll admit", "start": 124.56, "duration": 4.259}
+{"text": "it oh yeah because the fans ain't stupid", "start": 126.6, "duration": 4.74}
+{"text": "they just saw it if I tell them that was", "start": 128.819, "duration": 3.481}
+{"text": "a good game they're gonna be like what", "start": 131.34, "duration": 2.46}
+{"text": "the hell is Charles talking about you", "start": 132.3, "duration": 3.0}
+{"text": "said sometimes you've even fallen asleep", "start": 133.8, "duration": 3.72}
+{"text": "on the set oh I fall asleep man like", "start": 135.3, "duration": 3.84}
+{"text": "just sitting there watching like oh man", "start": 137.52, "duration": 4.26}
+{"text": "this is just bad basketball you know I'm", "start": 139.14, "duration": 4.5}
+{"text": "gonna raise some hell around here this", "start": 141.78, "duration": 3.959}
+{"text": "is what America has come to expect from", "start": 143.64, "duration": 4.38}
+{"text": "Charles Barkley we have to talk about", "start": 145.739, "duration": 4.681}
+{"text": "the Lakers the Lakers are awful for", "start": 148.02, "duration": 3.9}
+{"text": "Chuck it's just I'm going to let it fly", "start": 150.42, "duration": 4.28}
+{"text": "and if you don't like it tough", "start": 151.92, "duration": 4.8}
+{"text": "five four", "start": 154.7, "duration": 3.94}
+{"text": "Ernie Johnson is the longtime host of", "start": 156.72, "duration": 4.5}
+{"text": "Inside the NBA Charles is down there", "start": 158.64, "duration": 4.679}
+{"text": "well how many times do you say we're oh", "start": 161.22, "duration": 4.26}
+{"text": "where's this going we'll start a show", "start": 163.319, "duration": 4.801}
+{"text": "and Charles will look at me and say I", "start": 165.48, "duration": 4.8}
+{"text": "got to get something off my chest", "start": 168.12, "duration": 5.22}
+{"text": "it could be something that involves a", "start": 170.28, "duration": 6.539}
+{"text": "world peace or the Brooklyn Nets or it", "start": 173.34, "duration": 5.58}
+{"text": "could be something he could be upset", "start": 176.819, "duration": 4.441}
+{"text": "that his plumber showed up late and he", "start": 178.92, "duration": 4.74}
+{"text": "just has to get it off his chest we got", "start": 181.26, "duration": 4.619}
+{"text": "to be serious on this show sometime but", "start": 183.66, "duration": 4.799}
+{"text": "if Barkley brings levity he also brings", "start": 185.879, "duration": 3.841}
+{"text": "gravity", "start": 188.459, "duration": 4.021}
+{"text": "Memphis Grizzly Star John Morant was", "start": 189.72, "duration": 4.62}
+{"text": "suspended in March after this Instagram", "start": 192.48, "duration": 4.56}
+{"text": "live video showed him flashing a gun at", "start": 194.34, "duration": 5.28}
+{"text": "a strip club Barkley used it to make a", "start": 197.04, "duration": 4.919}
+{"text": "broader Point guns especially in the", "start": 199.62, "duration": 4.38}
+{"text": "black community the way we killing each", "start": 201.959, "duration": 4.621}
+{"text": "other it's just really unfortunate and", "start": 204.0, "duration": 5.4}
+{"text": "sad and we got to it's always been a", "start": 206.58, "duration": 4.019}
+{"text": "problem but it seemed like it's gotten", "start": 209.4, "duration": 2.94}
+{"text": "worse in the last few years black on", "start": 210.599, "duration": 2.881}
+{"text": "black crime and the way we've been", "start": 212.34, "duration": 3.42}
+{"text": "killing each other Barkley may be at his", "start": 213.48, "duration": 6.259}
+{"text": "most visible in the studio in Atlanta", "start": 215.76, "duration": 3.979}
+{"text": "but for a fuller sense of the man head", "start": 219.959, "duration": 4.92}
+{"text": "two hours West to his hometown of Leeds", "start": 222.239, "duration": 4.5}
+{"text": "Alabama", "start": 224.879, "duration": 3.72}
+{"text": "I'm telling y'all I did not name the", "start": 226.739, "duration": 3.301}
+{"text": "street after myself", "start": 228.599, "duration": 3.841}
+{"text": "you didn't Lobby for Charles Dickens for", "start": 230.04, "duration": 4.74}
+{"text": "Charles Barkley Avenue", "start": 232.44, "duration": 4.5}
+{"text": "we interviewed Barkley in the home he", "start": 234.78, "duration": 4.98}
+{"text": "still keeps in town", "start": 236.94, "duration": 4.92}
+{"text": "it's a few hundred yards from where he", "start": 239.76, "duration": 4.44}
+{"text": "grew up you were angry that your dad", "start": 241.86, "duration": 3.9}
+{"text": "left the family when you were one years", "start": 244.2, "duration": 3.959}
+{"text": "old I was very angry", "start": 245.76, "duration": 4.44}
+{"text": "and I was even angrier because he kept", "start": 248.159, "duration": 4.44}
+{"text": "saying he was going to send us money", "start": 250.2, "duration": 5.819}
+{"text": "and he didn't do it because like you", "start": 252.599, "duration": 4.741}
+{"text": "know my Mom and Grandma were working", "start": 256.019, "duration": 4.861}
+{"text": "their behinds off and the thing that was", "start": 257.34, "duration": 5.76}
+{"text": "really bad about it I was stand by the", "start": 260.88, "duration": 5.22}
+{"text": "uh mailbox like once every three or four", "start": 263.1, "duration": 4.74}
+{"text": "months waiting for the checks yes but", "start": 266.1, "duration": 4.319}
+{"text": "they never came his indomitable Grandma", "start": 267.84, "duration": 5.22}
+{"text": "Johnny may who helped raise him still", "start": 270.419, "duration": 4.801}
+{"text": "inspires stories when Charles and his", "start": 273.06, "duration": 4.68}
+{"text": "buddies get together in Leeds shoot", "start": 275.22, "duration": 6.02}
+{"text": "granted was the real deal", "start": 277.74, "duration": 3.5}
+{"text": "really yeah yeah", "start": 282.44, "duration": 6.16}
+{"text": "and she had one too so we were really", "start": 285.02, "duration": 5.38}
+{"text": "poor we didn't know it at the time so to", "start": 288.6, "duration": 3.3}
+{"text": "make ends meet", "start": 290.4, "duration": 4.16}
+{"text": "she sold alcohol where", "start": 291.9, "duration": 5.46}
+{"text": "in the house had a shot house out of", "start": 294.56, "duration": 4.96}
+{"text": "your house yeah so people would come", "start": 297.36, "duration": 6.059}
+{"text": "over Friday and Saturday and play cards", "start": 299.52, "duration": 6.42}
+{"text": "everybody starts drinking once somebody", "start": 303.419, "duration": 4.441}
+{"text": "lose their money there's gonna be a", "start": 305.94, "duration": 4.02}
+{"text": "fight so my grandmother's little old", "start": 307.86, "duration": 3.6}
+{"text": "lady she's walking around with a sex", "start": 309.96, "duration": 4.2}
+{"text": "shooter and she's keeping the peace", "start": 311.46, "duration": 5.28}
+{"text": "I didn't even know any better John I", "start": 314.16, "duration": 4.8}
+{"text": "thought this was normal stuff", "start": 316.74, "duration": 4.5}
+{"text": "well yeah", "start": 318.96, "duration": 4.64}
+{"text": "I think it's time for a new floor", "start": 321.24, "duration": 4.86}
+{"text": "Barkley also took us to his old Junior", "start": 323.6, "duration": 6.159}
+{"text": "High Gym it stands barely as a symbol of", "start": 326.1, "duration": 6.659}
+{"text": "how far he's come 14 15 year old Charles", "start": 329.759, "duration": 5.401}
+{"text": "Barkley walking in here who's that kid", "start": 332.759, "duration": 7.5}
+{"text": "he's uh five nine five ten big boned not", "start": 335.16, "duration": 8.52}
+{"text": "Pat big boned chubby whatever words you", "start": 340.259, "duration": 7.021}
+{"text": "want to use I'm a 510 backup point guard", "start": 343.68, "duration": 6.84}
+{"text": "you remember specific plays and shots", "start": 347.28, "duration": 6.0}
+{"text": "from playing here Ty game we got you on", "start": 350.52, "duration": 4.56}
+{"text": "the wing yeah it's a tie game I'm not", "start": 353.28, "duration": 2.82}
+{"text": "going to be in the game let's get that", "start": 355.08, "duration": 3.3}
+{"text": "let's get that out the way a six inch", "start": 356.1, "duration": 4.439}
+{"text": "growth spurt helped turn Barkley into a", "start": 358.38, "duration": 5.039}
+{"text": "high school basketball star", "start": 360.539, "duration": 4.981}
+{"text": "but his formative teenage experience", "start": 363.419, "duration": 5.821}
+{"text": "came at the school football stadium wow", "start": 365.52, "duration": 6.179}
+{"text": "this is where he stood alone at a", "start": 369.24, "duration": 4.14}
+{"text": "distance watching his classmates", "start": 371.699, "duration": 4.801}
+{"text": "graduate I flunked Spanish", "start": 373.38, "duration": 6.48}
+{"text": "so I didn't graduate I was at home all", "start": 376.5, "duration": 5.52}
+{"text": "by myself devastated", "start": 379.86, "duration": 4.619}
+{"text": "and I drove around the back side here", "start": 382.02, "duration": 4.56}
+{"text": "and I stood here for two hours and", "start": 384.479, "duration": 4.141}
+{"text": "watched the graduation", "start": 386.58, "duration": 4.2}
+{"text": "I cried the whole time", "start": 388.62, "duration": 6.0}
+{"text": "even now it's kind of hit me in a in the", "start": 390.78, "duration": 6.479}
+{"text": "heart a little bit man what a traumatic", "start": 394.62, "duration": 4.98}
+{"text": "night that was you remember the name of", "start": 397.259, "duration": 4.5}
+{"text": "the teacher I miss Gomez I'll never", "start": 399.6, "duration": 5.159}
+{"text": "forget that and Miss Gomez when I go", "start": 401.759, "duration": 4.861}
+{"text": "back and think was one of the sweetest", "start": 404.759, "duration": 3.481}
+{"text": "kindest people", "start": 406.62, "duration": 4.38}
+{"text": "I'd ever met in my life but in that", "start": 408.24, "duration": 5.04}
+{"text": "moment I was so mad", "start": 411.0, "duration": 4.56}
+{"text": "because you know I wanted to throw my", "start": 413.28, "duration": 4.68}
+{"text": "hat in the air too he graduated thanks", "start": 415.56, "duration": 5.12}
+{"text": "to summer school", "start": 417.96, "duration": 2.72}
+{"text": "at Auburn he was a star yes for his", "start": 421.02, "duration": 5.28}
+{"text": "skills but also for his heroic appetite", "start": 423.6, "duration": 5.34}
+{"text": "he embraced his nickname the round mound", "start": 426.3, "duration": 5.239}
+{"text": "of rebound", "start": 428.94, "duration": 2.599}
+{"text": "drafted in 1984 he became a charismatic", "start": 433.139, "duration": 7.321}
+{"text": "NBA star for the Philadelphia 76ers", "start": 436.08, "duration": 4.38}
+{"text": "he's the shortest man ever to lead the", "start": 440.52, "duration": 4.739}
+{"text": "NBA in rebounding proof that for all", "start": 442.62, "duration": 5.46}
+{"text": "Barkley's Yachts he played with Fury", "start": 445.259, "duration": 8.101}
+{"text": "I was playing to stick it to my dad Miss", "start": 448.08, "duration": 7.98}
+{"text": "Gomez and some of the kids who had made", "start": 453.36, "duration": 5.52}
+{"text": "fun of me instead of just wanting to be", "start": 456.06, "duration": 5.22}
+{"text": "great at basketball what's firing up", "start": 458.88, "duration": 4.439}
+{"text": "this furnace is the anger you have for", "start": 461.28, "duration": 3.479}
+{"text": "your Spanish teacher that flunked you", "start": 463.319, "duration": 5.041}
+{"text": "yes and your dad yes 100 what caused you", "start": 464.759, "duration": 5.521}
+{"text": "to flush out this anger and get", "start": 468.36, "duration": 3.959}
+{"text": "motivated for a different reason the", "start": 470.28, "duration": 5.819}
+{"text": "spin incident in New Jersey in 1991 he", "start": 472.319, "duration": 6.541}
+{"text": "spat at a Heckler and inadvertently hit", "start": 476.099, "duration": 5.04}
+{"text": "a young girl he calls it the low point", "start": 478.86, "duration": 5.04}
+{"text": "of his career I got suspended rightfully", "start": 481.139, "duration": 7.081}
+{"text": "so I was sitting in my hotel room", "start": 483.9, "duration": 6.9}
+{"text": "and I was like", "start": 488.22, "duration": 4.68}
+{"text": "you are", "start": 490.8, "duration": 5.76}
+{"text": "The Biggest Loser in the world", "start": 492.9, "duration": 6.32}
+{"text": "I I remember saying this is it tonight", "start": 496.56, "duration": 5.28}
+{"text": "anyone I am only going to play", "start": 499.22, "duration": 4.96}
+{"text": "basketball because I'm great at it and I", "start": 501.84, "duration": 4.799}
+{"text": "love to play I'm getting all the dirt", "start": 504.18, "duration": 7.68}
+{"text": "off my shoulders Miss Gomez bye Dad bye", "start": 506.639, "duration": 10.941}
+{"text": "that was really the turning point for me", "start": 511.86, "duration": 5.72}
+{"text": "Barkley was the NBA's MVP in 1993 for", "start": 517.86, "duration": 5.64}
+{"text": "the Phoenix Suns", "start": 521.64, "duration": 4.92}
+{"text": "and then months after retiring in 2000", "start": 523.5, "duration": 5.339}
+{"text": "he embarked on a broadcasting career", "start": 526.56, "duration": 5.58}
+{"text": "number one there's no dominant team full", "start": 528.839, "duration": 5.401}
+{"text": "disclosure you may have seen him on this", "start": 532.14, "duration": 4.56}
+{"text": "network working March Madness", "start": 534.24, "duration": 3.599}
+{"text": "what do you make of the college game", "start": 536.7, "duration": 4.5}
+{"text": "today it's a travesty and a disgrace", "start": 537.839, "duration": 6.721}
+{"text": "I'm so mad now how we can mess up", "start": 541.2, "duration": 5.34}
+{"text": "something that's so beautiful and we", "start": 544.56, "duration": 4.62}
+{"text": "mess it up we can't pay", "start": 546.54, "duration": 4.44}
+{"text": "all these players", "start": 549.18, "duration": 4.98}
+{"text": "translation Barkley hates the new wild", "start": 550.98, "duration": 5.76}
+{"text": "west of college sports where players go", "start": 554.16, "duration": 5.04}
+{"text": "to the schools that can bid the highest", "start": 556.74, "duration": 5.46}
+{"text": "in the next three to five years we're", "start": 559.2, "duration": 5.94}
+{"text": "going to have 25 schools that's going to", "start": 562.2, "duration": 5.52}
+{"text": "dominate the sports because they can", "start": 565.14, "duration": 4.139}
+{"text": "afford players", "start": 567.72, "duration": 5.1}
+{"text": "and these schools who can't afford or", "start": 569.279, "duration": 5.761}
+{"text": "won't pay players are going to be", "start": 572.82, "duration": 3.42}
+{"text": "irrelevant", "start": 575.04, "duration": 3.54}
+{"text": "almost a quarter Century since Barkley", "start": 576.24, "duration": 5.159}
+{"text": "last played and now for my opinion his", "start": 578.58, "duration": 5.58}
+{"text": "opinions free of varnish still matter", "start": 581.399, "duration": 4.681}
+{"text": "does Kevin Durant a great great player", "start": 584.16, "duration": 4.859}
+{"text": "if you ain't driving the bus don't walk", "start": 586.08, "duration": 4.74}
+{"text": "around talk about Julia Champion his", "start": 589.019, "duration": 4.141}
+{"text": "takes don't always go over well Kevin", "start": 590.82, "duration": 4.74}
+{"text": "Durant to Perennial All-Star one said of", "start": 593.16, "duration": 4.5}
+{"text": "Barkley I don't know why they still ask", "start": 595.56, "duration": 4.5}
+{"text": "for this idiot's opinion Kevin Durant", "start": 597.66, "duration": 4.679}
+{"text": "he's very sensitive", "start": 600.06, "duration": 4.44}
+{"text": "great player he's part of that", "start": 602.339, "duration": 4.081}
+{"text": "generation who think he can't be", "start": 604.5, "duration": 3.12}
+{"text": "criticized", "start": 606.42, "duration": 3.06}
+{"text": "he's never looked in the mirror and says", "start": 607.62, "duration": 4.02}
+{"text": "man was that a fair criticism", "start": 609.48, "duration": 4.919}
+{"text": "we're in agreement today's players are a", "start": 611.64, "duration": 4.139}
+{"text": "little more sensitive to criticism than", "start": 614.399, "duration": 2.821}
+{"text": "yours that would be an understatement", "start": 615.779, "duration": 3.961}
+{"text": "today's players take offense but so if", "start": 617.22, "duration": 4.02}
+{"text": "players from your generation it's been", "start": 619.74, "duration": 2.52}
+{"text": "been a while since you and Michael", "start": 621.24, "duration": 3.06}
+{"text": "Jordan spoke Michael disagreed with", "start": 622.26, "duration": 3.48}
+{"text": "something I said and he broke off the", "start": 624.3, "duration": 4.08}
+{"text": "Friendship born three days apart Barkley", "start": 625.74, "duration": 4.62}
+{"text": "and Jordan were once the best of friends", "start": 628.38, "duration": 4.5}
+{"text": "but as Jordan struggled as owner of the", "start": 630.36, "duration": 4.979}
+{"text": "Charlotte Hornets Barkley mints no words", "start": 632.88, "duration": 5.459}
+{"text": "and what I said I think that he don't", "start": 635.339, "duration": 4.5}
+{"text": "have enough people around him are going", "start": 638.339, "duration": 2.461}
+{"text": "to tell him", "start": 639.839, "duration": 2.781}
+{"text": "no", "start": 640.8, "duration": 5.039}
+{"text": "and he got really offended", "start": 642.62, "duration": 6.459}
+{"text": "and we haven't spoken but John I really", "start": 645.839, "duration": 7.56}
+{"text": "I'm gonna do my job because I have zero", "start": 649.079, "duration": 6.661}
+{"text": "credibility", "start": 653.399, "duration": 5.521}
+{"text": "if I criticize other people in the same", "start": 655.74, "duration": 4.32}
+{"text": "boat", "start": 658.92, "duration": 3.9}
+{"text": "and not criticize my best friend even if", "start": 660.06, "duration": 4.98}
+{"text": "you have nothing to apologize for you", "start": 662.82, "duration": 4.139}
+{"text": "think of just picking up the phone and", "start": 665.04, "duration": 3.419}
+{"text": "trying to repair this thing with Michael", "start": 666.959, "duration": 4.861}
+{"text": "I got an ego too John", "start": 668.459, "duration": 5.82}
+{"text": "you can't be great at something like you", "start": 671.82, "duration": 4.019}
+{"text": "that doesn't get it right to be a jerk", "start": 674.279, "duration": 4.921}
+{"text": "you think you'll resolve this eventually", "start": 675.839, "duration": 5.94}
+{"text": "he got my number", "start": 679.2, "duration": 4.62}
+{"text": "if you really want to get Barkley going", "start": 681.779, "duration": 4.141}
+{"text": "on disappointment ask him about his", "start": 683.82, "duration": 4.079}
+{"text": "daughter Cristiano's basketball skills", "start": 685.92, "duration": 4.74}
+{"text": "your daughter's not a basketball player", "start": 687.899, "duration": 5.581}
+{"text": "that was", "start": 690.66, "duration": 4.26}
+{"text": "that was brutal", "start": 693.48, "duration": 4.14}
+{"text": "she was six feet tall from from birth", "start": 694.92, "duration": 4.859}
+{"text": "[Laughter]", "start": 697.62, "duration": 3.54}
+{"text": "I'm gonna have the best female", "start": 699.779, "duration": 4.5}
+{"text": "basketball player in the world", "start": 701.16, "duration": 5.04}
+{"text": "I can't wait to she's old enough I'm", "start": 704.279, "duration": 3.781}
+{"text": "gonna teach her everything", "start": 706.2, "duration": 5.34}
+{"text": "and then we start playing and I'm", "start": 708.06, "duration": 5.519}
+{"text": "sitting in the stands and I'm saying to", "start": 711.54, "duration": 4.08}
+{"text": "myself oh man", "start": 713.579, "duration": 4.38}
+{"text": "she is not aggressive at all", "start": 715.62, "duration": 4.92}
+{"text": "so I asked her one day I said you don't", "start": 717.959, "duration": 4.081}
+{"text": "like basketball do you she's all dead I", "start": 720.54, "duration": 2.88}
+{"text": "hate basketball", "start": 722.04, "duration": 4.56}
+{"text": "and I said oh okay", "start": 723.42, "duration": 5.58}
+{"text": "and it took me a little while to get", "start": 726.6, "duration": 3.9}
+{"text": "over that because you're being serious", "start": 729.0, "duration": 4.38}
+{"text": "now yeah but she's a great person and a", "start": 730.5, "duration": 4.98}
+{"text": "straight A student so I had to brag", "start": 733.38, "duration": 4.38}
+{"text": "about that I guarantee that makes you", "start": 735.48, "duration": 4.2}
+{"text": "feel every bit as good as her hitting a", "start": 737.76, "duration": 4.5}
+{"text": "game-winning jumper not quite but it's", "start": 739.68, "duration": 5.36}
+{"text": "close enough", "start": 742.26, "duration": 2.78}
+{"text": "Christiana now 34 recently had a son", "start": 745.1, "duration": 5.919}
+{"text": "Henry the new grandpa says he's never", "start": 748.32, "duration": 5.4}
+{"text": "felt Joy like this when we arrived he", "start": 751.019, "duration": 5.601}
+{"text": "broke out this video", "start": 753.72, "duration": 2.9}
+{"text": "it is by far and away the greatest thing", "start": 758.12, "duration": 4.36}
+{"text": "that's ever happened to me in my life", "start": 761.1, "duration": 4.08}
+{"text": "lives up to the hype it lives up to the", "start": 762.48, "duration": 7.74}
+{"text": "hype I want to spend time with him", "start": 765.18, "duration": 6.54}
+{"text": "because", "start": 770.22, "duration": 5.58}
+{"text": "I'm not morbid I'm not upset", "start": 771.72, "duration": 6.9}
+{"text": "I'm on the back nine I hope I'm gonna", "start": 775.8, "duration": 6.599}
+{"text": "hold 10 or 11. but you never know I", "start": 778.62, "duration": 6.779}
+{"text": "could be on 17 and 18. so I want to", "start": 782.399, "duration": 6.481}
+{"text": "spend as much time with him as possible", "start": 785.399, "duration": 6.06}
+{"text": "and then when he gets older I want him", "start": 788.88, "duration": 5.579}
+{"text": "to Google me Google me kid yeah do you", "start": 791.459, "duration": 5.701}
+{"text": "know who I am I hope he does some", "start": 794.459, "duration": 6.0}
+{"text": "research on me I'll be long gone but I", "start": 797.16, "duration": 5.46}
+{"text": "would like him to know that I", "start": 800.459, "duration": 5.721}
+{"text": "accomplished some things in my life", "start": 802.62, "duration": 3.56}
+{"text": "I got to live my dream Charles Barkley", "start": 808.56, "duration": 7.019}
+{"text": "on gratitude if you think I'm better or", "start": 812.04, "duration": 6.479}
+{"text": "I work harder you're just stupid at 60", "start": 815.579, "duration": 6.141}
+{"text": "minutes overtime.com", "start": 818.519, "duration": 3.201}

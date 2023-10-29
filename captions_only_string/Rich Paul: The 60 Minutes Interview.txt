@@ -1,0 +1,285 @@
+{"text": "Rich Paul has become one of the Premier", "start": 4.799, "duration": 4.76}
+{"text": "agents in professional sports he counts", "start": 7.08, "duration": 4.8}
+{"text": "LeBron James as a close friend and", "start": 9.559, "duration": 5.12}
+{"text": "client the agency he founded clutch", "start": 11.88, "duration": 5.12}
+{"text": "Sports Group made deals worth almost", "start": 14.679, "duration": 5.321}
+{"text": "$900 million this past summer for his", "start": 17.0, "duration": 6.48}
+{"text": "NBA clients alone Paul honed his deal", "start": 20.0, "duration": 6.039}
+{"text": "making instincts as a kid navigating", "start": 23.48, "duration": 4.639}
+{"text": "what he called the Hostile streets of", "start": 26.039, "duration": 5.361}
+{"text": "his Cleveland neighborhood today at 42", "start": 28.119, "duration": 5.161}
+{"text": "he's rewriting the playbook for", "start": 31.4, "duration": 4.96}
+{"text": "representing pro athletes Rich Paul told", "start": 33.28, "duration": 5.76}
+{"text": "us he was lucky and when you hear his", "start": 36.36, "duration": 6.719}
+{"text": "story we think you'll understand", "start": 39.04, "duration": 8.92}
+{"text": "why the story will continue in a", "start": 43.079, "duration": 4.881}
+{"text": "moment so did you used to come to games", "start": 48.16, "duration": 4.52}
+{"text": "when you were younger I went one time", "start": 50.36, "duration": 4.4}
+{"text": "when I had to um sit all the way up at", "start": 52.68, "duration": 3.6}
+{"text": "the top you really couldn't couldn't see", "start": 54.76, "duration": 3.56}
+{"text": "the person and", "start": 56.28, "duration": 5.799}
+{"text": "now now it's now you're sitting on the", "start": 58.32, "duration": 6.919}
+{"text": "floor we joined Rich Paul courtside at a", "start": 62.079, "duration": 6.04}
+{"text": "Cleveland Cavaliers game last season he", "start": 65.239, "duration": 4.721}
+{"text": "seemed to know", "start": 68.119, "duration": 5.68}
+{"text": "everyone what up do what's good and it", "start": 69.96, "duration": 6.28}
+{"text": "seemed everyone wanted to know", "start": 73.799, "duration": 6.28}
+{"text": "him thank you so much you're my ID bro", "start": 76.24, "duration": 5.919}
+{"text": "thank you brother I appreciate it last", "start": 80.079, "duration": 4.601}
+{"text": "year Paul got Cleveland star Darius", "start": 82.159, "duration": 6.241}
+{"text": "Garland a $200 million deal the richest", "start": 84.68, "duration": 6.64}
+{"text": "in franchise history Garland is one of", "start": 88.4, "duration": 6.32}
+{"text": "nearly 200 athletes on Paul's roster who", "start": 91.32, "duration": 4.56}
+{"text": "are some of the big names that we would", "start": 94.72, "duration": 3.399}
+{"text": "all recognize which sport you want I", "start": 95.88, "duration": 4.199}
+{"text": "mean we just had Jaylen herzon and", "start": 98.119, "duration": 3.801}
+{"text": "Devonte Smith playing the Super Bowl for", "start": 100.079, "duration": 3.761}
+{"text": "the Philadelphia Eagles and then you got", "start": 101.92, "duration": 4.08}
+{"text": "the Anthony Davis's and uh Draymond", "start": 103.84, "duration": 5.0}
+{"text": "greens and obviously LeBron do you know", "start": 106.0, "duration": 5.52}
+{"text": "the total value of the contracts you've", "start": 108.84, "duration": 6.08}
+{"text": "negotiated I would say it's close to 3", "start": 111.52, "duration": 7.16}
+{"text": "billion I think it's more than 4 billion", "start": 114.92, "duration": 5.68}
+{"text": "but it's hard to keep track when you're", "start": 118.68, "duration": 4.92}
+{"text": "always on the go showtime baby before", "start": 120.6, "duration": 5.519}
+{"text": "the NBA draft in New York City we", "start": 123.6, "duration": 4.439}
+{"text": "watched him work the phones you know", "start": 126.119, "duration": 4.161}
+{"text": "it's draft day man anything can happen", "start": 128.039, "duration": 5.081}
+{"text": "work the room hey coach how you doing", "start": 130.28, "duration": 5.599}
+{"text": "man right and work the angles to move", "start": 133.12, "duration": 5.8}
+{"text": "clients like Duke Center Derek Lively II", "start": 135.879, "duration": 6.241}
+{"text": "up the draft board you ready sir in", "start": 138.92, "duration": 6.36}
+{"text": "college Lively was known for his defense", "start": 142.12, "duration": 5.6}
+{"text": "but Paul had him work on his three-point", "start": 145.28, "duration": 5.56}
+{"text": "shot and before the draft invited teams", "start": 147.72, "duration": 7.239}
+{"text": "to see Lively shot up to the 12th pick", "start": 150.84, "duration": 7.119}
+{"text": "about 10 spots higher than first", "start": 154.959, "duration": 5.64}
+{"text": "projected it might not look like it but", "start": 157.959, "duration": 5.961}
+{"text": "Rich Paul is a towering figure in the", "start": 160.599, "duration": 5.961}
+{"text": "NBA I've always been the smallest guy in", "start": 163.92, "duration": 3.48}
+{"text": "the", "start": 166.56, "duration": 4.319}
+{"text": "room willing to take the biggest swing", "start": 167.4, "duration": 5.6}
+{"text": "some of his biggest swings have been for", "start": 170.879, "duration": 5.321}
+{"text": "his biggest client LeBron James Paul", "start": 173.0, "duration": 5.8}
+{"text": "negotiated his jumps from Miami to", "start": 176.2, "duration": 5.399}
+{"text": "Cleveland to LA a deals that netted", "start": 178.8, "duration": 6.6}
+{"text": "James $400 million and set him up to win", "start": 181.599, "duration": 5.881}
+{"text": "two of his four", "start": 185.4, "duration": 4.479}
+{"text": "championships he told us he works to", "start": 187.48, "duration": 5.319}
+{"text": "give players leverage some people say", "start": 189.879, "duration": 5.44}
+{"text": "that you're destroying the player", "start": 192.799, "duration": 5.921}
+{"text": "loyalty to the teams and the fans player", "start": 195.319, "duration": 7.0}
+{"text": "loyalty to what if I can be traded in", "start": 198.72, "duration": 7.32}
+{"text": "the middle of the night to another team", "start": 202.319, "duration": 6.64}
+{"text": "what I should be is educating myself to", "start": 206.04, "duration": 5.919}
+{"text": "where if this isn't going the way I", "start": 208.959, "duration": 5.161}
+{"text": "thought it was supposed to go I can", "start": 211.959, "duration": 5.441}
+{"text": "switch up right we're not I have options", "start": 214.12, "duration": 5.479}
+{"text": "I have op what's the sister to having", "start": 217.4, "duration": 3.479}
+{"text": "money with no", "start": 219.599, "duration": 4.041}
+{"text": "options that's apparently how Superstar", "start": 220.879, "duration": 5.681}
+{"text": "Anthony Davis felt in 2018 the New", "start": 223.64, "duration": 6.48}
+{"text": "Orleans Center had a $127 million", "start": 226.56, "duration": 6.64}
+{"text": "contract but was tired of losing so he", "start": 230.12, "duration": 6.839}
+{"text": "fired his agent and hired Rich Paul Paul", "start": 233.2, "duration": 6.92}
+{"text": "flouted NBA rules by publicly demanding", "start": 236.959, "duration": 6.521}
+{"text": "a trade earning the wrath of fans and a", "start": 240.12, "duration": 7.119}
+{"text": "$50,000 fine for Davis the drama landed", "start": 243.48, "duration": 6.399}
+{"text": "Paul on the cover of Sports Illustrated", "start": 247.239, "duration": 4.92}
+{"text": "which called him the most polarizing", "start": 249.879, "duration": 4.121}
+{"text": "figure in the", "start": 252.159, "duration": 4.48}
+{"text": "NBA when it was someone that didn't look", "start": 254.0, "duration": 6.479}
+{"text": "like me it was genius it was why you get", "start": 256.639, "duration": 7.361}
+{"text": "a power agent but when it's me I'm", "start": 260.479, "duration": 6.041}
+{"text": "destroying the league I mean those", "start": 264.0, "duration": 6.199}
+{"text": "things are absurd he got d us what he", "start": 266.52, "duration": 7.119}
+{"text": "wanted a championship ring and a deal", "start": 270.199, "duration": 6.401}
+{"text": "now worth $270", "start": 273.639, "duration": 5.081}
+{"text": "million there's a saying that goes if", "start": 276.6, "duration": 5.36}
+{"text": "you a got no haters you ain't", "start": 278.72, "duration": 6.08}
+{"text": "popping so you must be popping I think", "start": 281.96, "duration": 5.88}
+{"text": "I'm popping a little bit you know he was", "start": 284.8, "duration": 5.959}
+{"text": "popping a lot at his annual allstar game", "start": 287.84, "duration": 5.48}
+{"text": "party this past winter in Salt Lake City", "start": 290.759, "duration": 5.841}
+{"text": "is that we dropped in and saw giants of", "start": 293.32, "duration": 5.8}
+{"text": "the court mingling with rappers team", "start": 296.6, "duration": 5.159}
+{"text": "owners and Titans of Industry over", "start": 299.12, "duration": 5.72}
+{"text": "cocktails and canipes Rich Paul had a", "start": 301.759, "duration": 5.921}
+{"text": "full plate of business options one from", "start": 304.84, "duration": 5.56}
+{"text": "the president of Gatorade I want to be a", "start": 307.68, "duration": 5.959}
+{"text": "first call done while we were chatting", "start": 310.4, "duration": 4.4}
+{"text": "with", "start": 313.639, "duration": 4.28}
+{"text": "him Golden State Warrior Draymond Green", "start": 314.8, "duration": 6.519}
+{"text": "cut in the four-time NBA champion cycled", "start": 317.919, "duration": 5.601}
+{"text": "through two other agents before signing", "start": 321.319, "duration": 5.44}
+{"text": "up with Rich Paul who landed him a $100", "start": 323.52, "duration": 6.28}
+{"text": "million contract over the summer so then", "start": 326.759, "duration": 4.841}
+{"text": "you end up a young black man who's made", "start": 329.8, "duration": 3.32}
+{"text": "more money than you can ever imagine but", "start": 331.6, "duration": 3.159}
+{"text": "you don't know how to live with it you", "start": 333.12, "duration": 3.48}
+{"text": "don't know what to do with it and what", "start": 334.759, "duration": 5.72}
+{"text": "does he do most agents treat athletes as", "start": 336.6, "duration": 6.68}
+{"text": "if the athlete work for them but there's", "start": 340.479, "duration": 5.241}
+{"text": "a multi-billion Dollar", "start": 343.28, "duration": 5.08}
+{"text": "business going on around most athletes", "start": 345.72, "duration": 4.24}
+{"text": "that they don't understand but they", "start": 348.36, "duration": 3.679}
+{"text": "don't have a rich part to teach them and", "start": 349.96, "duration": 4.239}
+{"text": "that's what's special about it Paul's", "start": 352.039, "duration": 4.321}
+{"text": "improbable Journey the subject of his", "start": 354.199, "duration": 4.881}
+{"text": "new Memoir out this week started on the", "start": 356.36, "duration": 5.119}
+{"text": "east side of Cleveland in the early", "start": 359.08, "duration": 5.36}
+{"text": "1980s just as crack cocaine hit the", "start": 361.479, "duration": 6.12}
+{"text": "streets when he was about 4 he learned", "start": 364.44, "duration": 6.12}
+{"text": "his mother manura was hooked on crack", "start": 367.599, "duration": 6.201}
+{"text": "his father Big Rich recognized his son's", "start": 370.56, "duration": 5.72}
+{"text": "intelligence and kept him close though", "start": 373.8, "duration": 4.76}
+{"text": "they lived apart he owned the", "start": 376.28, "duration": 4.919}
+{"text": "neighborhood convenience store so your", "start": 378.56, "duration": 4.56}
+{"text": "dad's store was just right in here yeah", "start": 381.199, "duration": 4.601}
+{"text": "and this was this was my world this now", "start": 383.12, "duration": 5.68}
+{"text": "empty Corner was a hot bed of activity", "start": 385.8, "duration": 5.799}
+{"text": "legal and illegal it was a shootout", "start": 388.8, "duration": 4.959}
+{"text": "right here on this corner Big Rich", "start": 391.599, "duration": 4.801}
+{"text": "taught his son to always think two steps", "start": 393.759, "duration": 5.16}
+{"text": "ahead he scraped together the money to", "start": 396.4, "duration": 4.799}
+{"text": "send him to a Catholic High School away", "start": 398.919, "duration": 5.081}
+{"text": "from the neighborhood still there was no", "start": 401.199, "duration": 5.44}
+{"text": "avoiding the streets you don't know what", "start": 404.0, "duration": 5.36}
+{"text": "you're in that's your Norm that's my", "start": 406.639, "duration": 5.641}
+{"text": "Norm sardines out the can that was", "start": 409.36, "duration": 5.119}
+{"text": "today's version of tuna tartar on the", "start": 412.28, "duration": 3.88}
+{"text": "Waldorf", "start": 414.479, "duration": 4.761}
+{"text": "rooftop know this was my education", "start": 416.16, "duration": 5.439}
+{"text": "though this was this was my Harvard my", "start": 419.24, "duration": 5.799}
+{"text": "Michigan my morehous and the same things", "start": 421.599, "duration": 5.401}
+{"text": "I learned on this corner I take it to", "start": 425.039, "duration": 3.921}
+{"text": "the board room because the one thing", "start": 427.0, "duration": 4.68}
+{"text": "this teaches you that I don't think you", "start": 428.96, "duration": 5.32}
+{"text": "can learn from those institutions is", "start": 431.68, "duration": 4.48}
+{"text": "people", "start": 434.28, "duration": 5.12}
+{"text": "characters and on these streets it's no", "start": 436.16, "duration": 6.12}
+{"text": "better way to learn character because", "start": 439.4, "duration": 5.199}
+{"text": "they're coming with everything his dad", "start": 442.28, "duration": 4.599}
+{"text": "taught him another skill a way to make", "start": 444.599, "duration": 5.481}
+{"text": "money if all else fails with a Pair of", "start": 446.879, "duration": 6.121}
+{"text": "Dice Paul and his best friend Edward", "start": 450.08, "duration": 5.32}
+{"text": "given were regulars at an open air", "start": 453.0, "duration": 5.52}
+{"text": "Casino in the park 50 people crowded", "start": 455.4, "duration": 4.72}
+{"text": "around this little area and the energy", "start": 458.52, "duration": 4.32}
+{"text": "was high it was it was an arena and Rich", "start": 460.12, "duration": 5.12}
+{"text": "Paul was a natural and how much would", "start": 462.84, "duration": 7.4}
+{"text": "you earn I mean a slow day was $1,000", "start": 465.24, "duration": 8.399}
+{"text": "and a not slow day", "start": 470.24, "duration": 8.56}
+{"text": "H you know four or five $4 or 5,000 easy", "start": 473.639, "duration": 8.921}
+{"text": "when you were 14 15 16 oh yeah what did", "start": 478.8, "duration": 6.0}
+{"text": "you learn from this experience you gain", "start": 482.56, "duration": 5.359}
+{"text": "a resilience here we won majority of the", "start": 484.8, "duration": 5.399}
+{"text": "time but you also had to learn how to", "start": 487.919, "duration": 4.96}
+{"text": "lose he suffered his biggest loss when", "start": 490.199, "duration": 6.361}
+{"text": "he was 19 his father died from cancer", "start": 492.879, "duration": 6.481}
+{"text": "and Paul went all in on the streets", "start": 496.56, "duration": 6.24}
+{"text": "selling marijuana and crack cocaine this", "start": 499.36, "duration": 5.959}
+{"text": "is the very drug that your mother was", "start": 502.8, "duration": 5.44}
+{"text": "hooked on the absence of my", "start": 505.319, "duration": 6.681}
+{"text": "dad allowed me to to take that step", "start": 508.24, "duration": 6.32}
+{"text": "because I would have never done that had", "start": 512.0, "duration": 4.32}
+{"text": "he", "start": 514.56, "duration": 5.279}
+{"text": "been around I had too much respect for", "start": 516.32, "duration": 6.04}
+{"text": "him if it's not something that I would", "start": 519.839, "duration": 5.721}
+{"text": "sit here and and glorify it almost", "start": 522.36, "duration": 6.039}
+{"text": "sounds like you were a full-time Hustler", "start": 525.56, "duration": 6.32}
+{"text": "oh yeah but Jeff Bezos is a", "start": 528.399, "duration": 6.88}
+{"text": "hustler think he's not Phil Knight was", "start": 531.88, "duration": 7.76}
+{"text": "the ultimate Hustler the difference is", "start": 535.279, "duration": 7.761}
+{"text": "they could go with their plan and their", "start": 539.64, "duration": 4.48}
+{"text": "business", "start": 543.04, "duration": 5.16}
+{"text": "idea and get someone to believe in them", "start": 544.12, "duration": 6.56}
+{"text": "it didn't matter what idea I had there's", "start": 548.2, "duration": 5.4}
+{"text": "no Pathway to get there he found one", "start": 550.68, "duration": 5.32}
+{"text": "through a stroke of luck at the akan", "start": 553.6, "duration": 5.76}
+{"text": "Canton Airport in 2001 Paul was wearing", "start": 556.0, "duration": 5.72}
+{"text": "a throwback jersey like this one that", "start": 559.36, "duration": 4.76}
+{"text": "caught the eye of another traveler High", "start": 561.72, "duration": 6.119}
+{"text": "School hoop sensation LeBron James what", "start": 564.12, "duration": 6.76}
+{"text": "did you see in him it began with him you", "start": 567.839, "duration": 5.201}
+{"text": "know wearing a throwback jersey that I", "start": 570.88, "duration": 4.12}
+{"text": "you know loved but as we got to talk", "start": 573.04, "duration": 3.72}
+{"text": "about sports we started evolving and", "start": 575.0, "duration": 3.32}
+{"text": "even talking more and more just about", "start": 576.76, "duration": 3.84}
+{"text": "life and about our upbringing about our", "start": 578.32, "duration": 4.4}
+{"text": "our moms and and and our communities and", "start": 580.6, "duration": 6.0}
+{"text": "stuff of that nature and it um just kind", "start": 582.72, "duration": 6.2}
+{"text": "of struck it just struck a core when", "start": 586.6, "duration": 5.32}
+{"text": "James entered the NBA he hired Rich Paul", "start": 588.92, "duration": 5.919}
+{"text": "as a right-hand man Paul went on to work", "start": 591.92, "duration": 6.08}
+{"text": "for LeBron's agent and watched listened", "start": 594.839, "duration": 4.801}
+{"text": "and learned", "start": 598.0, "duration": 3.079}
+{"text": "I understand that you would go into", "start": 599.64, "duration": 4.639}
+{"text": "meetings with the likes of Warren", "start": 601.079, "duration": 5.481}
+{"text": "Buffett being in those", "start": 604.279, "duration": 5.881}
+{"text": "rooms is much better", "start": 606.56, "duration": 7.44}
+{"text": "to to listen than to talk if you listen", "start": 610.16, "duration": 6.32}
+{"text": "you might actually learn something and", "start": 614.0, "duration": 5.68}
+{"text": "you start to kind of you know work your", "start": 616.48, "duration": 7.24}
+{"text": "way on your own after just four years he", "start": 619.68, "duration": 6.279}
+{"text": "struck out on his own and launched", "start": 623.72, "duration": 6.08}
+{"text": "clutch Sports Group in 2012 LeBron James", "start": 625.959, "duration": 6.681}
+{"text": "went with him when you first started", "start": 629.8, "duration": 6.12}
+{"text": "this you were underestimated Not only", "start": 632.64, "duration": 6.28}
+{"text": "was I underestimated I was also not", "start": 635.92, "duration": 5.479}
+{"text": "wanted I didn't look like the success in", "start": 638.92, "duration": 4.599}
+{"text": "our industry especially from a place of", "start": 641.399, "duration": 4.88}
+{"text": "decision-making and I wanted to disrupt", "start": 643.519, "duration": 4.921}
+{"text": "the industry I wanted to be impactful", "start": 646.279, "duration": 3.921}
+{"text": "but I wanted to come from a place of", "start": 648.44, "duration": 4.48}
+{"text": "purpose in 2013 with his first", "start": 650.2, "duration": 5.079}
+{"text": "negotiation as agent for Phoenix Sons", "start": 652.92, "duration": 5.359}
+{"text": "guard Eric bledo he proved the naysayers", "start": 655.279, "duration": 6.761}
+{"text": "wrong he said the sons had offered $28", "start": 658.279, "duration": 6.721}
+{"text": "million and then $48 million and you", "start": 662.04, "duration": 5.76}
+{"text": "turned it down yeah but what was on the", "start": 665.0, "duration": 4.76}
+{"text": "line my", "start": 667.8, "duration": 5.839}
+{"text": "career everyone was calling and saying", "start": 669.76, "duration": 5.759}
+{"text": "he's crazy he don't know what he's doing", "start": 673.639, "duration": 4.281}
+{"text": "he's an experienced it sounds like you", "start": 675.519, "duration": 6.481}
+{"text": "are really comfortable rolling the dice", "start": 677.92, "duration": 7.12}
+{"text": "I was born a dice roller his gamble paid", "start": 682.0, "duration": 5.88}
+{"text": "off after hanging tough for a year", "start": 685.04, "duration": 7.08}
+{"text": "clutch got bled so a $70 million deal 42", "start": 687.88, "duration": 7.28}
+{"text": "million more than the son's first offer", "start": 692.12, "duration": 6.8}
+{"text": "great room today clutch has 70 employees", "start": 695.16, "duration": 6.4}
+{"text": "with offices in Los Angeles New York and", "start": 698.92, "duration": 5.08}
+{"text": "Atlanta and they both in the same draft", "start": 701.56, "duration": 5.2}
+{"text": "class Paul teamed up with Powerhouse", "start": 704.0, "duration": 6.36}
+{"text": "agency UTA to expand clutch's reach I", "start": 706.76, "duration": 8.24}
+{"text": "had to build a multi 100 million dollar", "start": 710.36, "duration": 8.84}
+{"text": "company to get people to believe in me", "start": 715.0, "duration": 6.399}
+{"text": "and there's still doubt critics say he's", "start": 719.2, "duration": 4.16}
+{"text": "only successful because of his", "start": 721.399, "duration": 3.521}
+{"text": "relationship with you I mean it's", "start": 723.36, "duration": 3.08}
+{"text": "disappointing to hear that would you", "start": 724.92, "duration": 4.039}
+{"text": "gave him an opportunity yeah and I don't", "start": 726.44, "duration": 5.8}
+{"text": "give people opportunities much um and he", "start": 728.959, "duration": 7.361}
+{"text": "took well Way Beyond um than what he", "start": 732.24, "duration": 6.64}
+{"text": "even imagined Rich Paul now has a new", "start": 736.32, "duration": 4.639}
+{"text": "balance signature shoe a first for an", "start": 738.88, "duration": 4.68}
+{"text": "agent his partner is more famous than he", "start": 740.959, "duration": 4.68}
+{"text": "is he's been in a relationship with", "start": 743.56, "duration": 5.639}
+{"text": "Adele for 2 and A2 years Adele she gave", "start": 745.639, "duration": 6.041}
+{"text": "him a shout out at the Grammys oh God", "start": 749.199, "duration": 4.361}
+{"text": "Rich he he said don't cry if you win", "start": 751.68, "duration": 4.04}
+{"text": "anything tonight don't cry and here I am", "start": 753.56, "duration": 4.719}
+{"text": "crying a couple of weeks later at his", "start": 755.72, "duration": 5.359}
+{"text": "allstar game party Paul's friends", "start": 758.279, "duration": 5.8}
+{"text": "recognized his achievements from us this", "start": 761.079, "duration": 5.481}
+{"text": "from us with a", "start": 764.079, "duration": 5.481}
+{"text": "$140,000 watch", "start": 766.56, "duration": 4.8}
+{"text": "wow", "start": 769.56, "duration": 4.92}
+{"text": "wow wow do you have to pinch yourself", "start": 771.36, "duration": 6.919}
+{"text": "sometimes all the time I had it worse", "start": 774.48, "duration": 6.2}
+{"text": "than a lot of people but I evolved I", "start": 778.279, "duration": 5.201}
+{"text": "matured I transitioned how's that feel", "start": 780.68, "duration": 5.04}
+{"text": "feels great it feels", "start": 783.48, "duration": 6.039}
+{"text": "earned you know it wasn't given for sure", "start": 785.72, "duration": 8.52}
+{"text": "it was earned which is good I like", "start": 789.519, "duration": 4.721}
+{"text": "that", "start": 796.88, "duration": 3.0}

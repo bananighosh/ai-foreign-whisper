@@ -1,0 +1,325 @@
+{"text": "you probably know David Byrne as a lead", "start": 4.74, "duration": 4.08}
+{"text": "singer and songwriter of Talking Heads", "start": 6.779, "duration": 4.261}
+{"text": "the hugely influential post-punk Rock", "start": 8.82, "duration": 5.22}
+{"text": "Band of the late 1970s and 80s they", "start": 11.04, "duration": 4.98}
+{"text": "broke up more than 30 years ago but", "start": 14.04, "duration": 3.84}
+{"text": "Byrne has been on his own eclectic", "start": 16.02, "duration": 4.019}
+{"text": "Journey ever since his artistic", "start": 17.88, "duration": 4.02}
+{"text": "Innovations have blurred the boundaries", "start": 20.039, "duration": 4.74}
+{"text": "of Music Theater and art he's won an", "start": 21.9, "duration": 5.82}
+{"text": "Oscar a Grammy and a Tony toured with", "start": 24.779, "duration": 4.621}
+{"text": "salsa singers collaborated with", "start": 27.72, "duration": 4.26}
+{"text": "neuroscientists made movies and this", "start": 29.4, "duration": 4.319}
+{"text": "summer his musical about the former", "start": 31.98, "duration": 3.599}
+{"text": "first lady of the Philippines Imelda", "start": 33.719, "duration": 4.02}
+{"text": "Marcos opens on Broadway", "start": 35.579, "duration": 4.8}
+{"text": "David Byrne is 71 and as we first told", "start": 37.739, "duration": 5.101}
+{"text": "you earlier this year he is as creative", "start": 40.379, "duration": 5.281}
+{"text": "energetic and unusual as he was when he", "start": 42.84, "duration": 5.76}
+{"text": "was 23 an art school dropout just", "start": 45.66, "duration": 4.919}
+{"text": "starting to perform on stage with his", "start": 48.6, "duration": 5.1}
+{"text": "friends as Talking Heads", "start": 50.579, "duration": 7.281}
+{"text": "the story will continue in a moment", "start": 53.7, "duration": 4.16}
+{"text": "the name of this band is Talking Heads", "start": 59.34, "duration": 5.1}
+{"text": "and the name of this song is psycho", "start": 62.399, "duration": 3.241}
+{"text": "killer", "start": 64.44, "duration": 3.48}
+{"text": "so I wanted to be very matter of fact", "start": 65.64, "duration": 4.08}
+{"text": "it's not like are we having fun tonight", "start": 67.92, "duration": 3.36}
+{"text": "yeah there's no there's none of that how", "start": 69.72, "duration": 2.939}
+{"text": "you do all doing how are you all doing", "start": 71.28, "duration": 4.159}
+{"text": "New York", "start": 72.659, "duration": 2.78}
+{"text": "something about", "start": 76.5, "duration": 5.06}
+{"text": "sometimes", "start": 78.9, "duration": 5.039}
+{"text": "this is one of David Byrne's first", "start": 81.56, "duration": 6.16}
+{"text": "performances it was 1975 at cbgb's a", "start": 83.939, "duration": 5.761}
+{"text": "legendary music Club where the Ramones", "start": 87.72, "duration": 4.38}
+{"text": "Patty Smith and Blondie were also just", "start": 89.7, "duration": 5.18}
+{"text": "getting started", "start": 92.1, "duration": 2.78}
+{"text": "Psycho Killer was only the second song", "start": 95.659, "duration": 4.96}
+{"text": "David Byrne had ever ridden and it was", "start": 98.159, "duration": 5.96}
+{"text": "Talking Heads first head", "start": 100.619, "duration": 5.721}
+{"text": "when you hear it now what do you think", "start": 104.119, "duration": 5.561}
+{"text": "I'm I'm glad I did it but I'm also glad", "start": 106.34, "duration": 7.12}
+{"text": "that I didn't stick with that as by oh", "start": 109.68, "duration": 6.36}
+{"text": "like oh this is working let's do more", "start": 113.46, "duration": 6.119}
+{"text": "like this I'm glad that I decided no now", "start": 116.04, "duration": 5.1}
+{"text": "you have to do things that are a little", "start": 119.579, "duration": 3.661}
+{"text": "more original musically", "start": 121.14, "duration": 8.459}
+{"text": "[Music]", "start": 123.24, "duration": 8.7}
+{"text": "exactly what he did along with Tina", "start": 129.599, "duration": 4.5}
+{"text": "Weymouth Chris Franz and Jerry Harrison", "start": 131.94, "duration": 4.68}
+{"text": "Talking Heads put out eight albums over", "start": 134.099, "duration": 5.72}
+{"text": "the next 13 years", "start": 136.62, "duration": 3.199}
+{"text": "they were edgy groundbreaking critically", "start": 142.8, "duration": 5.7}
+{"text": "acclaimed and a commercial hit", "start": 145.379, "duration": 6.601}
+{"text": "melting rock with funk disco afrobeat", "start": 148.5, "duration": 5.87}
+{"text": "and the avant-garde", "start": 151.98, "duration": 7.74}
+{"text": "[Music]", "start": 154.37, "duration": 7.69}
+{"text": "art in college and it showed in their", "start": 159.72, "duration": 4.2}
+{"text": "music videos which were in heavy", "start": 162.06, "duration": 3.28}
+{"text": "rotation on MTV", "start": 163.92, "duration": 2.99}
+{"text": "[Music]", "start": 165.34, "duration": 3.57}
+{"text": "[Applause]", "start": 166.91, "duration": 5.25}
+{"text": "[Music]", "start": 168.91, "duration": 3.25}
+{"text": "Bruce quirky movements and manner got", "start": 173.12, "duration": 5.86}
+{"text": "most of the attention famous", "start": 175.86, "duration": 4.62}
+{"text": "it was not always easy for the", "start": 178.98, "duration": 4.02}
+{"text": "introverted singer Dick Clark tried to", "start": 180.48, "duration": 4.56}
+{"text": "ask him about it on American Bandstand", "start": 183.0, "duration": 5.34}
+{"text": "in 1979. are you a shy person", "start": 185.04, "duration": 6.38}
+{"text": "I'd say so", "start": 188.34, "duration": 3.08}
+{"text": "it seems contradictory to a lot of", "start": 191.64, "duration": 6.42}
+{"text": "people the introvert who winds up on the", "start": 193.62, "duration": 6.02}
+{"text": "stage in front of thousands of people", "start": 198.06, "duration": 4.92}
+{"text": "performing and reaching Great Heights it", "start": 199.64, "duration": 5.739}
+{"text": "does seem contradictory but in", "start": 202.98, "duration": 5.759}
+{"text": "retrospect it makes perfect sense your", "start": 205.379, "duration": 6.541}
+{"text": "way of announcing Your Existence and", "start": 208.739, "duration": 5.401}
+{"text": "communicating your thoughts to people is", "start": 211.92, "duration": 3.84}
+{"text": "through performance and then I could", "start": 214.14, "duration": 4.26}
+{"text": "Retreat into my shell after that but I", "start": 215.76, "duration": 4.86}
+{"text": "had made myself known to these people", "start": 218.4, "duration": 3.66}
+{"text": "and what I was thinking what I was", "start": 220.62, "duration": 4.32}
+{"text": "feeling so when that's your only option", "start": 222.06, "duration": 4.739}
+{"text": "it's a lifesaver", "start": 224.94, "duration": 4.74}
+{"text": "David Byrne's shyness goes way back he", "start": 226.799, "duration": 4.681}
+{"text": "was born in Scotland but his family", "start": 229.68, "duration": 4.26}
+{"text": "moved to Baltimore when he was eight his", "start": 231.48, "duration": 4.619}
+{"text": "accent was so thick classmates could", "start": 233.94, "duration": 4.859}
+{"text": "barely understand him he was an outsider", "start": 236.099, "duration": 5.041}
+{"text": "happier making music at home in his", "start": 238.799, "duration": 3.961}
+{"text": "basement with a reel-to-reel tape", "start": 241.14, "duration": 3.54}
+{"text": "recorder than hanging out with other", "start": 242.76, "duration": 4.86}
+{"text": "kids my discomfort with kind of social", "start": 244.68, "duration": 5.46}
+{"text": "situations meant", "start": 247.62, "duration": 5.1}
+{"text": "as often happens I would focus intently", "start": 250.14, "duration": 5.939}
+{"text": "on my drawings or learning to place", "start": 252.72, "duration": 6.72}
+{"text": "other people's songs or things like that", "start": 256.079, "duration": 5.641}
+{"text": "and that continued for ages and you'd", "start": 259.44, "duration": 5.88}
+{"text": "kind of ultra focused so that becomes a", "start": 261.72, "duration": 5.83}
+{"text": "well kind of superpower", "start": 265.32, "duration": 10.02}
+{"text": "[Music]", "start": 267.55, "duration": 10.67}
+{"text": "Ultra Focus may be a superpower but it", "start": 275.34, "duration": 4.62}
+{"text": "caused problems between burn and the", "start": 278.22, "duration": 5.039}
+{"text": "band that flared up on tour in 1983. you", "start": 279.96, "duration": 5.78}
+{"text": "may ask yourself", "start": 283.259, "duration": 2.481}
+{"text": "[Music]", "start": 285.76, "duration": 3.56}
+{"text": "kind of obsessive about getting that", "start": 286.919, "duration": 4.441}
+{"text": "show up and running", "start": 289.32, "duration": 3.72}
+{"text": "I might not have been the most pleasant", "start": 291.36, "duration": 3.24}
+{"text": "person to deal with at that point", "start": 293.04, "duration": 4.03}
+{"text": "demanding yes yes", "start": 294.6, "duration": 5.71}
+{"text": "[Music]", "start": 297.07, "duration": 3.24}
+{"text": "Fern commanded Center Stage famously", "start": 302.6, "duration": 5.97}
+{"text": "wearing this outrageously oversized suit", "start": 305.88, "duration": 5.759}
+{"text": "[Music]", "start": 308.57, "duration": 5.05}
+{"text": "the show was made into a film by", "start": 311.639, "duration": 3.901}
+{"text": "director Jonathan Demi called stop", "start": 313.62, "duration": 4.38}
+{"text": "making sense it's considered one of the", "start": 315.54, "duration": 4.43}
+{"text": "greatest concert movies ever", "start": 318.0, "duration": 7.919}
+{"text": "[Music]", "start": 319.97, "duration": 8.59}
+{"text": "Talking Heads made three more albums but", "start": 325.919, "duration": 4.741}
+{"text": "burn was increasingly branching out on", "start": 328.56, "duration": 5.1}
+{"text": "his own as I became more relaxed as a", "start": 330.66, "duration": 4.74}
+{"text": "person started writing different kinds", "start": 333.66, "duration": 3.12}
+{"text": "of songs", "start": 335.4, "duration": 3.359}
+{"text": "songs that maybe weren't quite as angst", "start": 336.78, "duration": 4.8}
+{"text": "written and peculiar some fans were", "start": 338.759, "duration": 5.521}
+{"text": "probably disappointed you know we liked", "start": 341.58, "duration": 5.16}
+{"text": "the the really quirky guy or we liked", "start": 344.28, "duration": 4.02}
+{"text": "the guy who was kind of really", "start": 346.74, "duration": 3.06}
+{"text": "struggling with himself and really", "start": 348.3, "duration": 4.14}
+{"text": "having a hard time and I thought why", "start": 349.8, "duration": 5.66}
+{"text": "would you wish that on me", "start": 352.44, "duration": 3.02}
+{"text": "for your own Amusement right", "start": 355.62, "duration": 5.44}
+{"text": "[Music]", "start": 357.96, "duration": 3.1}
+{"text": "in 1988 he founded a world music label", "start": 362.039, "duration": 5.66}
+{"text": "[Music]", "start": 366.24, "duration": 4.14}
+{"text": "then released an album of Latin songs", "start": 367.699, "duration": 4.901}
+{"text": "and wrote music for films dance", "start": 370.38, "duration": 5.099}
+{"text": "companies and experimental theater I", "start": 372.6, "duration": 5.099}
+{"text": "genuinely started having other kind of", "start": 375.479, "duration": 3.961}
+{"text": "musical interests you'd start to", "start": 377.699, "duration": 3.361}
+{"text": "collaborate with a lot of artists from", "start": 379.44, "duration": 4.02}
+{"text": "different genres yes and I thought I", "start": 381.06, "duration": 4.32}
+{"text": "want to do more of that and by then it", "start": 383.46, "duration": 3.06}
+{"text": "was", "start": 385.38, "duration": 2.7}
+{"text": "pretty much over", "start": 386.52, "duration": 3.42}
+{"text": "there was never an official announcement", "start": 388.08, "duration": 3.72}
+{"text": "but eventually Byrne made an offhand", "start": 389.94, "duration": 4.02}
+{"text": "comment to a reporter that Talking Heads", "start": 391.8, "duration": 4.8}
+{"text": "had broken up he neglected it seems to", "start": 393.96, "duration": 5.1}
+{"text": "tell the band members of the band said", "start": 396.6, "duration": 3.96}
+{"text": "that you never actually talked to them", "start": 399.06, "duration": 3.419}
+{"text": "and said that the ban was over that they", "start": 400.56, "duration": 3.9}
+{"text": "read about it in her newspaper I don't", "start": 402.479, "duration": 4.021}
+{"text": "know if that's the case but well it", "start": 404.46, "duration": 4.14}
+{"text": "might be I think it is very possible", "start": 406.5, "duration": 4.319}
+{"text": "that I did not handle it as best as I", "start": 408.6, "duration": 3.78}
+{"text": "could", "start": 410.819, "duration": 4.801}
+{"text": "[Music]", "start": 412.38, "duration": 6.0}
+{"text": "burn never looked back and he's followed", "start": 415.62, "duration": 5.04}
+{"text": "his own beat ever since no matter how", "start": 418.38, "duration": 4.7}
+{"text": "offbeat it may be", "start": 420.66, "duration": 5.879}
+{"text": "ten years ago burn staged a pop Opera in", "start": 423.08, "duration": 5.86}
+{"text": "collaboration with Fat Boy Slim called", "start": 426.539, "duration": 5.16}
+{"text": "here lies love it's about of all people", "start": 428.94, "duration": 5.34}
+{"text": "Imelda Marcos the wife of the former", "start": 431.699, "duration": 4.681}
+{"text": "dictator of the Philippines it's now", "start": 434.28, "duration": 3.9}
+{"text": "scheduled to open on Broadway this", "start": 436.38, "duration": 3.96}
+{"text": "summer", "start": 438.18, "duration": 4.5}
+{"text": "very cool", "start": 440.34, "duration": 4.259}
+{"text": "when he became fascinated with high", "start": 442.68, "duration": 4.859}
+{"text": "school color guard teams in 2015 he", "start": 444.599, "duration": 5.401}
+{"text": "wound up staging Arena shows combining", "start": 447.539, "duration": 4.981}
+{"text": "the team's flag spinning weapon tossing", "start": 450.0, "duration": 4.74}
+{"text": "and dance to the pop music of Nelly", "start": 452.52, "duration": 4.92}
+{"text": "Furtado and Saint Vincent I thought oh", "start": 454.74, "duration": 4.679}
+{"text": "this is just going to be highlighting", "start": 457.44, "duration": 4.199}
+{"text": "their talent and putting people together", "start": 459.419, "duration": 4.381}
+{"text": "who would never normally be together and", "start": 461.639, "duration": 4.021}
+{"text": "it wasn't until I saw the show and I", "start": 463.8, "duration": 4.2}
+{"text": "realized this is not about this at all", "start": 465.66, "duration": 4.439}
+{"text": "what it's really delivering is this", "start": 468.0, "duration": 4.38}
+{"text": "message about inclusion that's what this", "start": 470.099, "duration": 4.261}
+{"text": "is about they kind of revealed it but", "start": 472.38, "duration": 3.599}
+{"text": "isn't that extraordinary that you can", "start": 474.36, "duration": 3.42}
+{"text": "start doing something with one thing in", "start": 475.979, "duration": 5.101}
+{"text": "mind and yet it it has a life of its own", "start": 477.78, "duration": 5.18}
+{"text": "I trust", "start": 481.08, "duration": 4.2}
+{"text": "what I do and what other people do that", "start": 482.96, "duration": 4.12}
+{"text": "way that it's going to deliver what it", "start": 485.28, "duration": 4.859}
+{"text": "wants to say but someone else looking at", "start": 487.08, "duration": 4.8}
+{"text": "it could go what are you talking about", "start": 490.139, "duration": 3.481}
+{"text": "you don't know what you're doing you", "start": 491.88, "duration": 3.539}
+{"text": "don't know why you're doing it you don't", "start": 493.62, "duration": 3.54}
+{"text": "know where it's going to end up well I", "start": 495.419, "duration": 4.261}
+{"text": "just kind of trust it yeah", "start": 497.16, "duration": 4.56}
+{"text": "he is a small studio in his New York", "start": 499.68, "duration": 3.9}
+{"text": "City Apartment where he Tinkers with", "start": 501.72, "duration": 4.259}
+{"text": "lyrics and new ideas much like he did", "start": 503.58, "duration": 4.26}
+{"text": "all those years ago in his parents", "start": 505.979, "duration": 4.801}
+{"text": "basement first stands it sounds like it", "start": 507.84, "duration": 4.619}
+{"text": "might be promising do you stop and kind", "start": 510.78, "duration": 3.179}
+{"text": "of ruminate on things and come back to", "start": 512.459, "duration": 3.361}
+{"text": "it and yeah I might see if I get her", "start": 513.959, "duration": 4.2}
+{"text": "like a chorus or something I might try", "start": 515.82, "duration": 4.159}
+{"text": "like a chorus", "start": 518.159, "duration": 5.94}
+{"text": "stood by me when darkness fell my", "start": 519.979, "duration": 8.561}
+{"text": "apartment is my friends", "start": 524.099, "duration": 6.541}
+{"text": "that's the key line so that's got to be", "start": 528.54, "duration": 4.14}
+{"text": "pretty good", "start": 530.64, "duration": 4.379}
+{"text": "burn is the quintessential New Yorker", "start": 532.68, "duration": 4.68}
+{"text": "he's lived in the city for five decades", "start": 535.019, "duration": 4.26}
+{"text": "and it's not uncommon to see him", "start": 537.36, "duration": 4.979}
+{"text": "pedaling around on his bicycle he is it", "start": 539.279, "duration": 5.041}
+{"text": "seems always on the Move always", "start": 542.339, "duration": 5.881}
+{"text": "exploring oh yeah his downtown office is", "start": 544.32, "duration": 5.82}
+{"text": "lined with books records and odd", "start": 548.22, "duration": 3.78}
+{"text": "mementos he's picked up here and there", "start": 550.14, "duration": 4.92}
+{"text": "this wonderful wine for Turkmenistan", "start": 552.0, "duration": 5.519}
+{"text": "hidden amid the Clutter there's a Grammy", "start": 555.06, "duration": 5.219}
+{"text": "and his 1988 Oscar for composing the", "start": 557.519, "duration": 4.981}
+{"text": "soundtrack for the film The Last Emperor", "start": 560.279, "duration": 4.141}
+{"text": "it's not on the lowest shelf I mean", "start": 562.5, "duration": 4.32}
+{"text": "David really does the academy know about", "start": 564.42, "duration": 4.56}
+{"text": "this you know when you go into", "start": 566.82, "duration": 3.6}
+{"text": "somebody's office and they have all", "start": 568.98, "duration": 4.02}
+{"text": "their Awards yes it's a whole framed all", "start": 570.42, "duration": 4.26}
+{"text": "around them or magazine covers you don't", "start": 573.0, "duration": 4.5}
+{"text": "have an ego wall oh yeah his office is", "start": 574.68, "duration": 5.099}
+{"text": "where he runs reasons to be cheerful oh", "start": 577.5, "duration": 4.38}
+{"text": "that could be nice online magazine", "start": 579.779, "duration": 3.961}
+{"text": "highlighting Creative Solutions to", "start": 581.88, "duration": 4.139}
+{"text": "complex problems from Reinventing food", "start": 583.74, "duration": 4.26}
+{"text": "banks in Chicago to Turning French", "start": 586.019, "duration": 4.44}
+{"text": "parking lots into solar Farms so are", "start": 588.0, "duration": 4.68}
+{"text": "there reasons to be cheerful oh yeah", "start": 590.459, "duration": 4.021}
+{"text": "yeah yeah if you get up in the morning", "start": 592.68, "duration": 3.36}
+{"text": "and start Doom scrolling through your", "start": 594.48, "duration": 4.02}
+{"text": "phone or your tablet or laptop or", "start": 596.04, "duration": 3.6}
+{"text": "whatever you're going to think no no no", "start": 598.5, "duration": 3.6}
+{"text": "no no world's going to hell on a hand", "start": 599.64, "duration": 6.12}
+{"text": "basket but uh there are people and", "start": 602.1, "duration": 5.94}
+{"text": "places organizations doing things that", "start": 605.76, "duration": 5.1}
+{"text": "are really making a difference finding", "start": 608.04, "duration": 4.799}
+{"text": "solutions to things", "start": 610.86, "duration": 3.72}
+{"text": "who am I", "start": 612.839, "duration": 3.44}
+{"text": "what do I want", "start": 614.58, "duration": 5.58}
+{"text": "how do I work this that optimism infused", "start": 616.279, "duration": 6.281}
+{"text": "a hit Broadway showburn created and", "start": 620.16, "duration": 5.75}
+{"text": "starred in called American Utopia", "start": 622.56, "duration": 5.219}
+{"text": "[Music]", "start": 625.91, "duration": 3.67}
+{"text": "it's actually like the performance", "start": 627.779, "duration": 4.261}
+{"text": "branch of reasons to be cheerful this is", "start": 629.58, "duration": 4.68}
+{"text": "really about Hope and possibility and", "start": 632.04, "duration": 3.0}
+{"text": "what", "start": 634.26, "duration": 3.69}
+{"text": "how we can work together as people", "start": 635.04, "duration": 6.28}
+{"text": "[Music]", "start": 637.95, "duration": 3.92}
+{"text": "[Applause]", "start": 641.32, "duration": 3.16}
+{"text": "[Music]", "start": 641.87, "duration": 7.529}
+{"text": "we mixed his old songs with new ones", "start": 644.48, "duration": 4.919}
+{"text": "Fern wanted the musicians to be", "start": 653.24, "duration": 4.04}
+{"text": "completely untethered", "start": 655.56, "duration": 4.84}
+{"text": "[Music]", "start": 657.28, "duration": 3.12}
+{"text": "be around the stage it was less a", "start": 660.899, "duration": 6.201}
+{"text": "Broadway musical more a raucous Revival", "start": 663.18, "duration": 7.26}
+{"text": "[Music]", "start": 667.1, "duration": 6.679}
+{"text": "[Applause]", "start": 670.44, "duration": 3.339}
+{"text": "when music like that is all around you", "start": 675.72, "duration": 3.96}
+{"text": "when there's a whole group of people who", "start": 677.7, "duration": 4.44}
+{"text": "are making the music", "start": 679.68, "duration": 4.62}
+{"text": "it's not just like one soloist or", "start": 682.14, "duration": 3.9}
+{"text": "something like that it's this Collective", "start": 684.3, "duration": 5.539}
+{"text": "thing that gives it this extra energy", "start": 686.04, "duration": 3.799}
+{"text": "[Applause]", "start": 690.26, "duration": 5.539}
+{"text": "Burns latest theatrical experience may", "start": 696.62, "duration": 5.14}
+{"text": "be his most unusual yet", "start": 699.36, "duration": 4.44}
+{"text": "it's an interactive journey into his", "start": 701.76, "duration": 4.68}
+{"text": "past called theater of the Mind produced", "start": 703.8, "duration": 4.2}
+{"text": "in collaboration with the Denver Center", "start": 706.44, "duration": 3.48}
+{"text": "for Performing Arts", "start": 708.0, "duration": 4.44}
+{"text": "audience members get random name tags", "start": 709.92, "duration": 4.5}
+{"text": "and are LED on a semi-autobiographical", "start": 712.44, "duration": 4.98}
+{"text": "tour of burns memories like this outer", "start": 714.42, "duration": 5.4}
+{"text": "proportioned kitchen makes anyone in it", "start": 717.42, "duration": 5.58}
+{"text": "feel like a child do this with me hold", "start": 719.82, "duration": 5.519}
+{"text": "your hand in front of your face the show", "start": 723.0, "duration": 4.68}
+{"text": "is full of surprises the audience takes", "start": 725.339, "duration": 4.021}
+{"text": "part in some of them based on", "start": 727.68, "duration": 4.44}
+{"text": "Neuroscience experiments we agreed not", "start": 729.36, "duration": 4.44}
+{"text": "to give them away but they make you", "start": 732.12, "duration": 4.02}
+{"text": "question your own perception and perhaps", "start": 733.8, "duration": 6.659}
+{"text": "your memories it is dark in here you", "start": 736.14, "duration": 6.06}
+{"text": "know theater of the Mind ends in a", "start": 740.459, "duration": 4.62}
+{"text": "replica of his parents attic like Burn's", "start": 742.2, "duration": 5.28}
+{"text": "life the show tells a story about how", "start": 745.079, "duration": 4.981}
+{"text": "over time our identities are malleable", "start": 747.48, "duration": 5.099}
+{"text": "and how we all have the capacity to", "start": 750.06, "duration": 5.64}
+{"text": "change we're never stuck", "start": 752.579, "duration": 6.901}
+{"text": "you can change the story anytime", "start": 755.7, "duration": 6.6}
+{"text": "isn't that nice I like that idea that", "start": 759.48, "duration": 5.22}
+{"text": "you can change your story you can change", "start": 762.3, "duration": 4.14}
+{"text": "the narrative it would be a horrible", "start": 764.7, "duration": 3.6}
+{"text": "world if people never changed for their", "start": 766.44, "duration": 4.56}
+{"text": "entire life or they were", "start": 768.3, "duration": 4.92}
+{"text": "they're an angry person or an upset", "start": 771.0, "duration": 4.139}
+{"text": "person or depressed person and it's like", "start": 773.22, "duration": 4.08}
+{"text": "that's your fate but that's not true do", "start": 775.139, "duration": 3.721}
+{"text": "you think you've changed that much I", "start": 777.3, "duration": 3.719}
+{"text": "feel like yeah I'm a very different", "start": 778.86, "duration": 4.32}
+{"text": "person than I was when I was young were", "start": 781.019, "duration": 4.32}
+{"text": "you conscious of of those changes", "start": 783.18, "duration": 4.92}
+{"text": "sometimes my friends would say", "start": 785.339, "duration": 4.62}
+{"text": "you're really different than what you", "start": 788.1, "duration": 3.72}
+{"text": "used to be when I first met you", "start": 789.959, "duration": 3.961}
+{"text": "you're a really different person now by", "start": 791.82, "duration": 3.36}
+{"text": "the way were they saying that in a nice", "start": 793.92, "duration": 3.9}
+{"text": "way or was that being yelled out of the", "start": 795.18, "duration": 5.64}
+{"text": "top of their lungs it was a nice way it", "start": 797.82, "duration": 7.22}
+{"text": "was like wow you've really changed", "start": 800.82, "duration": 4.22}
+{"text": "the stories behind hit songs from", "start": 807.24, "duration": 5.219}
+{"text": "Talking Heads it was inspired by Alice", "start": 809.76, "duration": 5.16}
+{"text": "Cooper and Randy Newman at 60 minutes", "start": 812.459, "duration": 4.38}
+{"text": "overtime.com", "start": 814.92, "duration": 4.4}
+{"text": "Circle", "start": 816.839, "duration": 2.481}
