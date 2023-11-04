@@ -1,0 +1,118 @@
+##### Output Logs: ######
+
+
+banani@Bananis-MBP AI-project % /usr/bin/python3 /Users/banani/Documents/NYU/workpace/python_projects/Fall2023/Projects/AI/AI-project/download_vi
+deo_captions.py
+Getting the first 10 users in the domain
+In captions Pink: The 60 Minutes Interview
+Captions saved for Pink: The 60 Minutes Interview
+In captions President Joe Biden: The 2023 60 Minutes Interview
+Error fetching captions for President Joe Biden: The 2023 60 Minutes Interview: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=d403nALfQrE! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+In captions Rich Paul: The 60 Minutes Interview
+Captions saved for Rich Paul: The 60 Minutes Interview
+In captions "Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview
+Captions saved for "Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview
+In captions Gen. Mark Milley: The 60 Minutes Interview
+Captions saved for Gen. Mark Milley: The 60 Minutes Interview
+In captions Attorney General Merrick Garland: The 60 Minutes Interview
+Captions saved for Attorney General Merrick Garland: The 60 Minutes Interview
+In captions Private video
+Error fetching captions for Private video: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=UvjRmweL_ls! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+In captions Deion Sanders: The 2023 60 Minutes Interview
+Captions saved for Deion Sanders: The 2023 60 Minutes Interview
+In captions Volodymyr Zelenskyy: The 2023 60 Minutes Interview
+Captions saved for Volodymyr Zelenskyy: The 2023 60 Minutes Interview
+In captions Denzel Washington | 60 Minutes Archive
+Captions saved for Denzel Washington | 60 Minutes Archive
+banani@Bananis-MBP AI-project % /usr/bin/python3 /Users/banani/Documents/NYU/workpace/python_projects/Fall2023/Projects/AI/AI-project/download_vi
+deo_captions.py
+Getting the first 10 users in the domain
+In captions Pink: The 60 Minutes Interview
+Captions saved for Pink: The 60 Minutes Interview
+In captions President Joe Biden: The 2023 60 Minutes Interview
+Error fetching captions for President Joe Biden: The 2023 60 Minutes Interview: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=d403nALfQrE! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+In captions Rich Paul: The 60 Minutes Interview
+Captions saved for Rich Paul: The 60 Minutes Interview
+In captions "Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview
+Captions saved for "Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview
+In captions Gen. Mark Milley: The 60 Minutes Interview
+Captions saved for Gen. Mark Milley: The 60 Minutes Interview
+In captions Attorney General Merrick Garland: The 60 Minutes Interview
+Captions saved for Attorney General Merrick Garland: The 60 Minutes Interview
+In captions Private video
+Error fetching captions for Private video: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=UvjRmweL_ls! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+In captions Deion Sanders: The 2023 60 Minutes Interview
+Captions saved for Deion Sanders: The 2023 60 Minutes Interview
+In captions Volodymyr Zelenskyy: The 2023 60 Minutes Interview
+Captions saved for Volodymyr Zelenskyy: The 2023 60 Minutes Interview
+In captions Denzel Washington | 60 Minutes Archive
+Captions saved for Denzel Washington | 60 Minutes Archive
+In captions World Number 1 Pool Player Shane Van Boening: The 60 Minutes Interview
+Captions saved for World Number 1 Pool Player Shane Van Boening: The 60 Minutes Interview
+In captions Yannick Nézet-Séguin: The 60 Minutes Interview
+Captions saved for Yannick Nézet-Séguin: The 60 Minutes Interview
+In captions Private video
+Error fetching captions for Private video: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=T8VvQcd3dMs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+banani@Bananis-MBP AI-project % /usr/bin/python3 /Users/banani/Documents/NYU/workpace/python_projects/Fall2023/Projects/AI/AI-project/download_vi
+deo_captions.py
+Getting the first 10 users in the domain
+In captions Pink: The 60 Minutes Interview
+Captions saved for Pink: The 60 Minutes Interview
+In captions President Joe Biden: The 2023 60 Minutes Interview
+Error fetching captions for President Joe Biden: The 2023 60 Minutes Interview: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=d403nALfQrE! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+In captions Rich Paul: The 60 Minutes Interview
+Captions saved for Rich Paul: The 60 Minutes Interview
+In captions "Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview
+Captions saved for "Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview
+In captions Gen. Mark Milley: The 60 Minutes Interview
+Captions saved for Gen. Mark Milley: The 60 Minutes Interview
+In captions Attorney General Merrick Garland: The 60 Minutes Interview
+Captions saved for Attorney General Merrick Garland: The 60 Minutes Interview
+In captions Private video
+Error fetching captions for Private video: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=UvjRmweL_ls! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+In captions Deion Sanders: The 2023 60 Minutes Interview
+Captions saved for Deion Sanders: The 2023 60 Minutes Interview
+In captions Volodymyr Zelenskyy: The 2023 60 Minutes Interview
+Captions saved for Volodymyr Zelenskyy: The 2023 60 Minutes Interview
+In captions Denzel Washington | 60 Minutes Archive
+Captions saved for Denzel Washington | 60 Minutes Archive
+In captions World Number 1 Pool Player Shane Van Boening: The 60 Minutes Interview
+Captions saved for World Number 1 Pool Player Shane Van Boening: The 60 Minutes Interview
+In captions Yannick Nézet-Séguin: The 60 Minutes Interview
+Captions saved for Yannick Nézet-Séguin: The 60 Minutes Interview
+banani@Bananis-MBP AI-project % 
