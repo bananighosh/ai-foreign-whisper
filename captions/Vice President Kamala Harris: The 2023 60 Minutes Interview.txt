@@ -1,0 +1,283 @@
+{"text": "Israel has begun what prime minister", "start": 1.68, "duration": 4.36}
+{"text": "Benjamin Netanyahu calls the second", "start": 3.8, "duration": 4.719}
+{"text": "stage of the war by expanding its", "start": 6.04, "duration": 5.519}
+{"text": "military ground operations in Gaza we", "start": 8.519, "duration": 5.24}
+{"text": "spoke with vice president kamla Harris", "start": 11.559, "duration": 4.0}
+{"text": "this past week as the Biden", "start": 13.759, "duration": 3.801}
+{"text": "Administration was trying to balance", "start": 15.559, "duration": 4.96}
+{"text": "Israel's need to retaliate against Hamas", "start": 17.56, "duration": 5.16}
+{"text": "with the urgent need to get relief to", "start": 20.519, "duration": 4.961}
+{"text": "the Palestinian people vice president", "start": 22.72, "duration": 5.24}
+{"text": "Harris told us she is also involved in", "start": 25.48, "duration": 4.639}
+{"text": "the administration's efforts on the war", "start": 27.96, "duration": 4.319}
+{"text": "in Ukraine as well as countless", "start": 30.119, "duration": 4.28}
+{"text": "intractable problems including gun", "start": 32.279, "duration": 4.8}
+{"text": "violence at home but with the Middle", "start": 34.399, "duration": 5.601}
+{"text": "East on a Razor's Edge we started our", "start": 37.079, "duration": 5.041}
+{"text": "conversation", "start": 40.0, "duration": 7.039}
+{"text": "there the story will continue in a", "start": 42.12, "duration": 4.919}
+{"text": "moment how close is this to becoming a", "start": 47.399, "duration": 6.16}
+{"text": "regional conflict that could draw in US", "start": 50.559, "duration": 6.64}
+{"text": "troops we have absolutely no intention", "start": 53.559, "duration": 7.121}
+{"text": "nor do we have any plans to send", "start": 57.199, "duration": 8.0}
+{"text": "combat troops into Israel or Gaza period", "start": 60.68, "duration": 6.64}
+{"text": "vice president Harris told us the US is", "start": 65.199, "duration": 4.6}
+{"text": "not telling Israel what to do but is", "start": 67.32, "duration": 4.64}
+{"text": "providing advice equipment and", "start": 69.799, "duration": 4.801}
+{"text": "diplomatic support a terrorist", "start": 71.96, "duration": 5.76}
+{"text": "organization Hamas", "start": 74.6, "duration": 5.92}
+{"text": "slaughtered hundreds of young people at", "start": 77.72, "duration": 6.32}
+{"text": "a concert by most estimates at least,", "start": 80.52, "duration": 8.08}
+{"text": "1400 Israelis are dead Israel without", "start": 84.04, "duration": 6.119}
+{"text": "any question has a right to defend", "start": 88.6, "duration": 4.68}
+{"text": "itself that being said it is very", "start": 90.159, "duration": 6.761}
+{"text": "important that there be no conflation", "start": 93.28, "duration": 6.68}
+{"text": "between Hamas and the Palestinians the", "start": 96.92, "duration": 4.6}
+{"text": "Palestinians", "start": 99.96, "duration": 5.32}
+{"text": "deserve equal measures of Safety and", "start": 101.52, "duration": 7.08}
+{"text": "Security self-determination and dignity", "start": 105.28, "duration": 5.199}
+{"text": "and we have been very clear that the", "start": 108.6, "duration": 7.159}
+{"text": "rules of war must be adhered to and that", "start": 110.479, "duration": 7.96}
+{"text": "there be human humanitarian Aid that", "start": 115.759, "duration": 5.68}
+{"text": "flows she told told us the US wants to", "start": 118.439, "duration": 5.32}
+{"text": "keep the conflict from escalating but", "start": 121.439, "duration": 4.841}
+{"text": "that's proving difficult in the last two", "start": 123.759, "duration": 4.881}
+{"text": "weeks Hezbollah in lebanan and the", "start": 126.28, "duration": 5.48}
+{"text": "houthis in Yemen both proxies of Iran", "start": 128.64, "duration": 5.0}
+{"text": "have launched missiles rockets and", "start": 131.76, "duration": 5.0}
+{"text": "drones against Israel and Iranian backed", "start": 133.64, "duration": 5.599}
+{"text": "militias have fired on US troops", "start": 136.76, "duration": 6.16}
+{"text": "stationed in Iraq and Syria in response", "start": 139.239, "duration": 5.681}
+{"text": "the US launched air strikes against", "start": 142.92, "duration": 5.36}
+{"text": "Iranian weapons facilities in Syria if", "start": 144.92, "duration": 5.28}
+{"text": "that weren't enough of a signal to Iran", "start": 148.28, "duration": 4.4}
+{"text": "and other adversaries the Pentagon has", "start": 150.2, "duration": 5.119}
+{"text": "also deployed two imposing aircraft", "start": 152.68, "duration": 5.44}
+{"text": "carrier strike groups to the region and", "start": 155.319, "duration": 5.121}
+{"text": "what's the message to Iran", "start": 158.12, "duration": 5.64}
+{"text": "don't as President Biden said just don't", "start": 160.44, "duration": 7.439}
+{"text": "exactly one word pretty", "start": 163.76, "duration": 6.36}
+{"text": "straightforward since the Hamas attack", "start": 167.879, "duration": 5.121}
+{"text": "on Israel the Vice President says she", "start": 170.12, "duration": 5.199}
+{"text": "has spoken with President Isaac Herzog", "start": 173.0, "duration": 5.04}
+{"text": "of Israel and joined President Biden on", "start": 175.319, "duration": 4.721}
+{"text": "calls with prime minister Benjamin", "start": 178.04, "duration": 4.68}
+{"text": "Netanyahu and Palestinian Authority", "start": 180.04, "duration": 5.68}
+{"text": "president Mahmud abas President Joe", "start": 182.72, "duration": 5.68}
+{"text": "Biden told us in a statement this is as", "start": 185.72, "duration": 5.28}
+{"text": "high stakes and complex a situation as", "start": 188.4, "duration": 5.68}
+{"text": "it gets and kamla is my partner in all", "start": 191.0, "duration": 6.319}
+{"text": "of it he told us Harris's advice and", "start": 194.08, "duration": 5.04}
+{"text": "counsel are", "start": 197.319, "duration": 5.361}
+{"text": "invaluable when he was vice president Mr", "start": 199.12, "duration": 6.6}
+{"text": "Biden famously said that he wanted to be", "start": 202.68, "duration": 5.119}
+{"text": "the last person in the room with", "start": 205.72, "duration": 5.28}
+{"text": "President Obama do you have that", "start": 207.799, "duration": 6.961}
+{"text": "relationship with President Biden I do", "start": 211.0, "duration": 8.0}
+{"text": "you do I do and um and I take that", "start": 214.76, "duration": 6.119}
+{"text": "responsibility quite seriously how often", "start": 219.0, "duration": 4.04}
+{"text": "do you meet with him multiple times a", "start": 220.879, "duration": 4.28}
+{"text": "day quite often unless he or I are", "start": 223.04, "duration": 4.839}
+{"text": "traveling they're in total agreement the", "start": 225.159, "duration": 5.8}
+{"text": "US must stand with Israel and Ukraine", "start": 227.879, "duration": 6.92}
+{"text": "two democracies under attack we", "start": 230.959, "duration": 6.041}
+{"text": "are as", "start": 234.799, "duration": 4.601}
+{"text": "committed to Ukraine as we've always", "start": 237.0, "duration": 3.879}
+{"text": "been to", "start": 239.4, "duration": 4.199}
+{"text": "authorize additional Aid to defend", "start": 240.879, "duration": 5.241}
+{"text": "itself against Russia's unprovoked", "start": 243.599, "duration": 4.92}
+{"text": "aggression that is not going to waver", "start": 246.12, "duration": 4.88}
+{"text": "does this war in the Middle East put", "start": 248.519, "duration": 5.201}
+{"text": "Ukraine on a back burner not for us no", "start": 251.0, "duration": 4.319}
+{"text": "it does not put us put them on a back", "start": 253.72, "duration": 3.12}
+{"text": "burner at", "start": 255.319, "duration": 4.961}
+{"text": "all vice president Harris has visited 19", "start": 256.84, "duration": 6.0}
+{"text": "countries and met with more than 100", "start": 260.28, "duration": 3.56}
+{"text": "world", "start": 262.84, "duration": 3.52}
+{"text": "leaders but lately she has been the", "start": 263.84, "duration": 4.44}
+{"text": "administration's Point person on", "start": 266.36, "duration": 4.279}
+{"text": "domestic priorities traveling the", "start": 268.28, "duration": 4.68}
+{"text": "country talking up the Democrats key", "start": 270.639, "duration": 5.801}
+{"text": "issues before the 2024 election issues", "start": 272.96, "duration": 6.2}
+{"text": "she hopes will fire up the base but are", "start": 276.44, "duration": 5.28}
+{"text": "bound to inflame the", "start": 279.16, "duration": 5.72}
+{"text": "GOP she went to North Carolina to Mark", "start": 281.72, "duration": 5.199}
+{"text": "the anniversary of the Supreme Court", "start": 284.88, "duration": 5.159}
+{"text": "overturning Ro v Wade how dare they", "start": 286.919, "duration": 6.041}
+{"text": "attack our fundamental", "start": 290.039, "duration": 6.841}
+{"text": "rights how dare they attack our freedom", "start": 292.96, "duration": 6.84}
+{"text": "in Virginia it was Guns our nation is", "start": 296.88, "duration": 6.92}
+{"text": "being torn apart by gun", "start": 299.8, "duration": 6.52}
+{"text": "violence we joined the vice president", "start": 303.8, "duration": 5.399}
+{"text": "and second gentleman Doug mhof on Air", "start": 306.32, "duration": 6.52}
+{"text": "Force 2 for a trip to Las Vegas it was 5", "start": 309.199, "duration": 6.921}
+{"text": "days after the terror attack on Israel", "start": 312.84, "duration": 5.4}
+{"text": "welcome on Bo thank", "start": 316.12, "duration": 5.0}
+{"text": "you while in the air the vice president", "start": 318.24, "duration": 5.04}
+{"text": "joined a secure video call with the", "start": 321.12, "duration": 4.28}
+{"text": "president and their national security", "start": 323.28, "duration": 4.6}
+{"text": "teams to discuss measures to keep the", "start": 325.4, "duration": 4.6}
+{"text": "Homeland safe", "start": 327.88, "duration": 4.599}
+{"text": "once on the ground in Las", "start": 330.0, "duration": 5.24}
+{"text": "Vegas vice president Harris went to the", "start": 332.479, "duration": 5.041}
+{"text": "College of Southern Nevada the eighth", "start": 335.24, "duration": 4.239}
+{"text": "stop on her fight for our freedoms", "start": 337.52, "duration": 5.959}
+{"text": "College Tour because you voted Joe Biden", "start": 339.479, "duration": 5.361}
+{"text": "is president of the United States and I", "start": 343.479, "duration": 4.601}
+{"text": "am Vice President of the United States", "start": 344.84, "duration": 6.639}
+{"text": "because you voted but nationally the", "start": 348.08, "duration": 5.64}
+{"text": "Biden Harris Administration is not", "start": 351.479, "duration": 4.84}
+{"text": "generating the kind of enthusiasm she's", "start": 353.72, "duration": 6.8}
+{"text": "seeing on her tour a recent CBS poll", "start": 356.319, "duration": 6.841}
+{"text": "found that at the beginning of President", "start": 360.52, "duration": 5.84}
+{"text": "Biden's term 70% of young people people", "start": 363.16, "duration": 6.2}
+{"text": "under 30 said he was doing a good job", "start": 366.36, "duration": 5.0}
+{"text": "now it's less than", "start": 369.36, "duration": 5.44}
+{"text": "50% why is that what's going on if you", "start": 371.36, "duration": 5.72}
+{"text": "pull how young people feel about the", "start": 374.8, "duration": 6.0}
+{"text": "climate and the warming of our planet it", "start": 377.08, "duration": 6.959}
+{"text": "pulls as one of their top concerns when", "start": 380.8, "duration": 4.92}
+{"text": "we talk about what we are doing with", "start": 384.039, "duration": 5.481}
+{"text": "student loan debt polls very high the", "start": 385.72, "duration": 4.8}
+{"text": "challenge that we have as an", "start": 389.52, "duration": 2.679}
+{"text": "Administration is we got to let people", "start": 390.52, "duration": 4.44}
+{"text": "know who BR it to them that's our", "start": 392.199, "duration": 5.521}
+{"text": "challenge but it is not that the work we", "start": 394.96, "duration": 6.239}
+{"text": "are doing is not very very popular with", "start": 397.72, "duration": 5.879}
+{"text": "a lot of people she blames the", "start": 401.199, "duration": 4.801}
+{"text": "disconnect in part on lack of media", "start": 403.599, "duration": 4.72}
+{"text": "coverage still the vice president", "start": 406.0, "duration": 6.36}
+{"text": "herself is not very popular now just 41%", "start": 408.319, "duration": 6.921}
+{"text": "of adults told CBS news they approve of", "start": 412.36, "duration": 5.48}
+{"text": "the job she's doing about the same for", "start": 415.24, "duration": 5.519}
+{"text": "President Biden we talked to her the day", "start": 417.84, "duration": 5.56}
+{"text": "before the Carnage in Maine but she had", "start": 420.759, "duration": 5.321}
+{"text": "told us issues like mass shootings are", "start": 423.4, "duration": 5.68}
+{"text": "more important than poll numbers you", "start": 426.08, "duration": 4.88}
+{"text": "have a portfolio that includes gun", "start": 429.08, "duration": 4.76}
+{"text": "violence the root cause of migration", "start": 430.96, "duration": 5.44}
+{"text": "these are some of the most intractable", "start": 433.84, "duration": 6.199}
+{"text": "issues facing the country we've done", "start": 436.4, "duration": 5.76}
+{"text": "some of the most significant gun safety", "start": 440.039, "duration": 4.761}
+{"text": "laws in 30 years but we still need an", "start": 442.16, "duration": 4.159}
+{"text": "assault weapons ban it doesn't have to", "start": 444.8, "duration": 3.399}
+{"text": "be this way there was an assault weapons", "start": 446.319, "duration": 5.0}
+{"text": "ban at one time it expired let's renew", "start": 448.199, "duration": 6.521}
+{"text": "it most Americans say that they don't", "start": 451.319, "duration": 6.121}
+{"text": "think you're doing a good job on the", "start": 454.72, "duration": 5.36}
+{"text": "border you and the administration the", "start": 457.44, "duration": 5.52}
+{"text": "number of people trying to cross the US", "start": 460.08, "duration": 6.119}
+{"text": "Southern border is at an all-time high", "start": 462.96, "duration": 7.919}
+{"text": "it's no secret that we have a broken", "start": 466.199, "duration": 7.761}
+{"text": "immigration system shortterm we need a", "start": 470.879, "duration": 7.401}
+{"text": "safe orderly and Humane border policy", "start": 473.96, "duration": 6.44}
+{"text": "and long-term we need to invest in the", "start": 478.28, "duration": 5.639}
+{"text": "root causes of migration but the bottom", "start": 480.4, "duration": 5.6}
+{"text": "line Congress needs to act come on", "start": 483.919, "duration": 4.041}
+{"text": "participate in the solution instead of", "start": 486.0, "duration": 5.039}
+{"text": "political gamesmanship if politics is a", "start": 487.96, "duration": 5.799}
+{"text": "game kamla Harris has proven herself to", "start": 491.039, "duration": 5.88}
+{"text": "be a Savvy player forging a career that", "start": 493.759, "duration": 6.801}
+{"text": "has gone from one first to another the", "start": 496.919, "duration": 5.96}
+{"text": "child of an Indian mother and a Jamaican", "start": 500.56, "duration": 4.759}
+{"text": "father she was the first woman district", "start": 502.879, "duration": 4.921}
+{"text": "attorney for San Francisco the first", "start": 505.319, "duration": 4.56}
+{"text": "woman to serve as California attorney", "start": 507.8, "duration": 4.919}
+{"text": "general the first woman of color elected", "start": 509.879, "duration": 5.801}
+{"text": "senator from California so help me God", "start": 512.719, "duration": 5.601}
+{"text": "and the first woman and woman of color", "start": 515.68, "duration": 5.0}
+{"text": "to be elected vice president of the", "start": 518.32, "duration": 4.76}
+{"text": "United States being in that unique", "start": 520.68, "duration": 5.68}
+{"text": "position being that first yeah does that", "start": 523.08, "duration": 6.64}
+{"text": "bring added pressure no doubt no doubt", "start": 526.36, "duration": 5.44}
+{"text": "you know my mother she would say KLA you", "start": 529.72, "duration": 4.48}
+{"text": "may be the first to do many things make", "start": 531.8, "duration": 4.0}
+{"text": "sure you're not the", "start": 534.2, "duration": 6.04}
+{"text": "last and among the", "start": 535.8, "duration": 7.039}
+{"text": "responsibilities that I carry and maybe", "start": 540.24, "duration": 5.56}
+{"text": "impose on myself that is one of them so", "start": 542.839, "duration": 5.24}
+{"text": "this was she showed us around the vice", "start": 545.8, "duration": 4.719}
+{"text": "president's ceremonial office I brought", "start": 548.079, "duration": 5.241}
+{"text": "in this bust of th Good Marshall uh and", "start": 550.519, "duration": 5.681}
+{"text": "I always have him over my right shoulder", "start": 553.32, "duration": 5.12}
+{"text": "in the drawer here the desk where", "start": 556.2, "duration": 4.199}
+{"text": "previous vice presidents left their", "start": 558.44, "duration": 7.0}
+{"text": "signatures alore Quail Cheney Harry", "start": 560.399, "duration": 7.56}
+{"text": "Truman some of these men went on to", "start": 565.44, "duration": 5.2}
+{"text": "become president but kamla Harris told", "start": 567.959, "duration": 5.201}
+{"text": "us she is focused on getting the Biden", "start": 570.64, "duration": 5.68}
+{"text": "Harris ticket reelected next year the", "start": 573.16, "duration": 6.359}
+{"text": "GOP is using her low poll numbers and", "start": 576.32, "duration": 6.4}
+{"text": "President Biden's age as a battering ram", "start": 579.519, "duration": 6.161}
+{"text": "and some Democrats are growing worried", "start": 582.72, "duration": 5.08}
+{"text": "we were talking to some democratic", "start": 585.68, "duration": 6.44}
+{"text": "donors and they have told us that should", "start": 587.8, "duration": 6.96}
+{"text": "something befall President Biden and he", "start": 592.12, "duration": 7.0}
+{"text": "is not able to run that there would be a", "start": 594.76, "duration": 8.12}
+{"text": "freefor all for who would run as", "start": 599.12, "duration": 7.0}
+{"text": "president you are in the spot that that", "start": 602.88, "duration": 5.16}
+{"text": "would be a natural for you to step up", "start": 606.12, "duration": 4.12}
+{"text": "but we're hearing from donors that they", "start": 608.04, "duration": 4.96}
+{"text": "would not naturally fall into line why", "start": 610.24, "duration": 5.76}
+{"text": "is that well first of all I'm not going", "start": 613.0, "duration": 4.92}
+{"text": "to engage in that hypothetical because", "start": 616.0, "duration": 4.399}
+{"text": "Joe Biden is very much alive and running", "start": 617.92, "duration": 4.8}
+{"text": "for re-election so you do know I mean", "start": 620.399, "duration": 5.521}
+{"text": "that is a concern and and a legitimate", "start": 622.72, "duration": 5.76}
+{"text": "concern I would say I hear from a lot of", "start": 625.92, "duration": 3.96}
+{"text": "different people a lot of different", "start": 628.48, "duration": 2.76}
+{"text": "things but let me just tell you I'm", "start": 629.88, "duration": 5.079}
+{"text": "focused on the job I truly am our", "start": 631.24, "duration": 7.24}
+{"text": "democracy is on the line bill and I", "start": 634.959, "duration": 6.281}
+{"text": "frankly in my head do not have time for", "start": 638.48, "duration": 5.24}
+{"text": "parlor games when we have a president", "start": 641.24, "duration": 5.24}
+{"text": "who is running for", "start": 643.72, "duration": 2.76}
+{"text": "reelection that's it Joe Biden", "start": 647.76, "duration": 6.319}
+{"text": "conventional wisdom is that most", "start": 652.04, "duration": 4.4}
+{"text": "presidential elections are won or lost", "start": 654.079, "duration": 5.32}
+{"text": "on the economy and while inflation has", "start": 656.44, "duration": 5.839}
+{"text": "been coming down prices for Basics like", "start": 659.399, "duration": 5.761}
+{"text": "food and shelter remain staggeringly", "start": 662.279, "duration": 5.321}
+{"text": "high we came into office during the", "start": 665.16, "duration": 6.16}
+{"text": "height of a pandemic record", "start": 667.6, "duration": 6.679}
+{"text": "unemployment and because of our economic", "start": 671.32, "duration": 6.639}
+{"text": "policies we now are reducing inflation", "start": 674.279, "duration": 6.601}
+{"text": "we have created over 14 million new jobs", "start": 677.959, "duration": 4.721}
+{"text": "we've created over 800,000 new", "start": 680.88, "duration": 5.639}
+{"text": "manufacturing jobs wages are up and so", "start": 682.68, "duration": 6.8}
+{"text": "we've seen great progress considering", "start": 686.519, "duration": 5.521}
+{"text": "what you are laying out as your", "start": 689.48, "duration": 5.32}
+{"text": "achievements you have the current front", "start": 692.04, "duration": 6.479}
+{"text": "runner for the GOP Donald Trump facing", "start": 694.8, "duration": 7.64}
+{"text": "what 91 criminal charges I've lost count", "start": 698.519, "duration": 7.481}
+{"text": "yet the Biden Harris ticket is running", "start": 702.44, "duration": 7.639}
+{"text": "neck and neck with Donald Trump why are", "start": 706.0, "duration": 7.24}
+{"text": "you not 30 points ahead well I'm not I'm", "start": 710.079, "duration": 5.601}
+{"text": "not a political pundit so I I I'm not", "start": 713.24, "duration": 4.44}
+{"text": "going to speak to that but what I will", "start": 715.68, "duration": 6.08}
+{"text": "say is this when the American people are", "start": 717.68, "duration": 7.279}
+{"text": "able to take a close look at election", "start": 721.76, "duration": 6.4}
+{"text": "time on their options I think the choice", "start": 724.959, "duration": 4.641}
+{"text": "is going to be clear Bill we're going to", "start": 728.16, "duration": 3.28}
+{"text": "win let me just tell you that we're", "start": 729.6, "duration": 2.799}
+{"text": "going to", "start": 731.44, "duration": 3.839}
+{"text": "win and I'm not saying it's going to be", "start": 732.399, "duration": 5.841}
+{"text": "easy but we will win you say that with", "start": 735.279, "duration": 5.56}
+{"text": "such conviction I have no doubt but I", "start": 738.24, "duration": 4.0}
+{"text": "also have no doubt it's going to be a", "start": 740.839, "duration": 4.041}
+{"text": "lot of work and everyone's going to have", "start": 742.24, "duration": 4.48}
+{"text": "to participate this is a", "start": 744.88, "duration": 5.0}
+{"text": "democracy democracy she said that word", "start": 746.72, "duration": 5.76}
+{"text": "often during our interview despite the", "start": 749.88, "duration": 5.36}
+{"text": "criticism and low poll numbers former", "start": 752.48, "duration": 5.64}
+{"text": "prosecutor kamla Harris told us she's", "start": 755.24, "duration": 5.2}
+{"text": "prepared to trust the verdict of the", "start": 758.12, "duration": 5.2}
+{"text": "American people do you have to ask", "start": 760.44, "duration": 5.639}
+{"text": "yourself why are people seeming not to", "start": 763.32, "duration": 7.12}
+{"text": "hear our message I look at it more as", "start": 766.079, "duration": 7.44}
+{"text": "let's keep getting out there and as with", "start": 770.44, "duration": 5.44}
+{"text": "any election we got to make our case to", "start": 773.519, "duration": 4.32}
+{"text": "the American people that's part of our", "start": 775.88, "duration": 4.28}
+{"text": "responsibility and that's this process", "start": 777.839, "duration": 6.641}
+{"text": "and that's what it is and that's a fair", "start": 780.16, "duration": 4.32}
+{"text": "process", "start": 786.88, "duration": 3.0}
