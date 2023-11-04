@@ -24,7 +24,8 @@ for video in p.videos:
 
     try:
         print(f"Downloading: {video.title} ...", end=" ")
-        video.streams.first().download(destination_folder)
+        (video.streams.filter(progressive=True, file_extension='mp4')
+         .order_by('resolution').desc().first().download(destination_folder))
     except AgeRestrictedError:
         print("Failed! Age restricted, skipping")
     else:
@@ -48,7 +49,7 @@ for video in p.videos:
             else:
                 with open(f"{pathlib.Path(captions_folder)/video.title}.txt", "w") as f:
                     f.write(captions.generate_srt_captions())
-        except Exceptions as e:
+        except Exception as e:
             print("Failed!")
             raise
         else:
