@@ -4,3 +4,7 @@ google-auth-oauthlib
 pytube
 youtube-transcript-api
 openai-whisper
+argostranslate
+pathlib
+translate
+PyMultiDictionary

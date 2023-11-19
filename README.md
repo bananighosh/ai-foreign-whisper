@@ -16,3 +16,9 @@ Use openAI/Whisper to convert video to text (transcribe video)
 
 console output
 ![Milestone2 console output](output_logs/milestone_2/milestone2_output.png)
+
+## Milestone 3
+Use python argostranslate (OpenNMT) to translate English transcriptions to Spanish
+
+console output
+![Milestone3 console output](output_logs/milestone_3/milestone3_output.png)
