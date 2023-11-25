@@ -22,3 +22,12 @@ Use python argostranslate (OpenNMT) to translate English transcriptions to Spani
 
 console output
 ![Milestone3 console output](output_logs/milestone_3/milestone3_output.png)
+
+## Milestone 4
+Use TTS to convert Spanish transcription to speech
+
+console output
+![Milestone4 console output](output_logs/milestone_4/console_output.png)
+
+Log:
+[Milestone4 log](output_logs/milestone_4/tts_es.log)
